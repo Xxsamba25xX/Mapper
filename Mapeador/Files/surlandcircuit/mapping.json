@@ -1,0 +1,1118 @@
+[
+  {
+    "ProviderElement": {
+      "Key": "PT||ALF",
+      "Value": "Albufeira"
+    },
+    "OurElements": [
+      {
+        "Key": "Albufeira",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "NO||ALD",
+      "Value": "Alesund"
+    },
+    "OurElements": [
+      {
+        "Key": "Alesund",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "IT||AMA",
+      "Value": "Amalfi"
+    },
+    "OurElements": [
+      {
+        "Key": "Amalfi",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "HL||AMS",
+      "Value": "Amsterdam"
+    },
+    "OurElements": [
+      {
+        "Key": "Amsterdam",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AN||AND",
+      "Value": "Andorra"
+    },
+    "OurElements": [
+      {
+        "Key": "Andorra",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "GR||ATH",
+      "Value": "Atenas"
+    },
+    "OurElements": [
+      {
+        "Key": "Atenas",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||BCN",
+      "Value": "Barcelona"
+    },
+    "OurElements": [
+      {
+        "Key": "Barcelona",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||BEJ",
+      "Value": "Beja"
+    },
+    "OurElements": [
+      {
+        "Key": "Beja",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "NO||BGO",
+      "Value": "Bergen"
+    },
+    "OurElements": [
+      {
+        "Key": "Bergen",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AL||BER",
+      "Value": "Berlin"
+    },
+    "OurElements": [
+      {
+        "Key": "Berlin",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||BIO",
+      "Value": "Bilbao"
+    },
+    "OurElements": [
+      {
+        "Key": "Bilbao",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||BRG",
+      "Value": "Braga"
+    },
+    "OurElements": [
+      {
+        "Key": "Braga",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||BGN",
+      "Value": "Bragan�a"
+    },
+    "OurElements": [
+      {
+        "Key": "Braganza",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "BE||BRJ",
+      "Value": "Brujas"
+    },
+    "OurElements": [
+      {
+        "Key": "Brujas",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "BE||BRU",
+      "Value": "Bruselas"
+    },
+    "OurElements": [
+      {
+        "Key": "Bruselas",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "HU||BUD",
+      "Value": "Budapest"
+    },
+    "OurElements": [
+      {
+        "Key": "Budapest",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FR||BRD",
+      "Value": "Burdeos"
+    },
+    "OurElements": [
+      {
+        "Key": "Burdeos",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||BUR",
+      "Value": "Burgos"
+    },
+    "OurElements": [
+      {
+        "Key": "Burgos",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FR||CFR",
+      "Value": "Caen"
+    },
+    "OurElements": [
+      {
+        "Key": "Caen",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||CHA",
+      "Value": "Chaves"
+    },
+    "OurElements": [
+      {
+        "Key": "Chaves",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||COI",
+      "Value": "Coimbra"
+    },
+    "OurElements": [
+      {
+        "Key": "Coimbra",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "DK||CPH",
+      "Value": "Copenhague"
+    },
+    "OurElements": [
+      {
+        "Key": "Copenhague",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PL||KRK",
+      "Value": "Cracovia"
+    },
+    "OurElements": [
+      {
+        "Key": "Cracovia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "IR||DUB",
+      "Value": "Dublin"
+    },
+    "OurElements": [
+      {
+        "Key": "Dublin",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "CR||DBV",
+      "Value": "Dubrovnik"
+    },
+    "OurElements": [
+      {
+        "Key": "Dubrovnik-Ragusa",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "TU||IZM",
+      "Value": "Esmirna"
+    },
+    "OurElements": [
+      {
+        "Key": "Esmirna",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "SU||STO",
+      "Value": "Estocolmo"
+    },
+    "OurElements": [
+      {
+        "Key": "Estocolmo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||EVO",
+      "Value": "Evora"
+    },
+    "OurElements": [
+      {
+        "Key": "Evora",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||FAT",
+      "Value": "Fatima"
+    },
+    "OurElements": [
+      {
+        "Key": "Fatima",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "NO||FID",
+      "Value": "Fiordos"
+    },
+    "OurElements": [
+      {
+        "Key": "Bergen",
+        "Value": ""
+      },
+      {
+        "Key": "Stranda",
+        "Value": ""
+      },
+      {
+        "Key": "Geiranger",
+        "Value": ""
+      },
+      {
+        "Key": "Balestrand",
+        "Value": ""
+      },
+      {
+        "Key": "Flam",
+        "Value": ""
+      },
+      {
+        "Key": "Gudvangen",
+        "Value": ""
+      },
+      {
+        "Key": "Skjolden",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "IT||FLR",
+      "Value": "Florencia"
+    },
+    "OurElements": [
+      {
+        "Key": "Florencia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AL||FRA",
+      "Value": "Frankfurt"
+    },
+    "OurElements": [
+      {
+        "Key": "Frankfurt Am Main",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AL||FRB",
+      "Value": "Friburgo"
+    },
+    "OurElements": [
+      {
+        "Key": "Friburgo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||GRX",
+      "Value": "Granada"
+    },
+    "OurElements": [
+      {
+        "Key": "Granada",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||GUI",
+      "Value": "Guimaraes"
+    },
+    "OurElements": [
+      {
+        "Key": "Guimaraes",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FI||HEL",
+      "Value": "Helsinki"
+    },
+    "OurElements": [
+      {
+        "Key": "Helsinki",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AU||INN",
+      "Value": "Innsbruck"
+    },
+    "OurElements": [
+      {
+        "Key": "Innsbruck",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||LMG",
+      "Value": "Lamego"
+    },
+    "OurElements": [
+      {
+        "Key": "Lamego",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||LIS",
+      "Value": "Lisboa"
+    },
+    "OurElements": [
+      {
+        "Key": "Lisboa",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "SI||LJU",
+      "Value": "Liubliana"
+    },
+    "OurElements": [
+      {
+        "Key": "Liubliana",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "IN||LON",
+      "Value": "Londres"
+    },
+    "OurElements": [
+      {
+        "Key": "Londres",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FR||LOU",
+      "Value": "Lourdes"
+    },
+    "OurElements": [
+      {
+        "Key": "Lourdes-Francia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||LRD",
+      "Value": "Lourdes"
+    },
+    "OurElements": [
+      {
+        "Key": "Lourdes-Francia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||MAD",
+      "Value": "Madrid"
+    },
+    "OurElements": [
+      {
+        "Key": "Madrid",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "GR||JMK",
+      "Value": "Mikonos"
+    },
+    "OurElements": [
+      {
+        "Key": "Mikonos",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "IT||MIL",
+      "Value": "Milan"
+    },
+    "OurElements": [
+      {
+        "Key": "Milan",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "RU||MOW",
+      "Value": "Moscu"
+    },
+    "OurElements": [
+      {
+        "Key": "Moscu",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FR||MLH",
+      "Value": "Mulhouse"
+    },
+    "OurElements": [
+      {
+        "Key": "Mulhouse",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AL||MUC",
+      "Value": "Munich"
+    },
+    "OurElements": [
+      {
+        "Key": "Munich",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||MUR",
+      "Value": "Murcia"
+    },
+    "OurElements": [
+      {
+        "Key": "Murcia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "GR||NAU",
+      "Value": "Nauplia"
+    },
+    "OurElements": [
+      {
+        "Key": "Nauplia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FR||NCE",
+      "Value": "Niza"
+    },
+    "OurElements": [
+      {
+        "Key": "Niza",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AL||NUR",
+      "Value": "Nuremberg"
+    },
+    "OurElements": [
+      {
+        "Key": "Nuremberg",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||OPO",
+      "Value": "Oporto"
+    },
+    "OurElements": [
+      {
+        "Key": "Oporto",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "NO||OSL",
+      "Value": "Oslo"
+    },
+    "OurElements": [
+      {
+        "Key": "Oslo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||OVI",
+      "Value": "Oviedo"
+    },
+    "OurElements": [
+      {
+        "Key": "Oviedo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||PNA",
+      "Value": "Pamplona"
+    },
+    "OurElements": [
+      {
+        "Key": "Pamplona",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FR||PAR",
+      "Value": "Paris"
+    },
+    "OurElements": [
+      {
+        "Key": "Paris",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||SAU",
+      "Value": "Penhas da Sa�de"
+    },
+    "OurElements": [
+      {
+        "Key": "Penhas Da Saude",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||REG",
+      "Value": "Peso da Regua"
+    },
+    "OurElements": [
+      {
+        "Key": "Regua",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "RC||PRG",
+      "Value": "Praga"
+    },
+    "OurElements": [
+      {
+        "Key": "Praga",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FR||REN",
+      "Value": "Rennes"
+    },
+    "OurElements": [
+      {
+        "Key": "Rennes",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "LE||RIG",
+      "Value": "Riga"
+    },
+    "OurElements": [
+      {
+        "Key": "Riga",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "GR||ROD",
+      "Value": "Rodas"
+    },
+    "OurElements": [
+      {
+        "Key": "Rodas",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "IT||ROM",
+      "Value": "Roma"
+    },
+    "OurElements": [
+      {
+        "Key": "Roma",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FR||URO",
+      "Value": "Rouen"
+    },
+    "OurElements": [
+      {
+        "Key": "Ruan",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||SLM",
+      "Value": "Salamanca"
+    },
+    "OurElements": [
+      {
+        "Key": "Salamanca",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "IT||QSR",
+      "Value": "Salerno"
+    },
+    "OurElements": [
+      {
+        "Key": "Salerno",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AU||SZG",
+      "Value": "Salzburgo"
+    },
+    "OurElements": [
+      {
+        "Key": "Salzburgo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "RU||SPT",
+      "Value": "San Petersburgo"
+    },
+    "OurElements": [
+      {
+        "Key": "San Petersburgo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||SCQ",
+      "Value": "Santiago de Compostela"
+    },
+    "OurElements": [
+      {
+        "Key": "Santiago De Compostela",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "GR||JTR",
+      "Value": "Santorini"
+    },
+    "OurElements": [
+      {
+        "Key": "Santorini",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||SVQ",
+      "Value": "Sevilla"
+    },
+    "OurElements": [
+      {
+        "Key": "Sevilla",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "CR||SPL",
+      "Value": "Split"
+    },
+    "OurElements": [
+      {
+        "Key": "Split",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ET||TAL",
+      "Value": "Tallin"
+    },
+    "OurElements": [
+      {
+        "Key": "Tallin",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||TOM",
+      "Value": "Tomar"
+    },
+    "OurElements": [
+      {
+        "Key": "Tomar",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FR||TUR",
+      "Value": "Tours"
+    },
+    "OurElements": [
+      {
+        "Key": "Tours",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AL||ULM",
+      "Value": "Ulm"
+    },
+    "OurElements": [
+      {
+        "Key": "Ulm",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||VLC",
+      "Value": "Valencia"
+    },
+    "OurElements": [
+      {
+        "Key": "Valencia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||VLL",
+      "Value": "Valladolid"
+    },
+    "OurElements": [
+      {
+        "Key": "Valladolid",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PL||WAW",
+      "Value": "Varsovia"
+    },
+    "OurElements": [
+      {
+        "Key": "Varsovia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "IT||VCE",
+      "Value": "Venecia"
+    },
+    "OurElements": [
+      {
+        "Key": "Venecia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AU||VIE",
+      "Value": "Viena"
+    },
+    "OurElements": [
+      {
+        "Key": "Viena",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||VRE",
+      "Value": "Vila Real"
+    },
+    "OurElements": [
+      {
+        "Key": "Vila Real De Santo Antonio",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "LI||VIL",
+      "Value": "Vilnius"
+    },
+    "OurElements": [
+      {
+        "Key": "Vilna",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PT||VIS",
+      "Value": "Viseu"
+    },
+    "OurElements": [
+      {
+        "Key": "Viseu",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "CR||ZAD",
+      "Value": "Zadar"
+    },
+    "OurElements": [
+      {
+        "Key": "Zadar",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "CR||ZAG",
+      "Value": "Zagreb"
+    },
+    "OurElements": [
+      {
+        "Key": "Zagreb",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "CR||ZGB",
+      "Value": "Zagreb"
+    },
+    "OurElements": [
+      {
+        "Key": "Zagreb",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ES||ZAZ",
+      "Value": "Zaragoza"
+    },
+    "OurElements": [
+      {
+        "Key": "Zaragoza",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "SZ||ZRH",
+      "Value": "Zurich"
+    },
+    "OurElements": [
+      {
+        "Key": "Zurich",
+        "Value": ""
+      }
+    ]
+  }
+]
