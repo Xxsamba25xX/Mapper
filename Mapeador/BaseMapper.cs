@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using Mapeador.Domain;
 using System.IO;
 using Newtonsoft.Json;
+using System.Text.RegularExpressions;
 
 namespace Mapeador
 {
@@ -17,7 +18,10 @@ namespace Mapeador
 	{
 
 		public Dictionary<string, BaseMapping> Mapping { get; set; }
+		private bool TxtKeyUpdated { get; set; }
 		private string Filename { get; set; }
+
+		private string RegexLink { get; set; } = @"^(https:\/\/www[.]google[.]com\/maps)(.+?)!3d(?<latitude>[-]?\d+?([.]\d+?)?)!4d(?<longitude>[-]?\d+?([.]\d+?)?)$";
 
 		private Status status = Status.OK;
 		public Status Status
@@ -62,8 +66,16 @@ namespace Mapeador
 			var baseMappingList = JsonConvert.DeserializeObject<BaseMapping[]>(File.ReadAllText(Filename), CreateJsonSerializationSettings());
 			if (Status != Status.SerializationError)
 			{
-				Mapping = baseMappingList.ToDictionary(x => x.Key, x => x);
+				Mapping = new Dictionary<string, BaseMapping>();
+				var source = new AutoCompleteStringCollection();
+				foreach (var item in baseMappingList)
+				{
+					Mapping.Add(item.Key.ToUpper(), item);
+					source.Add(item.Key);
+				}
+
 				txtJson.Text = JsonConvert.SerializeObject(Mapping.Values, Formatting.Indented);
+				txtKey.AutoCompleteCustomSource = source;
 			}
 		}
 
@@ -126,6 +138,64 @@ namespace Mapeador
 		private void chkWordWrap_CheckedChanged(object sender, EventArgs e)
 		{
 			txtJson.WordWrap = chkWordWrap.Checked;
+		}
+
+		private void txtKey_TextChanged(object sender, EventArgs e)
+		{
+			TxtKeyUpdated = true;
+			ProcessKey();
+		}
+
+		private void txtKey_EnterLeave(object sender, EventArgs e)
+		{
+			if (TxtKeyUpdated)
+			{
+				ProcessKey();
+				TxtKeyUpdated = false;
+			}
+		}
+
+		private void ProcessKey()
+		{
+			var filter = txtKey?.Text?.Trim()?.ToUpper();
+			if (!string.IsNullOrWhiteSpace(filter))
+			{
+				if (Mapping?.Count > 0 && Mapping.ContainsKey(filter))
+				{
+					AutocompletedKey(Mapping[txtKey?.Text?.Trim()?.ToUpper()]);
+				}
+			}
+		}
+
+		private void AutocompletedKey(BaseMapping mapping)
+		{
+			txtLink.Text = mapping.Link;
+			txtLat.Text = mapping.Latitude;
+			txtLong.Text = mapping.Longitude;
+		}
+
+		private void txtLink_TextChanged(object sender, EventArgs e)
+		{
+			if (txtLink.Focused)
+			{
+				ProcessLink();
+			}
+		}
+
+		private void ProcessLink()
+		{
+			var filter = txtLink?.Text?.Trim();
+			if (!string.IsNullOrWhiteSpace(filter))
+			{
+				var match = Regex.Match(filter, RegexLink);
+				var latitude = match.Groups["latitude"];
+				var longitude = match.Groups["longitude"];
+				if (match.Success && latitude.Success && longitude.Success)
+				{
+					txtLat.Text = latitude.Value;
+					txtLong.Text = longitude.Value;
+				}
+			}
 		}
 	}
 

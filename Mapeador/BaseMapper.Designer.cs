@@ -32,7 +32,6 @@
 			this.lblLat = new System.Windows.Forms.Label();
 			this.lblLink = new System.Windows.Forms.Label();
 			this.lblKey = new System.Windows.Forms.Label();
-			this.txtKey = new System.Windows.Forms.TextBox();
 			this.txtLink = new System.Windows.Forms.TextBox();
 			this.txtLat = new System.Windows.Forms.TextBox();
 			this.txtLong = new System.Windows.Forms.TextBox();
@@ -46,6 +45,7 @@
 			this.dlgOpen = new System.Windows.Forms.OpenFileDialog();
 			this.chkSmart = new System.Windows.Forms.CheckBox();
 			this.chkWordWrap = new System.Windows.Forms.CheckBox();
+			this.txtKey = new System.Windows.Forms.TextBox();
 			this.SuspendLayout();
 			// 
 			// lblLong
@@ -92,15 +92,6 @@
 			this.lblKey.TabIndex = 4;
 			this.lblKey.Text = "Key: ";
 			// 
-			// txtKey
-			// 
-			this.txtKey.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-			this.txtKey.Location = new System.Drawing.Point(73, 29);
-			this.txtKey.Name = "txtKey";
-			this.txtKey.Size = new System.Drawing.Size(224, 20);
-			this.txtKey.TabIndex = 8;
-			// 
 			// txtLink
 			// 
 			this.txtLink.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
@@ -109,6 +100,7 @@
 			this.txtLink.Name = "txtLink";
 			this.txtLink.Size = new System.Drawing.Size(224, 20);
 			this.txtLink.TabIndex = 9;
+			this.txtLink.TextChanged += new System.EventHandler(this.txtLink_TextChanged);
 			// 
 			// txtLat
 			// 
@@ -242,6 +234,20 @@
 			this.chkWordWrap.Text = "Word Wrap";
 			this.chkWordWrap.UseVisualStyleBackColor = true;
 			this.chkWordWrap.CheckedChanged += new System.EventHandler(this.chkWordWrap_CheckedChanged);
+			// 
+			// txtKey
+			// 
+			this.txtKey.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+			this.txtKey.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
+			this.txtKey.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
+			this.txtKey.Location = new System.Drawing.Point(73, 29);
+			this.txtKey.Name = "txtKey";
+			this.txtKey.Size = new System.Drawing.Size(224, 20);
+			this.txtKey.TabIndex = 8;
+			this.txtKey.TextChanged += new System.EventHandler(this.txtKey_TextChanged);
+			this.txtKey.Enter += new System.EventHandler(this.txtKey_EnterLeave);
+			this.txtKey.Leave += new System.EventHandler(this.txtKey_EnterLeave);
 			// 
 			// BaseMapper
 			// 
