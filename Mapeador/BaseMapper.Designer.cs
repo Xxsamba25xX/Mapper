@@ -28,6 +28,7 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
+			this.components = new System.ComponentModel.Container();
 			this.lblLong = new System.Windows.Forms.Label();
 			this.lblLat = new System.Windows.Forms.Label();
 			this.lblLink = new System.Windows.Forms.Label();
@@ -46,6 +47,7 @@
 			this.chkSmart = new System.Windows.Forms.CheckBox();
 			this.chkWordWrap = new System.Windows.Forms.CheckBox();
 			this.txtKey = new System.Windows.Forms.TextBox();
+			this.tipBase = new System.Windows.Forms.ToolTip(this.components);
 			this.SuspendLayout();
 			// 
 			// lblLong
@@ -164,6 +166,7 @@
 			this.btnOkForm.Name = "btnOkForm";
 			this.btnOkForm.Size = new System.Drawing.Size(75, 75);
 			this.btnOkForm.TabIndex = 21;
+			this.tipBase.SetToolTip(this.btnOkForm, "Save");
 			this.btnOkForm.UseVisualStyleBackColor = false;
 			// 
 			// btnCancelForm
@@ -177,6 +180,7 @@
 			this.btnCancelForm.Name = "btnCancelForm";
 			this.btnCancelForm.Size = new System.Drawing.Size(75, 75);
 			this.btnCancelForm.TabIndex = 22;
+			this.tipBase.SetToolTip(this.btnCancelForm, "Reset File");
 			this.btnCancelForm.UseVisualStyleBackColor = false;
 			// 
 			// btnCancelEdit
@@ -190,7 +194,9 @@
 			this.btnCancelEdit.Name = "btnCancelEdit";
 			this.btnCancelEdit.Size = new System.Drawing.Size(130, 130);
 			this.btnCancelEdit.TabIndex = 14;
+			this.tipBase.SetToolTip(this.btnCancelEdit, "Cancel");
 			this.btnCancelEdit.UseVisualStyleBackColor = false;
+			this.btnCancelEdit.Click += new System.EventHandler(this.btnCancelEdit_Click);
 			// 
 			// btnOkEdit
 			// 
@@ -203,7 +209,9 @@
 			this.btnOkEdit.Name = "btnOkEdit";
 			this.btnOkEdit.Size = new System.Drawing.Size(130, 130);
 			this.btnOkEdit.TabIndex = 12;
+			this.tipBase.SetToolTip(this.btnOkEdit, "Insert");
 			this.btnOkEdit.UseVisualStyleBackColor = false;
+			this.btnOkEdit.Click += new System.EventHandler(this.btnOkEdit_Click);
 			// 
 			// dlgOpen
 			// 
@@ -248,6 +256,10 @@
 			this.txtKey.TextChanged += new System.EventHandler(this.txtKey_TextChanged);
 			this.txtKey.Enter += new System.EventHandler(this.txtKey_EnterLeave);
 			this.txtKey.Leave += new System.EventHandler(this.txtKey_EnterLeave);
+			// 
+			// tipBase
+			// 
+			this.tipBase.AutomaticDelay = 100;
 			// 
 			// BaseMapper
 			// 
@@ -299,5 +311,6 @@
 		private System.Windows.Forms.OpenFileDialog dlgOpen;
 		private System.Windows.Forms.CheckBox chkSmart;
 		private System.Windows.Forms.CheckBox chkWordWrap;
+		private System.Windows.Forms.ToolTip tipBase;
 	}
 }

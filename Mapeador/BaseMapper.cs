@@ -20,8 +20,8 @@ namespace Mapeador
 		public Dictionary<string, BaseMapping> Mapping { get; set; }
 		private bool TxtKeyUpdated { get; set; }
 		private string Filename { get; set; }
-
 		private string RegexLink { get; set; } = @"^(https:\/\/www[.]google[.]com\/maps)(.+?)!3d(?<latitude>[-]?\d+?([.]\d+?)?)!4d(?<longitude>[-]?\d+?([.]\d+?)?)$";
+		private bool ModifyMode { get; set; } = false;
 
 		private Status status = Status.OK;
 		public Status Status
@@ -144,6 +144,7 @@ namespace Mapeador
 		{
 			TxtKeyUpdated = true;
 			ProcessKey();
+			ProcessEditButtons();
 		}
 
 		private void txtKey_EnterLeave(object sender, EventArgs e)
@@ -152,6 +153,7 @@ namespace Mapeador
 			{
 				ProcessKey();
 				TxtKeyUpdated = false;
+				ProcessEditButtons();
 			}
 		}
 
@@ -160,10 +162,25 @@ namespace Mapeador
 			var filter = txtKey?.Text?.Trim()?.ToUpper();
 			if (!string.IsNullOrWhiteSpace(filter))
 			{
-				if (Mapping?.Count > 0 && Mapping.ContainsKey(filter))
+				ModifyMode = Mapping?.Count > 0 && Mapping.ContainsKey(filter);
+				if (ModifyMode)
 				{
 					AutocompletedKey(Mapping[txtKey?.Text?.Trim()?.ToUpper()]);
 				}
+			}
+		}
+
+		private void ProcessEditButtons()
+		{
+			if (ModifyMode)
+			{
+				tipBase.SetToolTip(btnCancelEdit, "Remove");
+				tipBase.SetToolTip(btnOkEdit, "Update");
+			}
+			else
+			{
+				tipBase.SetToolTip(btnCancelEdit, "Cancel");
+				tipBase.SetToolTip(btnOkEdit, "Insert");
 			}
 		}
 
@@ -196,6 +213,16 @@ namespace Mapeador
 					txtLong.Text = longitude.Value;
 				}
 			}
+		}
+
+		private void btnOkEdit_Click(object sender, EventArgs e)
+		{
+			//COMPLETAR
+		}
+
+		private void btnCancelEdit_Click(object sender, EventArgs e)
+		{
+			//COMPLETAR
 		}
 	}
 
