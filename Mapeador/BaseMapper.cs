@@ -44,11 +44,6 @@ namespace Mapeador
 			InitializeComponent();
 		}
 
-		private void BaseMapper_Load(object sender, EventArgs e)
-		{
-
-		}
-
 		private void btnOpenJson_Click(object sender, EventArgs e)
 		{
 			PrepareDlgOpen();
@@ -62,21 +57,107 @@ namespace Mapeador
 			}
 		}
 
-		private void OpenBaseMapping()
+		private void chkWordWrap_CheckedChanged(object sender, EventArgs e)
 		{
-			var baseMappingList = JsonConvert.DeserializeObject<BaseMapping[]>(File.ReadAllText(Filename), CreateJsonSerializationSettings());
-			if (Status != Status.SerializationError)
-			{
-				Mapping = new Dictionary<string, BaseMapping>();
-				Source = new AutoCompleteStringCollection();
-				foreach (var item in baseMappingList)
-				{
-					item.Key = GetKey(item.Key);
-					InsertItem(item);
-				}
+			txtJson.WordWrap = chkWordWrap.Checked;
+		}
 
+		private void txtKey_TextChanged(object sender, EventArgs e)
+		{
+			TxtKeyUpdated = true;
+			ProcessKey();
+			ProcessEditButtons();
+		}
+
+		private void txtKey_EnterLeave(object sender, EventArgs e)
+		{
+			if (TxtKeyUpdated)
+			{
+				ProcessKey();
+				TxtKeyUpdated = false;
+				ProcessEditButtons();
+			}
+		}
+
+		private void txtLink_TextChanged(object sender, EventArgs e)
+		{
+			if (txtLink.Focused)
+			{
+				ProcessLink();
+			}
+		}
+
+		private void btnOkEdit_Click(object sender, EventArgs e)
+		{
+			if (!VerifyEditFields()) return;
+
+			var key = GetKey(txtKey.Text);
+			BaseMapping mapping = null;
+			if (ModifyMode && Mapping.ContainsKey(key))
+			{
+				mapping = Mapping[key];
+			}
+			else if (!ModifyMode && !Mapping.ContainsKey(key))
+			{
+				mapping = new BaseMapping();
+			}
+
+			if (mapping != null)
+			{
+				mapping.Key = key;
+				mapping.Link = txtLink?.Text?.Trim() ?? "";
+				mapping.Latitude = txtLat?.Text?.Trim() ?? "";
+				mapping.Longitude = txtLong?.Text?.Trim() ?? "";
+
+				if (!ModifyMode)
+					InsertItem(mapping);
+
+				BlancEdit();
 				FillJson();
 			}
+		}
+
+		private void btnCancelEdit_Click(object sender, EventArgs e)
+		{
+			if (ModifyMode)
+			{
+				var key = GetKey(txtKey.Text);
+				if (Mapping.ContainsKey(key))
+				{
+					Mapping.Remove(key);
+				}
+			}
+			BlancEdit();
+			FillJson();
+		}
+
+		//METHODS
+		private void BlancEdit()
+		{
+			txtKey.Text = "";
+			txtLink.Text = "";
+			txtLat.Text = "";
+			txtLong.Text = "";
+			ModifyMode = false;
+			ProcessEditButtons();
+		}
+
+		private JsonSerializerSettings CreateJsonSerializationSettings()
+		{
+			var jsonSettings = new JsonSerializerSettings();
+			jsonSettings.Error = new EventHandler<Newtonsoft.Json.Serialization.ErrorEventArgs>((obj, evt) =>
+			{
+				Status = Status.SerializationError;
+				evt.ErrorContext.Handled = true;
+			});
+			return jsonSettings;
+		}
+
+		private void AutocompletedKey(BaseMapping mapping)
+		{
+			txtLink.Text = mapping.Link;
+			txtLat.Text = mapping.Latitude;
+			txtLong.Text = mapping.Longitude;
 		}
 
 		private void FillJson()
@@ -101,23 +182,21 @@ namespace Mapeador
 			Source.Add(item.Key);
 		}
 
-		private JsonSerializerSettings CreateJsonSerializationSettings()
+		private void OpenBaseMapping()
 		{
-			var jsonSettings = new JsonSerializerSettings();
-			jsonSettings.Error = new EventHandler<Newtonsoft.Json.Serialization.ErrorEventArgs>((obj, evt) =>
+			var baseMappingList = JsonConvert.DeserializeObject<BaseMapping[]>(File.ReadAllText(Filename), CreateJsonSerializationSettings());
+			if (Status != Status.SerializationError)
 			{
-				Status = Status.SerializationError;
-				evt.ErrorContext.Handled = true;
-			});
-			return jsonSettings;
-		}
+				Mapping = new Dictionary<string, BaseMapping>();
+				Source = new AutoCompleteStringCollection();
+				foreach (var item in baseMappingList)
+				{
+					item.Key = GetKey(item.Key);
+					InsertItem(item);
+				}
 
-		private void PrepareDlgOpen()
-		{
-			dlgOpen.InitialDirectory = Application.StartupPath;
-			dlgOpen.Filter = "JSON File (.json)|*.json";
-			dlgOpen.FileName = "";
-			dlgOpen.Title = "Select Base Mapping Json File";
+				FillJson();
+			}
 		}
 
 		private void OnStatusChanged()
@@ -157,39 +236,12 @@ namespace Mapeador
 			}
 		}
 
-		private void chkWordWrap_CheckedChanged(object sender, EventArgs e)
+		private void PrepareDlgOpen()
 		{
-			txtJson.WordWrap = chkWordWrap.Checked;
-		}
-
-		private void txtKey_TextChanged(object sender, EventArgs e)
-		{
-			TxtKeyUpdated = true;
-			ProcessKey();
-			ProcessEditButtons();
-		}
-
-		private void txtKey_EnterLeave(object sender, EventArgs e)
-		{
-			if (TxtKeyUpdated)
-			{
-				ProcessKey();
-				TxtKeyUpdated = false;
-				ProcessEditButtons();
-			}
-		}
-
-		private void ProcessKey()
-		{
-			var filter = GetKey(txtKey?.Text);
-			if (!string.IsNullOrWhiteSpace(filter))
-			{
-				ModifyMode = Mapping?.Count > 0 && Mapping.ContainsKey(filter);
-				if (ModifyMode)
-				{
-					AutocompletedKey(Mapping[filter]);
-				}
-			}
+			dlgOpen.InitialDirectory = Application.StartupPath;
+			dlgOpen.Filter = "JSON File (.json)|*.json";
+			dlgOpen.FileName = "";
+			dlgOpen.Title = "Select Base Mapping Json File";
 		}
 
 		private void ProcessEditButtons()
@@ -206,18 +258,16 @@ namespace Mapeador
 			}
 		}
 
-		private void AutocompletedKey(BaseMapping mapping)
+		private void ProcessKey()
 		{
-			txtLink.Text = mapping.Link;
-			txtLat.Text = mapping.Latitude;
-			txtLong.Text = mapping.Longitude;
-		}
-
-		private void txtLink_TextChanged(object sender, EventArgs e)
-		{
-			if (txtLink.Focused)
+			var filter = GetKey(txtKey?.Text);
+			if (!string.IsNullOrWhiteSpace(filter))
 			{
-				ProcessLink();
+				ModifyMode = Mapping?.Count > 0 && Mapping.ContainsKey(filter);
+				if (ModifyMode)
+				{
+					AutocompletedKey(Mapping[filter]);
+				}
 			}
 		}
 
@@ -234,36 +284,6 @@ namespace Mapeador
 					txtLat.Text = latitude.Value;
 					txtLong.Text = longitude.Value;
 				}
-			}
-		}
-
-		private void btnOkEdit_Click(object sender, EventArgs e)
-		{
-			if (!VerifyEditFields()) return;
-
-			var key = GetKey(txtKey.Text);
-			BaseMapping mapping = null;
-			if (ModifyMode && Mapping.ContainsKey(key))
-			{
-				mapping = Mapping[key];
-			}
-			else if (!ModifyMode && !Mapping.ContainsKey(key))
-			{
-				mapping = new BaseMapping();
-			}
-
-			if (mapping != null)
-			{
-				mapping.Key = key;
-				mapping.Link = txtLink?.Text?.Trim() ?? "";
-				mapping.Latitude = txtLat?.Text?.Trim() ?? "";
-				mapping.Longitude = txtLong?.Text?.Trim() ?? "";
-
-				if (!ModifyMode)
-					InsertItem(mapping);
-
-				BlancEdit();
-				FillJson();
 			}
 		}
 
@@ -297,20 +317,6 @@ namespace Mapeador
 			}
 		}
 
-		private void btnCancelEdit_Click(object sender, EventArgs e)
-		{
-			if (ModifyMode)
-			{
-				var key = GetKey(txtKey.Text);
-				if (Mapping.ContainsKey(key))
-				{
-					Mapping.Remove(key);
-				}
-			}
-			BlancEdit();
-			FillJson();
-		}
-
 		private string GetKey(string possibleKey)
 		{
 			var result = possibleKey?.Trim() ?? "";
@@ -332,25 +338,16 @@ namespace Mapeador
 						}
 						else
 						{
-							sb.Append(match.Value[index]);
+							sb.Append(char.ToLower(match.Value[index]));
 						}
 					}
 				}
 				return sb.ToString();
 			}));
-			result=result.Trim('-');
+			result = result.Trim('-');
 			return result;
 		}
 
-		private void BlancEdit()
-		{
-			txtKey.Text = "";
-			txtLink.Text = "";
-			txtLat.Text = "";
-			txtLong.Text = "";
-			ModifyMode = false;
-			ProcessEditButtons();
-		}
 	}
 
 	public enum Status

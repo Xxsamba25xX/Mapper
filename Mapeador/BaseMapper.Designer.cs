@@ -285,7 +285,6 @@
 			this.Name = "BaseMapper";
 			this.Padding = new System.Windows.Forms.Padding(10);
 			this.Size = new System.Drawing.Size(600, 650);
-			this.Load += new System.EventHandler(this.BaseMapper_Load);
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
