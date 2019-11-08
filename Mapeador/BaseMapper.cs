@@ -17,9 +17,10 @@ namespace Mapeador
 	public partial class BaseMapper : UserControl
 	{
 
-		public Dictionary<string, BaseMapping> Mapping { get; set; }
+		public Dictionary<string, BaseMapping> Mapping { get; set; } = new Dictionary<string, BaseMapping>();
+		public AutoCompleteStringCollection Source { get; set; } = new AutoCompleteStringCollection();
 		private bool TxtKeyUpdated { get; set; }
-		private string Filename { get; set; }
+		private string Filename { get; set; } = "";
 		private string RegexLink { get; set; } = @"^(https:\/\/www[.]google[.]com\/maps)(.+?)!3d(?<latitude>[-]?\d+?([.]\d+?)?)!4d(?<longitude>[-]?\d+?([.]\d+?)?)$";
 		private bool ModifyMode { get; set; } = false;
 
@@ -67,16 +68,37 @@ namespace Mapeador
 			if (Status != Status.SerializationError)
 			{
 				Mapping = new Dictionary<string, BaseMapping>();
-				var source = new AutoCompleteStringCollection();
+				Source = new AutoCompleteStringCollection();
 				foreach (var item in baseMappingList)
 				{
-					Mapping.Add(item.Key.ToUpper(), item);
-					source.Add(item.Key);
+					item.Key = GetKey(item.Key);
+					InsertItem(item);
 				}
 
-				txtJson.Text = JsonConvert.SerializeObject(Mapping.Values, Formatting.Indented);
-				txtKey.AutoCompleteCustomSource = source;
+				FillJson();
 			}
+		}
+
+		private void FillJson()
+		{
+			double position = 0;
+			if (txtJson.Text.Length > 0 && txtJson.SelectionStart > 0)
+			{
+				position = txtJson.SelectionStart / (double)(txtJson.Text.Length);
+			}
+			txtJson.Text = JsonConvert.SerializeObject(Mapping.Values, Formatting.Indented);
+			txtKey.AutoCompleteCustomSource = Source;
+			if (txtJson.Text.Length > 0)
+			{
+				txtJson.SelectionStart = (int)(txtJson.Text.Length * position);
+			}
+			txtJson.ScrollToCaret();
+		}
+
+		private void InsertItem(BaseMapping item)
+		{
+			Mapping.Add(item.Key, item);
+			Source.Add(item.Key);
 		}
 
 		private JsonSerializerSettings CreateJsonSerializationSettings()
@@ -159,13 +181,13 @@ namespace Mapeador
 
 		private void ProcessKey()
 		{
-			var filter = txtKey?.Text?.Trim()?.ToUpper();
+			var filter = GetKey(txtKey?.Text);
 			if (!string.IsNullOrWhiteSpace(filter))
 			{
 				ModifyMode = Mapping?.Count > 0 && Mapping.ContainsKey(filter);
 				if (ModifyMode)
 				{
-					AutocompletedKey(Mapping[txtKey?.Text?.Trim()?.ToUpper()]);
+					AutocompletedKey(Mapping[filter]);
 				}
 			}
 		}
@@ -217,12 +239,117 @@ namespace Mapeador
 
 		private void btnOkEdit_Click(object sender, EventArgs e)
 		{
-			//COMPLETAR
+			if (!VerifyEditFields()) return;
+
+			var key = GetKey(txtKey.Text);
+			BaseMapping mapping = null;
+			if (ModifyMode && Mapping.ContainsKey(key))
+			{
+				mapping = Mapping[key];
+			}
+			else if (!ModifyMode && !Mapping.ContainsKey(key))
+			{
+				mapping = new BaseMapping();
+			}
+
+			if (mapping != null)
+			{
+				mapping.Key = key;
+				mapping.Link = txtLink?.Text?.Trim() ?? "";
+				mapping.Latitude = txtLat?.Text?.Trim() ?? "";
+				mapping.Longitude = txtLong?.Text?.Trim() ?? "";
+
+				if (!ModifyMode)
+					InsertItem(mapping);
+
+				BlancEdit();
+				FillJson();
+			}
+		}
+
+		private bool VerifyEditFields()
+		{
+			var key = txtKey?.Text?.Trim() ?? "";
+			var link = txtLink?.Text?.Trim() ?? "";
+			var lat = txtLat?.Text?.Trim() ?? "";
+			var lng = txtLong?.Text?.Trim() ?? "";
+			StringBuilder sb = new StringBuilder();
+			Regex number = new Regex(@"^[-]?\d+([.]\d+)?$");
+			string tab = "  ";
+			if (string.IsNullOrWhiteSpace(key)) sb.Append(tab).AppendLine("-Key is Null, Empty or only contains Whitespaces.");
+			if (string.IsNullOrWhiteSpace(link)) sb.Append(tab).AppendLine("-Link is Null, Empty or only contains Whitespaces.");
+
+			if (string.IsNullOrWhiteSpace(lat)) sb.Append(tab).AppendLine("-Latitude is Null, Empty or only contains Whitespaces.");
+			else if (!number.IsMatch(lat)) sb.Append(tab).AppendLine("-Latitude MUST be a Numeric value.");
+
+			if (string.IsNullOrWhiteSpace(lng)) sb.Append(tab).AppendLine("-Longitude is Null, Empty or only contains Whitespaces.");
+			else if (!number.IsMatch(lng)) sb.Append(tab).AppendLine("-Longitude MUST be a Numeric value.");
+
+			var result = sb.ToString();
+			if (!string.IsNullOrWhiteSpace(result))
+			{
+				MessageBox.Show("There are some errors on your mapping!!!: \n" + result);
+				return false;
+			}
+			else
+			{
+				return true;
+			}
 		}
 
 		private void btnCancelEdit_Click(object sender, EventArgs e)
 		{
-			//COMPLETAR
+			if (ModifyMode)
+			{
+				var key = GetKey(txtKey.Text);
+				if (Mapping.ContainsKey(key))
+				{
+					Mapping.Remove(key);
+				}
+			}
+			BlancEdit();
+			FillJson();
+		}
+
+		private string GetKey(string possibleKey)
+		{
+			var result = possibleKey?.Trim() ?? "";
+
+			result = Regex.Replace(result, @"[^\u0041-\u005A\u0061-\u007A\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u017E]+", "-");
+			result = Regex.Replace(result, @"([-]|^)(?<letters>[a-zA-Z])", new MatchEvaluator(match =>
+			{
+				StringBuilder sb = new StringBuilder();
+
+				var realMatch = match.Groups["letters"];
+				if (realMatch.Success)
+				{
+					for (int i = match.Index; i < (match.Index + match.Length); i++)
+					{
+						var index = i - match.Index;
+						if (i >= realMatch.Index && i < (realMatch.Index + realMatch.Length))
+						{
+							sb.Append(char.ToUpper(match.Value[index]));
+						}
+						else
+						{
+							sb.Append(match.Value[index]);
+						}
+					}
+				}
+				return sb.ToString();
+			}));
+			result=result.Trim('-');
+			return result;
+		}
+
+		private void BlancEdit()
+		{
+			txtKey.Text = "";
+			txtLink.Text = "";
+			txtLat.Text = "";
+			txtLong.Text = "";
+			ModifyMode = false;
+			ProcessEditButtons();
 		}
 	}
 
@@ -232,6 +359,5 @@ namespace Mapeador
 		OK = 1,
 		SerializationError = 2,
 		FileNotExist = 4
-
 	}
 }
