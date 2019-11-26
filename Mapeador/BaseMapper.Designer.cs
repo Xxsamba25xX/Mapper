@@ -168,6 +168,7 @@
 			this.btnOkForm.TabIndex = 21;
 			this.tipBase.SetToolTip(this.btnOkForm, "Save");
 			this.btnOkForm.UseVisualStyleBackColor = false;
+			this.btnOkForm.Click += new System.EventHandler(this.btnOkForm_Click);
 			// 
 			// btnCancelForm
 			// 
@@ -182,6 +183,7 @@
 			this.btnCancelForm.TabIndex = 22;
 			this.tipBase.SetToolTip(this.btnCancelForm, "Reset File");
 			this.btnCancelForm.UseVisualStyleBackColor = false;
+			this.btnCancelForm.Click += new System.EventHandler(this.btnCancelForm_Click);
 			// 
 			// btnCancelEdit
 			// 

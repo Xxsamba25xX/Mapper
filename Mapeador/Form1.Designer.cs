@@ -28,23 +28,33 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.baseMapper1 = new Mapeador.BaseMapper();
+			this.providerMapper = new Mapeador.ProviderMapper();
+			this.baseMapper = new Mapeador.BaseMapper();
 			this.SuspendLayout();
 			// 
-			// baseMapper1
+			// providerMapper
 			// 
-			this.baseMapper1.Location = new System.Drawing.Point(12, 12);
-			this.baseMapper1.Name = "baseMapper1";
-			this.baseMapper1.Padding = new System.Windows.Forms.Padding(10);
-			this.baseMapper1.Size = new System.Drawing.Size(600, 650);
-			this.baseMapper1.TabIndex = 0;
+			this.providerMapper.Location = new System.Drawing.Point(608, 12);
+			this.providerMapper.Name = "providerMapper";
+			this.providerMapper.Padding = new System.Windows.Forms.Padding(10);
+			this.providerMapper.Size = new System.Drawing.Size(586, 694);
+			this.providerMapper.TabIndex = 1;
+			// 
+			// baseMapper
+			// 
+			this.baseMapper.Location = new System.Drawing.Point(12, 12);
+			this.baseMapper.Name = "baseMapper";
+			this.baseMapper.Padding = new System.Windows.Forms.Padding(10);
+			this.baseMapper.Size = new System.Drawing.Size(600, 694);
+			this.baseMapper.TabIndex = 0;
 			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(1189, 718);
-			this.Controls.Add(this.baseMapper1);
+			this.ClientSize = new System.Drawing.Size(1206, 718);
+			this.Controls.Add(this.providerMapper);
+			this.Controls.Add(this.baseMapper);
 			this.Name = "Form1";
 			this.Text = "Form1";
 			this.ResumeLayout(false);
@@ -53,7 +63,8 @@
 
 		#endregion
 
-		private BaseMapper baseMapper1;
+		private BaseMapper baseMapper;
+		private ProviderMapper providerMapper;
 	}
 }
 

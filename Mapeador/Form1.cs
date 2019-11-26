@@ -15,6 +15,15 @@ namespace Mapeador
 		public Form1()
 		{
 			InitializeComponent();
+			baseMapper.OnMappingChanged += BaseMapper_OnMappingChanged;
+		}
+
+		private void BaseMapper_OnMappingChanged(object sender, Dictionary<string, Domain.BaseMapping> e)
+		{
+			if (providerMapper != null)
+			{
+				providerMapper.SetMapping(e);
+			}
 		}
 	}
 }

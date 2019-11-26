@@ -11,39 +11,29 @@ using Mapeador.Domain;
 using System.IO;
 using Newtonsoft.Json;
 using System.Text.RegularExpressions;
+using System.Diagnostics;
 
 namespace Mapeador
 {
 	public partial class BaseMapper : UserControl
 	{
+		public event EventHandler<Dictionary<string, BaseMapping>> OnMappingChanged;
 
-		public Dictionary<string, BaseMapping> Mapping { get; set; } = new Dictionary<string, BaseMapping>();
-		public AutoCompleteStringCollection Source { get; set; } = new AutoCompleteStringCollection();
+
+		private Dictionary<string, BaseMapping> Mapping { get; set; } = new Dictionary<string, BaseMapping>();
+		private AutoCompleteStringCollection Source { get; set; } = new AutoCompleteStringCollection();
 		private bool TxtKeyUpdated { get; set; }
 		private string Filename { get; set; } = "";
 		private string RegexLink { get; set; } = @"^(https:\/\/www[.]google[.]com\/maps)(.+?)!3d(?<latitude>[-]?\d+?([.]\d+?)?)!4d(?<longitude>[-]?\d+?([.]\d+?)?)$";
 		private bool ModifyMode { get; set; } = false;
-
-		private Status status = Status.OK;
-		public Status Status
-		{
-			get
-			{
-				return status;
-			}
-			private set
-			{
-				status = value;
-				OnStatusChanged();
-			}
-		}
-
+		private bool DeserializationSuccess { get; set; }
 
 		public BaseMapper()
 		{
 			InitializeComponent();
 		}
 
+		//EVENTOS
 		private void btnOpenJson_Click(object sender, EventArgs e)
 		{
 			PrepareDlgOpen();
@@ -110,9 +100,12 @@ namespace Mapeador
 				mapping.Longitude = txtLong?.Text?.Trim() ?? "";
 
 				if (!ModifyMode)
+				{
 					InsertItem(mapping);
+					OnMappingChanged?.Invoke(this, Mapping);
+				}
 
-				BlancEdit();
+				EraseEdit();
 				FillJson();
 			}
 		}
@@ -125,14 +118,35 @@ namespace Mapeador
 				if (Mapping.ContainsKey(key))
 				{
 					Mapping.Remove(key);
+					OnMappingChanged?.Invoke(this, Mapping);
 				}
 			}
-			BlancEdit();
+			EraseEdit();
+					OnMappingChanged?.Invoke(this, Mapping);
 			FillJson();
 		}
 
+		private void btnOkForm_Click(object sender, EventArgs e)
+		{
+			if (!string.IsNullOrWhiteSpace(Filename))
+			{
+				Mapping = Mapping ?? new Dictionary<string, BaseMapping>();
+					OnMappingChanged?.Invoke(this, Mapping);
+				FillJson();
+				File.WriteAllText(Filename, txtJson.Text);
+			}
+		}
+
+		private void btnCancelForm_Click(object sender, EventArgs e)
+		{
+			if (!string.IsNullOrWhiteSpace(Filename))
+			{
+				OpenBaseMapping();
+			}
+		}
+
 		//METHODS
-		private void BlancEdit()
+		private void EraseEdit()
 		{
 			txtKey.Text = "";
 			txtLink.Text = "";
@@ -145,9 +159,10 @@ namespace Mapeador
 		private JsonSerializerSettings CreateJsonSerializationSettings()
 		{
 			var jsonSettings = new JsonSerializerSettings();
+			DeserializationSuccess = true;
 			jsonSettings.Error = new EventHandler<Newtonsoft.Json.Serialization.ErrorEventArgs>((obj, evt) =>
 			{
-				Status = Status.SerializationError;
+				DeserializationSuccess = false;
 				evt.ErrorContext.Handled = true;
 			});
 			return jsonSettings;
@@ -167,7 +182,7 @@ namespace Mapeador
 			{
 				position = txtJson.SelectionStart / (double)(txtJson.Text.Length);
 			}
-			txtJson.Text = JsonConvert.SerializeObject(Mapping.Values, Formatting.Indented);
+			txtJson.Text = JsonConvert.SerializeObject(Mapping.Values.OrderBy(x => x.Key), Formatting.Indented);
 			txtKey.AutoCompleteCustomSource = Source;
 			if (txtJson.Text.Length > 0)
 			{
@@ -185,7 +200,7 @@ namespace Mapeador
 		private void OpenBaseMapping()
 		{
 			var baseMappingList = JsonConvert.DeserializeObject<BaseMapping[]>(File.ReadAllText(Filename), CreateJsonSerializationSettings());
-			if (Status != Status.SerializationError)
+			if (DeserializationSuccess)
 			{
 				Mapping = new Dictionary<string, BaseMapping>();
 				Source = new AutoCompleteStringCollection();
@@ -195,44 +210,8 @@ namespace Mapeador
 					InsertItem(item);
 				}
 
+				OnMappingChanged?.Invoke(this, Mapping);
 				FillJson();
-			}
-		}
-
-		private void OnStatusChanged()
-		{
-			switch (status)
-			{
-				case Status.FileNotExist:
-				case Status.SerializationError:
-				case Status.Ready:
-					txtKey.Enabled = false;
-					txtLink.Enabled = false;
-					txtLat.Enabled = false;
-					txtLong.Enabled = false;
-					btnCancelEdit.Enabled = false;
-					btnOkEdit.Enabled = false;
-					txtJson.Enabled = false;
-					btnOkForm.Enabled = false;
-					btnCancelForm.Enabled = false;
-					chkSmart.Enabled = false;
-					chkWordWrap.Enabled = false;
-					break;
-				case Status.OK:
-					txtKey.Enabled = true;
-					txtLink.Enabled = true;
-					txtLat.Enabled = true;
-					txtLong.Enabled = true;
-					btnCancelEdit.Enabled = true;
-					btnOkEdit.Enabled = true;
-					txtJson.Enabled = true;
-					btnOkForm.Enabled = true;
-					btnCancelForm.Enabled = true;
-					chkSmart.Enabled = true;
-					chkWordWrap.Enabled = true;
-					break;
-				default:
-					break;
 			}
 		}
 
@@ -347,14 +326,5 @@ namespace Mapeador
 			result = result.Trim('-');
 			return result;
 		}
-
-	}
-
-	public enum Status
-	{
-		Ready = 0,
-		OK = 1,
-		SerializationError = 2,
-		FileNotExist = 4
 	}
 }
