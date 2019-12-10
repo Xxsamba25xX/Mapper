@@ -1,0 +1,182 @@
+[
+  {
+    "ProviderElement": {
+      "Key": "AMSTERDAM",
+      "Value": "Amsterdam"
+    },
+    "OurElements": [
+      {
+        "Key": "Amsterdam",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "BERLIN",
+      "Value": "Berlin"
+    },
+    "OurElements": [
+      {
+        "Key": "Berlin",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "COLONIA",
+      "Value": "Colonia"
+    },
+    "OurElements": [
+      {
+        "Key": "Cologne",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "EVORA",
+      "Value": "Evora"
+    },
+    "OurElements": [
+      {
+        "Key": "Evora",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FRANKFURT",
+      "Value": "Frankfurt"
+    },
+    "OurElements": [
+      {
+        "Key": "Frankfurt-Am-Main",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "GRANADA",
+      "Value": "Granada"
+    },
+    "OurElements": [
+      {
+        "Key": "Granada",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "HAMELIN",
+      "Value": "Hamelin"
+    },
+    "OurElements": [
+      {
+        "Key": "Hamelin",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "HANNOVER",
+      "Value": "Hannover"
+    },
+    "OurElements": [
+      {
+        "Key": "Hannover",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "LISBOA",
+      "Value": "Lisboa"
+    },
+    "OurElements": [
+      {
+        "Key": "Lisboa",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "MADRID",
+      "Value": "Madrid"
+    },
+    "OurElements": [
+      {
+        "Key": "Madrid",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "MALAGA",
+      "Value": "Malaga"
+    },
+    "OurElements": [
+      {
+        "Key": "Malaga",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "MARBELLA",
+      "Value": "Marbella"
+    },
+    "OurElements": [
+      {
+        "Key": "Marbella",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PRAGA",
+      "Value": "Praga"
+    },
+    "OurElements": [
+      {
+        "Key": "Praga",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "RONDA",
+      "Value": "Ronda"
+    },
+    "OurElements": [
+      {
+        "Key": "Ronda",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "SEVILLA",
+      "Value": "Sevilla"
+    },
+    "OurElements": [
+      {
+        "Key": "Sevilla",
+        "Value": ""
+      }
+    ]
+  }
+]

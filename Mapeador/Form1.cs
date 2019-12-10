@@ -25,5 +25,11 @@ namespace Mapeador
 				providerMapper.SetMapping(e);
 			}
 		}
+
+		private void clipboard_ClipboardChanged(object sender, WK.Libraries.SharpClipboardNS.SharpClipboard.ClipboardChangedEventArgs e)
+		{
+			baseMapper.EmuleClipboardChange(sender, e);
+			providerMapper.EmuleClipboardChange(sender, e);
+		}
 	}
 }

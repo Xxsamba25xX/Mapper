@@ -1,3020 +1,3092 @@
 [
   {
+    "Key": "Aarhus",
+    "Link": "https://www.google.com/maps/place/Aarhus,+Dinamarca/@56.1780842,10.1119351,12z/data=!3m1!4b1!4m5!3m4!1s0x464c4cb15397788b:0x8c4dd7d9912ea2af!8m2!3d56.162939!4d10.203921",
+    "Latitude": "56.162939",
+    "Longitude": "10.203921"
+  },
+  {
     "Key": "Agrigento",
     "Link": "https://www.google.com/maps/place/92100+Agrigento,+Italia/@37.318137,13.5511555,13z/data=!3m1!4b1!4m5!3m4!1s0x1310825576b38787:0x3af1c012089341b3!8m2!3d37.3088512!4d13.5857528",
-    "Latitude": 37.30885,
-    "Longitude": 13.5857525
+    "Latitude": "37.30885",
+    "Longitude": "13.5857525"
   },
   {
     "Key": "Aguilas",
     "Link": "https://www.google.com.ar/maps/place/%C3%81guilas,+Murcia,+Espa%C3%B1a/@37.4109436,-1.5962947,14z/data=!3m1!4b1!4m5!3m4!1s0xd64c8e0f913cbad:0xd55cfb40e1faa672!8m2!3d37.4117554!4d-1.5827678",
-    "Latitude": 37.4117554,
-    "Longitude": -1.5827678
+    "Latitude": "37.4117554",
+    "Longitude": "-1.5827678"
   },
   {
-    "Key": "Alba Iulia",
+    "Key": "Alba-Iulia",
     "Link": "https://www.google.com/maps/place/Alba+Iulia,+Ruman%C3%ADa/@46.0617224,23.4879624,12z/data=!3m1!4b1!4m5!3m4!1s0x474ea80cce754875:0xe9b0f44e8e45cd05!8m2!3d46.0732725!4d23.5804886",
-    "Latitude": 46.0732725,
-    "Longitude": 23.5804886
+    "Latitude": "46.0732725",
+    "Longitude": "23.5804886"
   },
   {
     "Key": "Albarracin",
     "Link": "https://www.google.com.ar/maps/place/44126+Albarrac%C3%ADn,+Teruel,+Espa%C3%B1a/@40.4064734,-1.4466279,16z/data=!3m1!4b1!4m5!3m4!1s0xd5dc420c9d9d5eb:0xa73bb26f5bf55cd8!8m2!3d40.4075581!4d-1.443876",
-    "Latitude": 40.4075581,
-    "Longitude": -1.443876
+    "Latitude": "40.4075581",
+    "Longitude": "-1.443876"
   },
   {
     "Key": "Alberobello",
     "Link": "https://www.google.com/maps/place/70011+Alberobello+Bari,+Italia/@40.7849816,17.2167,14z/data=!3m1!4b1!4m5!3m4!1s0x1347b26487f9383d:0x803e3f2f028a5d8!8m2!3d40.7864228!4d17.2409304",
-    "Latitude": 40.7864228,
-    "Longitude": 17.2409304
+    "Latitude": "40.7864228",
+    "Longitude": "17.2409304"
   },
   {
     "Key": "Albufeira",
     "Link": "https://www.google.com.ar/maps/place/Albufeira,+Portugal/@37.1120566,-8.3580721,11z/data=!4m5!3m4!1s0xd1aceae38ddc41f:0xed22e7a562441045!8m2!3d37.0890719!4d-8.2478796",
-    "Latitude": 37.0890719,
-    "Longitude": -8.2478796
+    "Latitude": "37.0890719",
+    "Longitude": "-8.2478796"
   },
   {
     "Key": "Alcobaca",
     "Link": "https://www.google.com/maps/place/Alcoba%C3%A7a,+Portugal/@39.533735,-9.0078682,13z/data=!4m5!3m4!1s0xd18a5ca4bcf120f:0x7c03b67566f99493!8m2!3d39.548667!4d-8.9796492",
-    "Latitude": 39.5486679,
-    "Longitude": -8.97965
+    "Latitude": "39.5486679",
+    "Longitude": "-8.97965"
   },
   {
     "Key": "Alesund",
     "Link": "https://www.google.com.ar/maps/place/%C3%85lesund,+Noruega/@62.4681493,6.1013654,11z/data=!3m1!4b1!4m5!3m4!1s0x4616da471047fb4b:0xe82562ee3bc08fea!8m2!3d62.4722284!4d6.149482",
-    "Latitude": 62.4722284,
-    "Longitude": 6.149482
+    "Latitude": "62.4722284",
+    "Longitude": "6.149482"
   },
   {
     "Key": "Alghero",
     "Link": "https://www.google.com.ar/maps/place/07041+Alguer,+Sassari,+Italia/@40.5660354,8.2869004,13z/data=!3m1!4b1!4m5!3m4!1s0x12dcf1ef75c50c05:0x2b9298429f4a8b50!8m2!3d40.5579517!4d8.3192949",
-    "Latitude": 40.5579517,
-    "Longitude": 8.3192949
+    "Latitude": "40.5579517",
+    "Longitude": "8.3192949"
   },
   {
     "Key": "Almancil",
     "Link": "https://www.google.com/maps/place/8135-110+Almancil,+Portugal/@37.0876985,-8.0386999,15z/data=!4m13!1m7!3m6!1s0xd1ab3949c306c6d:0x47640b0d2ea8881c!2s8135-110+Almancil,+Portugal!3b1!8m2!3d37.0876993!4d-8.0299451!3m4!1s0xd1ab3949c306c6d:0x47640b0d2ea8881c!8m2!3d37.0876993!4d-8.0299451",
-    "Latitude": 37.0877,
-    "Longitude": -8.029945
+    "Latitude": "37.0877",
+    "Longitude": "-8.029945"
   },
   {
     "Key": "Amalfi",
     "Link": "https://www.google.com.ar/maps/place/84011+Amalfi+Salerno,+Italia/@40.6309876,14.5741582,14z/data=!3m1!4b1!4m5!3m4!1s0x133b95b54921c5d1:0x151a2c999fb2aca9!8m2!3d40.6340026!4d14.6026805",
-    "Latitude": 40.6340026,
-    "Longitude": 14.6026805
+    "Latitude": "40.6340026",
+    "Longitude": "14.6026805"
   },
   {
     "Key": "Amarante",
     "Link": "https://www.google.com/maps/place/Amarante,+Portugal/@41.2659252,-8.35937,10.5z/data=!4m5!3m4!1s0xd24bef00c79b2e3:0xc36de6016e7f05ee!8m2!3d41.2696357!4d-8.0826488",
-    "Latitude": 41.2696342,
-    "Longitude": -8.082649
+    "Latitude": "41.2696342",
+    "Longitude": "-8.082649"
   },
   {
     "Key": "Amberes",
     "Link": "https://www.google.com.ar/maps/place/Amberes,+B%C3%A9lgica/@51.2605163,4.2176354,11z/data=!3m1!4b1!4m5!3m4!1s0x47c3f68ebfc3887d:0x3eaf448482a88ab8!8m2!3d51.2194475!4d4.4024643",
-    "Latitude": 51.2194475,
-    "Longitude": 4.4024643
+    "Latitude": "51.2194475",
+    "Longitude": "4.4024643"
   },
   {
     "Key": "Amsterdam",
     "Link": "https://www.google.com/maps/place/%C3%81msterdam,+Pa%C3%ADses+Bajos/@52.3545653,4.7585393,11z/data=!3m1!4b1!4m5!3m4!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!8m2!3d52.3679843!4d4.9035614",
-    "Latitude": 52.3679848,
-    "Longitude": 4.90356159
+    "Latitude": "52.3679848",
+    "Longitude": "4.90356159"
   },
   {
     "Key": "Andorra",
     "Link": "https://www.google.com.ar/maps/place/Andorra/@42.5419286,1.3174887,10z/data=!3m1!4b1!4m5!3m4!1s0x12a5f52e989ef095:0x7c93ed778ea7f92!8m2!3d42.506285!4d1.521801",
-    "Latitude": 42.506285,
-    "Longitude": 1.521801
+    "Latitude": "42.506285",
+    "Longitude": "1.521801"
   },
   {
     "Key": "Angera",
     "Link": "https://www.google.com/maps/place/21021+Angera+Varese,+Italia/@45.7761089,8.5670942,14z/data=!3m1!4b1!4m5!3m4!1s0x478670fe9ba18411:0xb20d2f0a70d80539!8m2!3d45.7735988!4d8.5813265",
-    "Latitude": 45.7735988,
-    "Longitude": 8.5813265
+    "Latitude": "45.7735988",
+    "Longitude": "8.5813265"
   },
   {
     "Key": "Angers",
     "Link": "https://www.google.com/maps/place/Angers,+Francia/@47.4819831,-0.6329748,12z/data=!4m5!3m4!1s0x480878da00e58e9d:0x40d37521e0d9c30!8m2!3d47.4711616!4d-0.5518257",
-    "Latitude": 47.4711616,
-    "Longitude": -0.5518257
+    "Latitude": "47.4711616",
+    "Longitude": "-0.5518257"
   },
   {
     "Key": "Ankara",
     "Link": "https://www.google.com/maps/place/Ankara,+Provincia+de+Ankara,+Turqu%C3%ADa/@39.9030394,32.4825723,10z/data=!3m1!4b1!4m5!3m4!1s0x14d347d520732db1:0xbdc57b0c0842b8d!8m2!3d39.9333635!4d32.8597419",
-    "Latitude": 39.9333649,
-    "Longitude": 32.85974
+    "Latitude": "39.9333649",
+    "Longitude": "32.85974"
   },
   {
     "Key": "Asis",
     "Link": "https://www.google.com/maps/place/06081+As%C3%ADs,+Perusa,+Italia/@43.0657744,12.6021364,14z/data=!3m1!4b1!4m5!3m4!1s0x132e9d33527024f1:0xd0981a7dd8fce3ac!8m2!3d43.0707017!4d12.6195966",
-    "Latitude": 43.0707,
-    "Longitude": 12.6195965
+    "Latitude": "43.0707",
+    "Longitude": "12.6195965"
   },
   {
     "Key": "Atenas",
     "Link": "https://www.google.com/maps/place/Atenas,+Grecia/@37.9908164,23.6682989,12z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd1f067043f1:0x2736354576668ddd!8m2!3d37.9838096!4d23.7275388",
-    "Latitude": 37.98381,
-    "Longitude": 23.72754
+    "Latitude": "37.98381",
+    "Longitude": "23.72754"
   },
   {
     "Key": "Athlone",
     "Link": "https://www.google.com/maps/place/Athlone,+Co.+Condado+de+Westmeath,+Irlanda/@53.4232911,-7.9665245,13z/data=!3m1!4b1!4m5!3m4!1s0x485c49013e648c9f:0xdaf91a8d46bde380!8m2!3d53.4239331!4d-7.9406898",
-    "Latitude": 53.4239331,
-    "Longitude": -7.9406898
+    "Latitude": "53.4239331",
+    "Longitude": "-7.9406898"
   },
   {
     "Key": "Aveiro",
     "Link": "https://www.google.com/maps/place/Aveiro,+Portugal/@40.6393791,-8.6621376,14z/data=!3m1!4b1!4m5!3m4!1s0xd23980ed5b2e78d:0x3042e1cd013c1f07!8m2!3d40.6405055!4d-8.6537539",
-    "Latitude": 40.6405067,
-    "Longitude": -8.653754
+    "Latitude": "40.6405067",
+    "Longitude": "-8.653754"
   },
   {
     "Key": "Aviemore",
     "Link": "https://www.google.com/maps/place/Aviemore,+Reino+Unido/@57.1943462,-3.8418945,14z/data=!3m1!4b1!4m5!3m4!1s0x4885f1596e0bdc61:0x33ddd11cd59b7203!8m2!3d57.19449!4d-3.823812",
-    "Latitude": 57.19449,
-    "Longitude": -3.823812
+    "Latitude": "57.19449",
+    "Longitude": "-3.823812"
+  },
+  {
+    "Key": "Avignon",
+    "Link": "https://www.google.com/maps/place/Avi%C3%B1%C3%B3n,+Francia/@43.9416592,4.7632121,12z/data=!3m1!4b1!4m5!3m4!1s0x12b5eb8739bc9d07:0xe6429b6efa1d7b36!8m2!3d43.949317!4d4.805528",
+    "Latitude": "43.949317",
+    "Longitude": "4.805528"
   },
   {
     "Key": "Avila",
     "Link": "https://www.google.com/maps/place/%C3%81vila,+Espa%C3%B1a/@40.6568848,-4.6997033,14z/data=!3m1!4b1!4m5!3m4!1s0xd40f31b5bf84b6b:0xc0f6450ab995ad4a!8m2!3d40.656685!4d-4.6812086",
-    "Latitude": 40.6566849,
-    "Longitude": -4.68120861
+    "Latitude": "40.6566849",
+    "Longitude": "-4.68120861"
   },
   {
     "Key": "Ayamonte",
     "Link": "https://www.google.com/maps/place/21400+Ayamonte,+Huelva,+Espa%C3%B1a/@37.2141558,-7.4196553,14z/data=!3m1!4b1!4m5!3m4!1s0xd1022e712e20021:0x9d38ef9c285af854!8m2!3d37.2141237!4d-7.4043413",
-    "Latitude": 37.2141237,
-    "Longitude": -7.4043413
+    "Latitude": "37.2141237",
+    "Longitude": "-7.4043413"
   },
   {
     "Key": "Azeitao",
     "Link": "https://www.google.com/maps/place/2925-069+Azeit%C3%A3o,+Portugal/@38.5193992,-9.0225548,15z/data=!3m1!4b1!4m5!3m4!1s0xd194f7e11a626d1:0x9468fa05615f7b9c!8m2!3d38.5194!4d-9.0138",
-    "Latitude": 38.5194,
-    "Longitude": -9.0138
+    "Latitude": "38.5194",
+    "Longitude": "-9.0138"
   },
   {
     "Key": "Baalbeck",
     "Link": "https://www.google.com/maps/place/Baalbek,+L%C3%ADbano/@34.0047058,36.2022851,15z/data=!3m1!4b1!4m5!3m4!1s0x1518a17d7177e915:0xc0d03df81962b370!8m2!3d34.0046888!4d36.2110399",
-    "Latitude": 34.0046888,
-    "Longitude": 36.2110399
+    "Latitude": "34.0046888",
+    "Longitude": "36.2110399"
   },
   {
     "Key": "Bacharach",
     "Link": "https://www.google.com.ar/maps/place/55422+Bacharach,+Alemania/@50.0507836,7.6999296,13z/data=!3m1!4b1!4m5!3m4!1s0x47bde04ade0f6acb:0x422d4d510db4160!8m2!3d50.0604184!4d7.7681136",
-    "Latitude": 50.0604184,
-    "Longitude": 7.7681136
+    "Latitude": "50.0604184",
+    "Longitude": "7.7681136"
   },
   {
     "Key": "Baden-Baden",
     "Link": "https://www.google.com.ar/maps/place/Baden-Baden,+Alemania/@48.7574714,8.0743229,11z/data=!3m1!4b1!4m5!3m4!1s0x47971f4391f73145:0x630f291933f3c5c1!8m2!3d48.76564!4d8.2285242",
-    "Latitude": 48.76564,
-    "Longitude": 8.2285242
+    "Latitude": "48.76564",
+    "Longitude": "8.2285242"
   },
   {
     "Key": "Baena",
     "Link": "https://www.google.com.ar/maps/place/14850+Baena,+C%C3%B3rdoba,+Espa%C3%B1a/@37.617531,-4.3312025,15z/data=!3m1!4b1!4m5!3m4!1s0xd6da165cbb275c3:0x84bfe9c6dbc3c338!8m2!3d37.617362!4d-4.3244513",
-    "Latitude": 37.617362,
-    "Longitude": -4.3244513
+    "Latitude": "37.617362",
+    "Longitude": "-4.3244513"
   },
   {
     "Key": "Baeza",
     "Link": "https://www.google.com/maps/place/23440+Baeza,+Ja%C3%A9n,+Espa%C3%B1a/@37.995955,-3.4741389,15z/data=!3m1!4b1!4m5!3m4!1s0xd6e8b9951129cbb:0xaa294bf3b280fe8c!8m2!3d37.9966884!4d-3.4676157",
-    "Latitude": 37.9966884,
-    "Longitude": -3.4676157
+    "Latitude": "37.9966884",
+    "Longitude": "-3.4676157"
   },
   {
     "Key": "Balaton",
     "Link": "https://www.google.com/maps/place/Lago+Balat%C3%B3n/@46.8838727,17.4264556,10z/data=!3m1!4b1!4m5!3m4!1s0x4769956da86885a3:0x730e7eaccdcb2779!8m2!3d46.8302679!4d17.7340438",
-    "Latitude": 46.83027,
-    "Longitude": 17.7340431
+    "Latitude": "46.83027",
+    "Longitude": "17.7340431"
   },
   {
     "Key": "Balestrand",
     "Link": "https://www.google.com.ar/maps/place/Balestrand,+6899+Balestrand,+Noruega/@61.1698197,6.7149252,9.25z/data=!4m5!3m4!1s0x46161ec608022e4f:0x1f912cdfb2a3c9f3!8m2!3d61.2005901!4d6.5276286",
-    "Latitude": 61.2005901,
-    "Longitude": 6.5276286
+    "Latitude": "61.2005901",
+    "Longitude": "6.5276286"
   },
   {
-    "Key": "Banja Luka",
+    "Key": "Banja-Luka",
     "Link": "https://www.google.com/maps/place/Bania+Luka+78000,+Bosnia+y+Herzegovina/@44.7786928,17.1361266,12z/data=!3m1!4b1!4m5!3m4!1s0x475e03062ccd6b05:0x73fe3280dfee195d!8m2!3d44.7721811!4d17.191",
-    "Latitude": 44.7721811,
-    "Longitude": 17.191
+    "Latitude": "44.7721811",
+    "Longitude": "17.191"
   },
   {
     "Key": "Banolas",
     "Link": "https://www.google.com.ar/maps/place/17820+Ba%C3%B1olas,+Girona,+Espa%C3%B1a/@42.1168185,2.7488544,14z/data=!3m1!4b1!4m5!3m4!1s0x12bac203fd04545d:0x15ea03f3efd41037!8m2!3d42.1181833!4d2.7651488",
-    "Latitude": 42.1181833,
-    "Longitude": 2.7651488
+    "Latitude": "42.1181833",
+    "Longitude": "2.7651488"
   },
   {
     "Key": "Barcelona",
     "Link": "https://www.google.com/maps/place/Barcelona,+Espa%C3%B1a/@41.3947688,2.0787275,12z/data=!3m1!4b1!4m5!3m4!1s0x12a49816718e30e5:0x44b0fb3d4f47660a!8m2!3d41.3850639!4d2.1734035",
-    "Latitude": 41.3850632,
-    "Longitude": 2.1734035
+    "Latitude": "41.3850632",
+    "Longitude": "2.1734035"
   },
   {
     "Key": "Bari",
     "Link": "https://www.google.com/maps/place/Bari,+Italia/@41.1115511,16.7419938,11z/data=!3m1!4b1!4m5!3m4!1s0x1347e8f8f3078d6f:0x87254066a3908e1!8m2!3d41.1171432!4d16.8718715",
-    "Latitude": 41.1171432,
-    "Longitude": 16.8718715
+    "Latitude": "41.1171432",
+    "Longitude": "16.8718715"
   },
   {
     "Key": "Bath",
     "Link": "https://www.google.com/maps/place/Bath,+Reino+Unido/@51.3801748,-2.3995495,13z/data=!3m1!4b1!4m5!3m4!1s0x487178a6743ee12d:0x138b27d0d66d9a09!8m2!3d51.3810641!4d-2.3590167",
-    "Latitude": 51.3810641,
-    "Longitude": -2.3590167
+    "Latitude": "51.3810641",
+    "Longitude": "-2.3590167"
   },
   {
     "Key": "Beirut",
     "Link": "https://www.google.com/maps/place/Beirut,+L%C3%ADbano/@33.8892846,35.4692627,13z/data=!3m1!4b1!4m5!3m4!1s0x151f17215880a78f:0x729182bae99836b4!8m2!3d33.8937913!4d35.5017767",
-    "Latitude": 33.8937913,
-    "Longitude": 35.5017767
+    "Latitude": "33.8937913",
+    "Longitude": "35.5017767"
   },
   {
     "Key": "Beja",
     "Link": "https://www.google.com.ar/maps/place/Beja,+Portugal/@38.0223347,-7.958667,12z/data=!3m1!4b1!4m5!3m4!1s0xd1a7371a5dfcd87:0x6a5aea70e6cc5193!8m2!3d38.0153039!4d-7.8627308",
-    "Latitude": 38.0153039,
-    "Longitude": -7.8627308
+    "Latitude": "38.0153039",
+    "Longitude": "-7.8627308"
   },
   {
     "Key": "Belen",
     "Link": "https://www.google.com/maps/place/Bel%C3%A9n/@31.7053996,35.1936877,15z/data=!3m1!4b1!4m5!3m4!1s0x1502d865aec80d67:0xf5c4213de4baf1f8!8m2!3d31.7053821!4d35.2024425",
-    "Latitude": 31.7053821,
-    "Longitude": 35.2024425
+    "Latitude": "31.7053821",
+    "Longitude": "35.2024425"
   },
   {
     "Key": "Belfast",
     "Link": "https://www.google.com/maps/place/Belfast,+Reino+Unido/@54.5949981,-6.0667163,11z/data=!3m1!4b1!4m5!3m4!1s0x4860fffdd7d08a3b:0x2e57162cefc7c531!8m2!3d54.597285!4d-5.93012",
-    "Latitude": 54.597285,
-    "Longitude": -5.93012
+    "Latitude": "54.597285",
+    "Longitude": "-5.93012"
   },
   {
     "Key": "Belgrado",
     "Link": "https://www.google.com/maps/place/Belgrado,+Serbia/@44.8154033,20.2825112,11z/data=!3m1!4b1!4m5!3m4!1s0x475a7aa3d7b53fbd:0x1db8645cf2177ee4!8m2!3d44.786568!4d20.4489216",
-    "Latitude": 44.786568,
-    "Longitude": 20.4489216
+    "Latitude": "44.786568",
+    "Longitude": "20.4489216"
   },
   {
     "Key": "Belmonte",
     "Link": "https://www.google.com/maps/place/Belmonte,+Portugal/@40.3356025,-7.3795818,13z/data=!3m1!4b1!4m5!3m4!1s0xd3d1c235ce0cdb3:0x26944f23acf8557c!8m2!3d40.351063!4d-7.3408535",
-    "Latitude": 40.3510628,
-    "Longitude": -7.34085369
+    "Latitude": "40.3510628",
+    "Longitude": "-7.34085369"
   },
   {
     "Key": "Berat",
     "Link": "https://www.google.com/maps/place/Distrito+de+Berat,+Albania/@40.7115121,19.9372814,14z/data=!3m1!4b1!4m5!3m4!1s0x135a98b37536c5c9:0xd14c62aadd2f44e5!8m2!3d40.7086377!4d19.9437314",
-    "Latitude": 40.7086377,
-    "Longitude": 19.9437314
+    "Latitude": "40.7086377",
+    "Longitude": "19.9437314"
   },
   {
     "Key": "Bergen",
     "Link": "https://www.google.com.ar/maps/place/Bergen,+Noruega/@60.3648911,5.1489988,10z/data=!3m1!4b1!4m5!3m4!1s0x46390d4966767d77:0x9e42a03eb4de0a08!8m2!3d60.3912628!4d5.3220544",
-    "Latitude": 60.3912628,
-    "Longitude": 5.3220544
+    "Latitude": "60.3912628",
+    "Longitude": "5.3220544"
   },
   {
     "Key": "Berlin",
     "Link": "https://www.google.com/maps/place/Berl%C3%ADn,+Alemania/@52.5065133,13.1445486,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954",
-    "Latitude": 52.5200081,
-    "Longitude": 13.404954
+    "Latitude": "52.5200081",
+    "Longitude": "13.404954"
   },
   {
     "Key": "Bermeo",
     "Link": "https://www.google.com.ar/maps/place/48370+Bermeo,+Vizcaya,+Espa%C3%B1a/@43.4192581,-2.7363731,15z/data=!3m1!4b1!4m5!3m4!1s0xd4e3e5bb184d3ab:0xd5ca75a07eacbc80!8m2!3d43.4188248!4d-2.7269756",
-    "Latitude": 43.4188248,
-    "Longitude": -2.7269756
+    "Latitude": "43.4188248",
+    "Longitude": "-2.7269756"
   },
   {
     "Key": "Berna",
     "Link": "https://www.google.com/maps/place/Berna,+Suiza/@46.9546486,7.3248299,12z/data=!3m1!4b1!4m5!3m4!1s0x478e39c0d43a1b77:0xcb555ffe0457659a!8m2!3d46.9479739!4d7.4474468",
-    "Latitude": 46.9479752,
-    "Longitude": 7.447447
+    "Latitude": "46.9479752",
+    "Longitude": "7.447447"
   },
   {
     "Key": "Besalu",
     "Link": "https://www.google.com.ar/maps/place/17850+Besal%C3%BA,+Girona,+Espa%C3%B1a/@42.1998703,2.6846592,15z/data=!3m1!4b1!4m5!3m4!1s0x12bac7547751518d:0x334cb5899dfbf86b!8m2!3d42.2002357!4d2.6953375",
-    "Latitude": 42.2002357,
-    "Longitude": 2.6953375
+    "Latitude": "42.2002357",
+    "Longitude": "2.6953375"
   },
   {
     "Key": "Bilbao",
     "Link": "https://www.google.com/maps/place/Bilbao,+Vizcaya,+Espa%C3%B1a/@43.2633182,-2.9685839,13z/data=!3m1!4b1!4m5!3m4!1s0xd4e4e27664b89b9:0x6534acc41e95a645!8m2!3d43.2630126!4d-2.9349852",
-    "Latitude": 43.2630119,
-    "Longitude": -2.93498516
+    "Latitude": "43.2630119",
+    "Longitude": "-2.93498516"
   },
   {
     "Key": "Bitola",
     "Link": "https://www.google.com/maps/place/Bitola,+Macedonia+(ARYM)/@41.0257978,21.2935659,13z/data=!3m1!4b1!4m5!3m4!1s0x13572451365fb6fd:0xfa67bbbf65bec948!8m2!3d41.0296773!4d21.3292164",
-    "Latitude": 41.02968,
-    "Longitude": 21.329216
+    "Latitude": "41.02968",
+    "Longitude": "21.329216"
   },
   {
     "Key": "Blanes",
     "Link": "https://www.google.com.ar/maps/place/17300+Blanes,+Girona,+Espa%C3%B1a/@41.6694461,2.7485433,13z/data=!3m1!4b1!4m5!3m4!1s0x12bb3df338248d43:0xd00e38b0f0638982!8m2!3d41.6759954!4d2.7902289",
-    "Latitude": 41.6759954,
-    "Longitude": 2.7902289
+    "Latitude": "41.6759954",
+    "Longitude": "2.7902289"
   },
   {
     "Key": "Bled",
     "Link": "https://www.google.com/maps/place/4260+Bled,+Eslovenia/@46.3654712,14.0609275,13z/data=!3m1!4b1!4m5!3m4!1s0x477a8e1dd7139961:0x400f81c823fec50!8m2!3d46.3683266!4d14.1145798",
-    "Latitude": 46.3683266,
-    "Longitude": 14.1145798
+    "Latitude": "46.3683266",
+    "Longitude": "14.1145798"
   },
   {
     "Key": "Blois",
     "Link": "https://www.google.com/maps/place/41000+Blois,+Francia/@47.5813515,1.2348552,12z/data=!3m1!4b1!4m5!3m4!1s0x47e3579523c8d25d:0x40dc8d7053829b0!8m2!3d47.5860921!4d1.3359475",
-    "Latitude": 47.5860921,
-    "Longitude": 1.3359475
+    "Latitude": "47.5860921",
+    "Longitude": "1.3359475"
   },
   {
     "Key": "Bodo",
     "Link": "https://www.google.com.ar/maps/place/Bod%C3%B8,+Noruega/@67.2916,14.4125185,12z/data=!3m1!4b1!4m5!3m4!1s0x45df10f55b63f17d:0x8e785b93b25d3c53!8m2!3d67.2803556!4d14.404916",
-    "Latitude": 67.2803556,
-    "Longitude": 14.404916
+    "Latitude": "67.2803556",
+    "Longitude": "14.404916"
   },
   {
     "Key": "Bohinj",
     "Link": "https://www.google.com/maps/place/Municipality+of+Bohinj,+Eslovenia/@46.3021992,13.8128884,11z/data=!3m1!4b1!4m5!3m4!1s0x477a8d690162778d:0x400f81c823fec60!8m2!3d46.3005652!4d13.9427195",
-    "Latitude": 46.3005652,
-    "Longitude": 13.9427195
+    "Latitude": "46.3005652",
+    "Longitude": "13.9427195"
   },
   {
     "Key": "Bolonia",
     "Link": "https://www.google.com/maps/place/Bolonia,+Italia/@44.4990968,11.2616453,12z/data=!3m1!4b1!4m5!3m4!1s0x477fd498e951c40b:0xa2e17c015ba49441!8m2!3d44.494887!4d11.3426162",
-    "Latitude": 44.49489,
-    "Longitude": 11.3426161
+    "Latitude": "44.49489",
+    "Longitude": "11.3426161"
   },
   {
     "Key": "Boston",
     "Link": "https://www.google.co/maps/place/Boston,+Massachusetts,+EE.+UU./@42.3145186,-71.1103702,11z/data=!3m1!4b1!4m5!3m4!1s0x89e3652d0d3d311b:0x787cbf240162e8a0!8m2!3d42.3600825!4d-71.0588801",
-    "Latitude": 42.3600825,
-    "Longitude": -71.0588801
+    "Latitude": "42.3600825",
+    "Longitude": "-71.0588801"
+  },
+  {
+    "Key": "Bournemouth",
+    "Link": "https://www.google.com/maps/place/Bournemouth,+Reino+Unido/@50.7540917,-1.929779,12z/data=!3m1!4b1!4m5!3m4!1s0x487398a0b1a067fd:0x3b2ee0156ba92c94!8m2!3d50.719164!4d-1.880769",
+    "Latitude": "50.719164",
+    "Longitude": "-1.880769"
   },
   {
     "Key": "Braga",
     "Link": "https://www.google.com/maps/place/Braga,+Portugal/@41.5472695,-8.4464407,13z/data=!3m1!4b1!4m5!3m4!1s0xd24febc6cf5d867:0xbc5d054162d1e218!8m2!3d41.5454486!4d-8.426507",
-    "Latitude": 41.54545,
-    "Longitude": -8.426507
+    "Latitude": "41.54545",
+    "Longitude": "-8.426507"
   },
   {
     "Key": "Braganza",
     "Link": "https://www.google.com.ar/maps/place/Braganza,+Portugal/@41.8115419,-6.7835512,13z/data=!3m1!4b1!4m5!3m4!1s0xd3a49fd2c3fc247:0xd7369ad50abd191c!8m2!3d41.8061131!4d-6.756738",
-    "Latitude": 41.8061131,
-    "Longitude": -6.756738
+    "Latitude": "41.8061131",
+    "Longitude": "-6.756738"
   },
   {
     "Key": "Bran",
     "Link": "https://www.google.com/maps/place/Bran+507025,+Ruman%C3%ADa/@45.5083596,25.3401745,13z/data=!3m1!4b1!4m5!3m4!1s0x40b347e54ce55873:0xb2a3745ffef5cc10!8m2!3d45.5191918!4d25.3696831",
-    "Latitude": 45.5191918,
-    "Longitude": 25.3696831
+    "Latitude": "45.5191918",
+    "Longitude": "25.3696831"
   },
   {
     "Key": "Brasov",
     "Link": "https://www.google.com.ar/maps/place/Bra%C8%99ov,+Ruman%C3%ADa/@45.6525767,25.5264225,12z/data=!3m1!4b1!4m5!3m4!1s0x40b35b862aa214f1:0x6cf5f2ef54391e0f!8m2!3d45.6579755!4d25.6011977",
-    "Latitude": 45.6579755,
-    "Longitude": 25.6011977
+    "Latitude": "45.6579755",
+    "Longitude": "25.6011977"
   },
   {
     "Key": "Bratislava",
     "Link": "https://www.google.com/maps/place/Bratislava,+Eslovaquia/@48.1360475,16.9447816,10.75z/data=!4m5!3m4!1s0x476c89360aca6197:0x631f9b82fd884368!8m2!3d48.1485965!4d17.1077478",
-    "Latitude": 48.1485977,
-    "Longitude": 17.107748
+    "Latitude": "48.1485977",
+    "Longitude": "17.107748"
   },
   {
     "Key": "Breslavia",
     "Link": "https://www.google.com/maps/place/Wroclaw+(Breslavia),+Polonia/@51.1272097,16.8517792,11z/data=!3m1!4b1!4m5!3m4!1s0x470fe9c2d4b58abf:0xb70956aec205e0f5!8m2!3d51.1078852!4d17.0385376",
-    "Latitude": 51.1078852,
-    "Longitude": 17.0385376
+    "Latitude": "51.1078852",
+    "Longitude": "17.0385376"
   },
   {
     "Key": "Brion",
     "Link": "https://www.google.com.ar/maps/place/15865+Bri%C3%B3n,+La+Coru%C3%B1a,+Espa%C3%B1a/@42.8638818,-8.6872359,15z/data=!3m1!4b1!4m5!3m4!1s0xd2ee2e85bbfea75:0xc13875876a96500d!8m2!3d42.8668459!4d-8.6783689",
-    "Latitude": 42.8668459,
-    "Longitude": -8.6783689
+    "Latitude": "42.8668459",
+    "Longitude": "-8.6783689"
   },
   {
     "Key": "Bristol",
     "Link": "https://www.google.com/maps/place/Br%C3%ADstol,+Reino+Unido/@51.4686194,-2.7308021,11z/data=!3m1!4b1!4m5!3m4!1s0x4871836681b3d861:0x8ee4b22e4b9ad71f!8m2!3d51.454513!4d-2.58791",
-    "Latitude": 51.454513,
-    "Longitude": -2.58791
+    "Latitude": "51.454513",
+    "Longitude": "-2.58791"
   },
   {
     "Key": "Brno",
     "Link": "https://www.google.com/maps/place/Brno,+Chequia/@49.2022097,16.4378755,11z/data=!3m1!4b1!4m5!3m4!1s0x4712943ac03f5111:0x400af0f6614b1b0!8m2!3d49.1950602!4d16.6068371",
-    "Latitude": 49.1950602,
-    "Longitude": 16.6068371
+    "Latitude": "49.1950602",
+    "Longitude": "16.6068371"
   },
   {
     "Key": "Brujas",
     "Link": "https://www.google.com.ar/maps/place/Brujas,+B%C3%A9lgica/@51.2685171,3.0636818,10.5z/data=!4m5!3m4!1s0x47c350d0c11e420d:0x1aa2f35ac8834df7!8m2!3d51.209348!4d3.2246995",
-    "Latitude": 51.209348,
-    "Longitude": 3.2246995
+    "Latitude": "51.209348",
+    "Longitude": "3.2246995"
   },
   {
     "Key": "Bruselas",
     "Link": "https://www.google.com/maps/place/Bruselas,+B%C3%A9lgica/@50.8549541,4.30535,12z/data=!3m1!4b1!4m5!3m4!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!8m2!3d50.8503396!4d4.3517103",
-    "Latitude": 50.850338,
-    "Longitude": 4.35171032
+    "Latitude": "50.850338",
+    "Longitude": "4.35171032"
   },
   {
     "Key": "Bucarest",
     "Link": "https://www.google.com/maps/place/Bucarest,+Ruman%C3%ADa/@44.4379853,25.9545517,11z/data=!3m1!4b1!4m5!3m4!1s0x40b1f93abf3cad4f:0xac0632e37c9ca628!8m2!3d44.4267674!4d26.1025384",
-    "Latitude": 44.4267674,
-    "Longitude": 26.1025384
+    "Latitude": "44.4267674",
+    "Longitude": "26.1025384"
   },
   {
     "Key": "Budapest",
     "Link": "https://www.google.com/maps/place/Budapest,+Hungr%C3%ADa/@47.4811281,18.9902183,11z/data=!3m1!4b1!4m5!3m4!1s0x4741c334d1d4cfc9:0x400c4290c1e1160!8m2!3d47.497912!4d19.040235",
-    "Latitude": 47.4979134,
-    "Longitude": 19.0402355
+    "Latitude": "47.4979134",
+    "Longitude": "19.0402355"
   },
   {
     "Key": "Budva",
     "Link": "https://www.google.com.ar/maps/place/Budva,+Montenegro/@42.2881524,18.823968,14z/data=!3m1!4b1!4m5!3m4!1s0x134dd495f3e43371:0x3b467f06bc9c3048!8m2!3d42.2911489!4d18.840295",
-    "Latitude": 42.2911489,
-    "Longitude": 18.840295
+    "Latitude": "42.2911489",
+    "Longitude": "18.840295"
   },
   {
     "Key": "Bunratty",
     "Link": "https://www.google.com/maps/place/Bunratty+West,+Bunratty,+Co.+Clare,+Irlanda/@52.6988862,-8.8198831,15z/data=!3m1!4b1!4m5!3m4!1s0x485b421ebfc92885:0xa00c7a99731e460!8m2!3d52.698874!4d-8.8111283",
-    "Latitude": 52.698874,
-    "Longitude": -8.8111283
+    "Latitude": "52.698874",
+    "Longitude": "-8.8111283"
   },
   {
     "Key": "Burdeos",
     "Link": "https://www.google.com/maps/place/Burdeos,+Francia/@44.8637065,-0.6561812,12z/data=!3m1!4b1!4m5!3m4!1s0xd5527e8f751ca81:0x796386037b397a89!8m2!3d44.837789!4d-0.57918",
-    "Latitude": 44.8377876,
-    "Longitude": -0.57918
+    "Latitude": "44.8377876",
+    "Longitude": "-0.57918"
   },
   {
     "Key": "Burgas",
     "Link": "https://www.google.com.ar/maps/place/Burgas,+Bulgaria/@42.5266897,27.3118797,11z/data=!3m1!4b1!4m5!3m4!1s0x40a69266f9fc9d91:0x400a01269bf4df0!8m2!3d42.5047926!4d27.4626361",
-    "Latitude": 42.5047926,
-    "Longitude": 27.4626361
+    "Latitude": "42.5047926",
+    "Longitude": "27.4626361"
   },
   {
     "Key": "Burgos",
     "Link": "https://www.google.com.ar/maps/place/Burgos,+Espa%C3%B1a/@42.3441841,-3.7297126,13z/data=!3m1!4b1!4m5!3m4!1s0xd45fcbe3dc20327:0xa1f5beab8e71aa1!8m2!3d42.3439925!4d-3.696906",
-    "Latitude": 42.3439925,
-    "Longitude": -3.696906
+    "Latitude": "42.3439925",
+    "Longitude": "-3.696906"
   },
   {
     "Key": "Bursa",
     "Link": "https://www.google.com/maps/place/Bursa,+Provincia+de+Bursa,+Turqu%C3%ADa/@40.2215936,28.8922036,11z/data=!3m1!4b1!4m5!3m4!1s0x14ca1582d8d45695:0x61a00555fc973392!8m2!3d40.1885281!4d29.0609636",
-    "Latitude": 40.18853,
-    "Longitude": 29.0609627
+    "Latitude": "40.18853",
+    "Longitude": "29.0609627"
   },
   {
-    "Key": "Cabo Norte",
+    "Key": "Cabo-Norte",
     "Link": "https://www.google.com.ar/maps/place/Cabo+Norte/@71.170955,25.7814712,17z/data=!3m1!4b1!4m5!3m4!1s0x45c84d095f47a5f3:0xf9f9b4271afddf7e!8m2!3d71.1709533!4d25.7836599",
-    "Latitude": 71.1709533,
-    "Longitude": 25.7836599
+    "Latitude": "71.1709533",
+    "Longitude": "25.7836599"
   },
   {
     "Key": "Cadiz",
     "Link": "https://www.google.com/maps/place/C%C3%A1diz,+Espa%C3%B1a/@36.5164503,-6.3174868,13z/data=!3m1!4b1!4m5!3m4!1s0xd0dd25724ec240f:0x40463fd8ca03b00!8m2!3d36.5270612!4d-6.2885962",
-    "Latitude": 36.5270612,
-    "Longitude": -6.2885962
+    "Latitude": "36.5270612",
+    "Longitude": "-6.2885962"
   },
   {
     "Key": "Caen",
     "Link": "https://www.google.com.ar/maps/place/14000+Caen,+Francia/@49.1846787,-0.4072785,13z/data=!3m1!4b1!4m5!3m4!1s0x480a42bd4c04c933:0x3da5749f30d00859!8m2!3d49.182863!4d-0.370679",
-    "Latitude": 49.182863,
-    "Longitude": -0.370679
+    "Latitude": "49.182863",
+    "Longitude": "-0.370679"
   },
   {
     "Key": "Cagliari",
     "Link": "https://www.google.com.ar/maps/place/Cagliari,+Italia/@39.2255164,9.0583374,12z/data=!3m1!4b1!4m5!3m4!1s0x12e73415b68e1ca3:0x201e1506cf816eb1!8m2!3d39.2238411!4d9.1216613",
-    "Latitude": 39.2238411,
-    "Longitude": 9.1216613
+    "Latitude": "39.2238411",
+    "Longitude": "9.1216613"
   },
   {
     "Key": "Cambados",
     "Link": "https://www.google.com.ar/maps/place/Cambados,+Pontevedra,+Espa%C3%B1a/@42.5150226,-8.8271355,14z/data=!3m1!4b1!4m5!3m4!1s0xd2f6ac173f11e4d:0xb8fc2ad62effa6cc!8m2!3d42.5137374!4d-8.8145173",
-    "Latitude": 42.5137374,
-    "Longitude": -8.8145173
+    "Latitude": "42.5137374",
+    "Longitude": "-8.8145173"
   },
   {
     "Key": "Cambridge",
     "Link": "https://www.google.com/maps/place/Cambridge,+Reino+Unido/@52.1988214,0.0499473,12z/data=!3m1!4b1!4m5!3m4!1s0x47d85d89f32a012d:0x63a320e1a35e3d21!8m2!3d52.205337!4d0.121817",
-    "Latitude": 52.2053375,
-    "Longitude": 0.121817
+    "Latitude": "52.2053375",
+    "Longitude": "0.121817"
   },
   {
-    "Key": "Canal De Corinto",
+    "Key": "Canal-De-Corinto",
     "Link": "https://www.google.com/maps/place/Corinto+201+00,+Grecia/@37.9359476,22.9130596,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0x14a015915d91736f:0x6926afe9d5643195!2sCanal+de+Corinto!3b1!8m2!3d37.9334822!4d22.9863057!3m4!1s0x14a0144ce0a75b5f:0xcbec55e5ce5dabf4!8m2!3d37.938647!4d22.9322433",
-    "Latitude": 37.93865,
-    "Longitude": 22.9322433
+    "Latitude": "37.93865",
+    "Longitude": "22.9322433"
   },
   {
     "Key": "Cannes",
     "Link": "https://www.google.com/maps/place/Cannes,+Francia/@43.5369861,6.9396592,12z/data=!3m1!4b1!4m5!3m4!1s0x12ce8180530cffff:0x40819a5fd979e20!8m2!3d43.552847!4d7.017369",
-    "Latitude": 43.55285,
-    "Longitude": 7.017369
+    "Latitude": "43.55285",
+    "Longitude": "7.017369"
   },
   {
     "Key": "Capadocia",
     "Link": "https://www.google.com/maps/place/38%C2%B040'14.0%22N+34%C2%B050'21.0%22E/@38.9252115,34.2660247,8.75z/data=!4m5!3m4!1s0x0:0x0!8m2!3d38.670556!4d34.839167",
-    "Latitude": 38.6705551,
-    "Longitude": 34.83917
+    "Latitude": "38.6705551",
+    "Longitude": "34.83917"
   },
   {
     "Key": "Capri",
     "Link": "https://www.google.com/maps/place/80076+Capri,+N%C3%A1poles,+Italia/@40.5512538,14.2369507,15z/data=!3m1!4b1!4m5!3m4!1s0x133b782b755051af:0xfa59d769d280ea4f!8m2!3d40.5506899!4d14.2428003",
-    "Latitude": 40.5506899,
-    "Longitude": 14.2428003
+    "Latitude": "40.5506899",
+    "Longitude": "14.2428003"
   },
   {
     "Key": "Capua",
     "Link": "https://www.google.com/maps/place/81043+Capua,+Caserta,+Italia/@41.104242,14.1960696,14z/data=!3m1!4b1!4m5!3m4!1s0x133afeb77cc9fb3b:0xa76c0de41f4ec000!8m2!3d41.1061258!4d14.2130486",
-    "Latitude": 41.1061258,
-    "Longitude": 14.2130486
+    "Latitude": "41.1061258",
+    "Longitude": "14.2130486"
   },
   {
     "Key": "Carpi",
     "Link": "https://www.google.com/maps/place/41012+Carpi+M%C3%B3dena,+Italia/@44.7787652,10.8417363,13z/data=!3m1!4b1!4m5!3m4!1s0x477f8d2da31002a3:0xe3b13d5ff519c63f!8m2!3d44.7838779!4d10.8796629",
-    "Latitude": 44.78388,
-    "Longitude": 10.8796625
+    "Latitude": "44.78388",
+    "Longitude": "10.8796625"
   },
   {
     "Key": "Cartagena",
     "Link": "https://www.google.com/maps/place/Cartagena,+Murcia,+Espa%C3%B1a/@37.6174745,-1.023527,13z/data=!3m1!4b1!4m5!3m4!1s0xd634222a43ab56d:0x47d790cefef6f9ff!8m2!3d37.6256827!4d-0.9965839",
-    "Latitude": 37.6256827,
-    "Longitude": -0.9965839
+    "Latitude": "37.6256827",
+    "Longitude": "-0.9965839"
   },
   {
     "Key": "Casablanca",
     "Link": "https://www.google.com/maps/place/Casablanca,+Marruecos/@33.5722678,-7.6570331,12z/data=!3m1!4b1!4m5!3m4!1s0xda7cd4778aa113b:0xb06c1d84f310fd3!8m2!3d33.5731104!4d-7.5898434",
-    "Latitude": 33.57311,
-    "Longitude": -7.58984327
+    "Latitude": "33.57311",
+    "Longitude": "-7.58984327"
   },
   {
     "Key": "Cascaes",
     "Link": "https://www.google.com/maps/place/Cascaes,+Portugal/@38.7224184,-9.4673542,12z/data=!3m1!4b1!4m5!3m4!1s0xd1ec42e9c75e329:0xe91066897ab203!8m2!3d38.6967571!4d-9.4207438",
-    "Latitude": 38.69676,
-    "Longitude": -9.420744
+    "Latitude": "38.69676",
+    "Longitude": "-9.420744"
   },
   {
-    "Key": "Castelo Branco",
+    "Key": "Castelo-Branco",
     "Link": "https://www.google.com/maps/place/Castelo+Branco,+Portugal/@39.8114325,-7.603193,11z/data=!3m1!4b1!4m5!3m4!1s0xd3d5e6db147ce29:0x500ebbde49099c0!8m2!3d39.8031161!4d-7.4597725",
-    "Latitude": 39.8031158,
-    "Longitude": -7.45977259
+    "Latitude": "39.8031158",
+    "Longitude": "-7.45977259"
   },
   {
-    "Key": "Castelo De Vide",
+    "Key": "Castelo-De-Vide",
     "Link": "https://www.google.com/maps/place/Castelo+de+Vide,+Portugal/@39.4758339,-7.6285066,11z/data=!3m1!4b1!4m5!3m4!1s0xd179552efaba93b:0x7eacddce7262e3cc!8m2!3d39.4142343!4d-7.4539635",
-    "Latitude": 39.4142342,
-    "Longitude": -7.45396328
+    "Latitude": "39.4142342",
+    "Longitude": "-7.45396328"
   },
   {
-    "Key": "Castillos Del Loira",
+    "Key": "Castillos-Del-Loira",
     "Link": "https://www.google.com/maps/place/Tours,+Francia/@47.3942462,0.6248998,12z/data=!3m1!4b1!4m5!3m4!1s0x47fcd5b34a979a55:0x40dc8d705388430!8m2!3d47.3941659!4d0.6845856",
-    "Latitude": 47.394165,
-    "Longitude": 0.6845856
+    "Latitude": "47.394165",
+    "Longitude": "0.6845856"
   },
   {
-    "Key": "Castro Urdiales",
+    "Key": "Castro-Urdiales",
     "Link": "https://www.google.com/maps/place/Castro+Urdiales,+Cantabria,+Espa%C3%B1a/@43.3767446,-3.2514754,13z/data=!3m1!4b1!4m5!3m4!1s0xd4ef3cb6f721e6f:0xf2281c1216c70819!8m2!3d43.3688221!4d-3.2156354",
-    "Latitude": 43.3688221,
-    "Longitude": -3.2156354
+    "Latitude": "43.3688221",
+    "Longitude": "-3.2156354"
   },
   {
-    "Key": "Cataratas Del Niagara",
+    "Key": "Cataratas-Del-Niagara",
     "Link": "https://www.google.com/maps/place/Cataratas+del+Ni%C3%A1gara,+Nueva+York,+EE.+UU./@43.0995002,-79.0437611,13z/data=!3m1!4b1!4m5!3m4!1s0x89d363ea29e633b7:0x61975ae4b9c5aab3!8m2!3d43.0962143!4d-79.0377388",
-    "Latitude": 43.0962143,
-    "Longitude": -79.037735
+    "Latitude": "43.0962143",
+    "Longitude": "-79.037735"
   },
   {
     "Key": "Cazorla",
     "Link": "https://www.google.com/maps/place/23470+Cazorla,+Ja%C3%A9n,+Espa%C3%B1a/@37.9135919,-3.011814,15z/data=!3m1!4b1!4m5!3m4!1s0xd6fa991571bb309:0x152a4457b2b48bfb!8m2!3d37.9124527!4d-3.0038121",
-    "Latitude": 37.9124527,
-    "Longitude": -3.0038121
+    "Latitude": "37.9124527",
+    "Longitude": "-3.0038121"
   },
   {
     "Key": "Cefalu",
     "Link": "https://www.google.com/maps/place/90015+Cefal%C3%BA,+Palermo,+Italia/@38.0327666,13.9903872,14z/data=!3m1!4b1!4m5!3m4!1s0x13173bd98145366d:0xa2bab0fc5f835112!8m2!3d38.0337046!4d14.0174436",
-    "Latitude": 38.0337046,
-    "Longitude": 14.0174436
+    "Latitude": "38.0337046",
+    "Longitude": "14.0174436"
   },
   {
-    "Key": "Ceske Budejovice",
+    "Key": "Ceske-Budejovice",
     "Link": "https://www.google.com/maps/place/%C4%8Cesk%C3%A9+Bud%C4%9Bjovice,+Chequia/@48.976444,14.420507,12z/data=!3m1!4b1!4m5!3m4!1s0x47734fb43a5f629b:0x400af0f6614de80!8m2!3d48.9756578!4d14.480255",
-    "Latitude": 48.9756578,
-    "Longitude": 14.480255
+    "Latitude": "48.9756578",
+    "Longitude": "14.480255"
   },
   {
-    "Key": "Cesky Krumlov",
+    "Key": "Cesky-Krumlov",
     "Link": "https://www.google.com/maps/place/381+01+%C4%8Cesk%C3%BD+Krumlov,+Chequia/@48.8123743,14.2771677,13z/data=!3m1!4b1!4m5!3m4!1s0x47735d9c336e1879:0x400af0f6614df20!8m2!3d48.8127354!4d14.3174657",
-    "Latitude": 48.8127354,
-    "Longitude": 14.3174657
+    "Latitude": "48.8127354",
+    "Longitude": "14.3174657"
   },
   {
     "Key": "Chartres",
     "Link": "https://www.google.com/maps/place/28000+Chartres,+Francia/@48.4481021,1.4696085,13z/data=!3m1!4b1!4m5!3m4!1s0x47e40c4424f1e18b:0x7863884853c7ed29!8m2!3d48.443854!4d1.489012",
-    "Latitude": 48.443854,
-    "Longitude": 1.489012
+    "Latitude": "48.443854",
+    "Longitude": "1.489012"
   },
   {
     "Key": "Chaves",
     "Link": "https://www.google.com.ar/maps/place/Chaves,+Portugal/@41.7303014,-7.6869357,10z/data=!3m1!4b1!4m5!3m4!1s0xd3ade6620f62dad:0x672378b8a643288d!8m2!3d41.7410586!4d-7.4706046",
-    "Latitude": 41.7410586,
-    "Longitude": -7.4706046
+    "Latitude": "41.7410586",
+    "Longitude": "-7.4706046"
   },
   {
     "Key": "Chester",
     "Link": "https://www.google.com/maps/place/Chester,+Reino+Unido/@53.1924838,-2.9229012,13z/data=!3m1!4b1!4m5!3m4!1s0x487ac1d9629cf569:0x49626cb38dd8f89f!8m2!3d53.193392!4d-2.893075",
-    "Latitude": 53.1933937,
-    "Longitude": -2.893075
+    "Latitude": "53.1933937",
+    "Longitude": "-2.893075"
   },
   {
     "Key": "Chinon",
     "Link": "https://www.google.com/maps/place/37500+Chinon,+Francia/@47.1693024,0.1732152,12z/data=!3m1!4b1!4m5!3m4!1s0x47fd418161944fab:0x6a71743c76ccc047!8m2!3d47.167296!4d0.240385",
-    "Latitude": 47.167296,
-    "Longitude": 0.240385
+    "Latitude": "47.167296",
+    "Longitude": "0.240385"
   },
   {
-    "Key": "Cinque Terre",
+    "Key": "Cinque-Terre",
     "Link": "https://www.google.com.ar/maps/place/Cinque+Terre,+La+Spezia,+Italia/@44.1238162,9.6563262,13z/data=!3m1!4b1!4m5!3m4!1s0x12d4ee1b9aabba7b:0xff95cef11a70f4ac!8m2!3d44.1460939!4d9.6438793",
-    "Latitude": 44.1460939,
-    "Longitude": 9.6438793
+    "Latitude": "44.1460939",
+    "Longitude": "9.6438793"
   },
   {
-    "Key": "Ciudad Real",
+    "Key": "Ciudad-Real",
     "Link": "https://www.google.com/maps/place/Ciudad+Real,+Cdad.+Real,+Espa%C3%B1a/@38.9861052,-3.9620076,13z/data=!3m1!4b1!4m5!3m4!1s0xd6bdcb33d97174d:0xefaf23e8b1e79c2b!8m2!3d38.9848295!4d-3.9273778",
-    "Latitude": 38.9848295,
-    "Longitude": -3.9273778
+    "Latitude": "38.9848295",
+    "Longitude": "-3.9273778"
   },
   {
     "Key": "Clonmacnoise",
     "Link": "https://www.google.com/maps/place/Clonmacnoise/@53.3268953,-7.992404,15.75z/data=!4m5!3m4!1s0x485c4564ff70b8c5:0x668b9318f6717193!8m2!3d53.3262773!4d-7.9862945",
-    "Latitude": 53.3262773,
-    "Longitude": -7.9862945
+    "Latitude": "53.3262773",
+    "Longitude": "-7.9862945"
   },
   {
     "Key": "Coimbra",
     "Link": "https://www.google.com/maps/place/Co%C3%ADmbra,+Portugal/@40.2287388,-8.4863148,12z/data=!3m1!4b1!4m5!3m4!1s0xd22f9144aacd16d:0x634564477b42a6b9!8m2!3d40.2033145!4d-8.4102573",
-    "Latitude": 40.2033157,
-    "Longitude": -8.410257
+    "Latitude": "40.2033157",
+    "Longitude": "-8.410257"
   },
   {
     "Key": "Cologne",
     "Link": "https://www.google.com/maps/place/Colonia,+Alemania/@51.0084922,6.6298922,9.5z/data=!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786",
-    "Latitude": 50.93753,
-    "Longitude": 6.96027851
+    "Latitude": "50.93753",
+    "Longitude": "6.96027851"
   },
   {
     "Key": "Comillas",
     "Link": "https://www.google.com/maps/place/Comillas,+Cantabria,+Espa%C3%B1a/@43.3857639,-4.3012573,15z/data=!3m1!4b1!4m5!3m4!1s0xd490cc070ceb27f:0x3dc12b18af6e044d!8m2!3d43.3865438!4d-4.2923223",
-    "Latitude": 43.3865438,
-    "Longitude": -4.2923223
+    "Latitude": "43.3865438",
+    "Longitude": "-4.2923223"
   },
   {
     "Key": "Concarneau",
     "Link": "https://www.google.com/maps/place/Concarneau,+Francia/@47.8977387,-3.9693547,12z/data=!3m1!4b1!4m5!3m4!1s0x4810db208ab3ab89:0x43c5083ef947b6de!8m2!3d47.872834!4d-3.920734",
-    "Latitude": 47.872834,
-    "Longitude": -3.920734
+    "Latitude": "47.872834",
+    "Longitude": "-3.920734"
+  },
+  {
+    "Key": "Consuegra",
+    "Link": "https://www.google.com/maps/place/45700+Consuegra,+Toledo,+Espa%C3%B1a/@39.4604412,-3.6162858,15z/data=!3m1!4b1!4m5!3m4!1s0xd698fba16076ecb:0x2a2470dea762574f!8m2!3d39.4642436!4d-3.609117",
+    "Latitude": "39.4642436",
+    "Longitude": "-3.609117"
   },
   {
     "Key": "Conwy",
     "Link": "https://www.google.com/maps/place/Conwy,+Reino+Unido/@53.2741839,-3.875545,13z/data=!3m1!4b1!4m5!3m4!1s0x486519600a1fb91f:0xd5a8bcb170626580!8m2!3d53.282872!4d-3.82948",
-    "Latitude": 53.282872,
-    "Longitude": -3.82948
+    "Latitude": "53.282872",
+    "Longitude": "-3.82948"
   },
   {
     "Key": "Copenhague",
     "Link": "https://www.google.com.ar/maps/place/Copenhague,+Dinamarca/@55.6713442,12.523784,12z/data=!3m1!4b1!4m5!3m4!1s0x4652533c5c803d23:0x4dd7edde69467b8!8m2!3d55.6760968!4d12.5683371",
-    "Latitude": 55.6760968,
-    "Longitude": 12.5683371
+    "Latitude": "55.6760968",
+    "Longitude": "12.5683371"
   },
   {
     "Key": "Cordoba",
     "Link": "https://www.google.com/maps/place/C%C3%B3rdoba,+Espa%C3%B1a/@37.8915808,-4.8195049,13z/data=!3m1!4b1!4m5!3m4!1s0xd6cdf26f95e0aef:0x4df1d2e8108456c3!8m2!3d37.8881751!4d-4.7793835",
-    "Latitude": 37.888176,
-    "Longitude": -4.77938366
+    "Latitude": "37.888176",
+    "Longitude": "-4.77938366"
   },
   {
     "Key": "Corinto",
     "Link": "https://www.google.com/maps/place/Corinto+201+00,+Grecia/@37.9359814,22.9130596,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0x14a015915d91736f:0x6926afe9d5643195!2sCanal+de+Corinto!3b1!8m2!3d37.9334822!4d22.9863057!3m4!1s0x14a0144ce0a75b5f:0xcbec55e5ce5dabf4!8m2!3d37.938647!4d22.9322433",
-    "Latitude": 37.9334822,
-    "Longitude": 22.9863057
+    "Latitude": "37.9334822",
+    "Longitude": "22.9863057"
   },
   {
     "Key": "Cork",
     "Link": "https://www.google.com/maps/place/Cork,+Irlanda/@51.8960902,-8.53309,12z/data=!3m1!4b1!4m5!3m4!1s0x4844900891beb961:0xa00c7a99731c5d0!8m2!3d51.8985143!4d-8.4756035",
-    "Latitude": 51.8985143,
-    "Longitude": -8.4756035
+    "Latitude": "51.8985143",
+    "Longitude": "-8.4756035"
   },
   {
-    "Key": "Cortina Dampezzo",
+    "Key": "Cortina-Dampezzo",
     "Link": "https://www.google.com/maps/place/32043+Cortina+d'Ampezzo,+Belluno,+Italia/@46.532467,12.107292,13z/data=!3m1!4b1!4m5!3m4!1s0x47783435d247033f:0xdd3c30437b92e42b!8m2!3d46.5404711!4d12.1356524",
-    "Latitude": 46.5404711,
-    "Longitude": 12.1356524
+    "Latitude": "46.5404711",
+    "Longitude": "12.1356524"
   },
   {
     "Key": "Cotswolds",
     "Link": "https://www.google.com/maps/place/Cotswolds,+Reino+Unido/@51.7260403,-2.4739419,9z/data=!3m1!4b1!4m5!3m4!1s0x48713cffa23f0605:0x168c89ba4309ff2a!8m2!3d51.794952!4d-1.8838872",
-    "Latitude": 51.794952,
-    "Longitude": -1.8838872
+    "Latitude": "51.794952",
+    "Longitude": "-1.8838872"
   },
   {
     "Key": "Covadonga",
     "Link": "https://www.google.com/maps/place/33589+Covadonga,+Asturias,+Espa%C3%B1a/@43.312332,-5.0617811,17z/data=!3m1!4b1!4m5!3m4!1s0xd49df5f8662f05f:0x1c9adf9d5f25fbf9!8m2!3d43.3123308!4d-5.0593809",
-    "Latitude": 43.3123308,
-    "Longitude": -5.0593809
+    "Latitude": "43.3123308",
+    "Longitude": "-5.0593809"
   },
   {
     "Key": "Covilha",
     "Link": "https://www.google.com/maps/place/Covilh%C3%A3,+Portugal/@40.2895395,-7.5905015,12z/data=!4m5!3m4!1s0xd3d23bbb6057739:0xab584889c7c49cbb!8m2!3d40.2804158!4d-7.4922407",
-    "Latitude": 40.2804146,
-    "Longitude": -7.492241
+    "Latitude": "40.2804146",
+    "Longitude": "-7.492241"
   },
   {
     "Key": "Cracovia",
     "Link": "https://www.google.com.ar/maps/place/Cracovia,+Polonia/@50.0469018,19.8647882,11z/data=!3m1!4b1!4m5!3m4!1s0x471644c0354e18d1:0xb46bb6b576478abf!8m2!3d50.0646501!4d19.9449799",
-    "Latitude": 50.0646501,
-    "Longitude": 19.9449799
+    "Latitude": "50.0646501",
+    "Longitude": "19.9449799"
   },
   {
     "Key": "Creta",
     "Link": "https://www.google.com/maps/place/Creta,+Grecia/@35.2453617,23.7907279,8z/data=!3m1!4b1!4m5!3m4!1s0x149b03d7c58fb783:0xbb32941128619998!8m2!3d35.240117!4d24.8092691",
-    "Latitude": 35.240117,
-    "Longitude": 24.8092691
+    "Latitude": "35.240117",
+    "Longitude": "24.8092691"
   },
   {
     "Key": "Czestochowa",
     "Link": "https://www.google.com/maps/place/42-200+Cz%C4%99stochowa,+Polonia/@50.8094537,18.9826864,11z/data=!3m1!4b1!4m5!3m4!1s0x4710b5c54e2ca8af:0x854f0d4d1a178236!8m2!3d50.8118195!4d19.1203094",
-    "Latitude": 50.8118195,
-    "Longitude": 19.1203094
+    "Latitude": "50.8118195",
+    "Longitude": "19.1203094"
   },
   {
     "Key": "Deauville",
     "Link": "https://www.google.com/maps/place/Deauville,+Francia/@49.3539675,0.0575724,14z/data=!3m1!4b1!4m5!3m4!1s0x47e1d4bac4578671:0x40c14484fbcf150!8m2!3d49.353976!4d0.075122",
-    "Latitude": 49.353976,
-    "Longitude": 0.075122
+    "Latitude": "49.353976",
+    "Longitude": "0.075122"
   },
   {
     "Key": "Delft",
     "Link": "https://www.google.com/maps/place/Delft,+Pa%C3%ADses+Bajos/@51.9996198,4.2936577,12z/data=!3m1!4b1!4m5!3m4!1s0x47c5b5c3515f58fd:0x89b05ca3c54bd43d!8m2!3d52.0115769!4d4.3570677",
-    "Latitude": 52.0115769,
-    "Longitude": 4.3570677
+    "Latitude": "52.0115769",
+    "Longitude": "4.3570677"
   },
   {
     "Key": "Delphi",
     "Link": "https://www.google.com/maps/place/Delphi+330+54,+Grecia/@38.4807117,22.4876245,16z/data=!3m1!4b1!4m5!3m4!1s0x135f796588cfa485:0x5fba919f0a8cb15b!8m2!3d38.4800567!4d22.4940617",
-    "Latitude": 38.4800568,
-    "Longitude": 22.4940624
+    "Latitude": "38.4800568",
+    "Longitude": "22.4940624"
+  },
+  {
+    "Key": "Dijon",
+    "Link": "https://www.google.com/maps/place/21000+Dijon,+Francia/@47.331976,4.9621807,12z/data=!3m1!4b1!4m5!3m4!1s0x47f29d8ceffd9675:0x409ce34b31458d0!8m2!3d47.322047!4d5.04148",
+    "Latitude": "47.322047",
+    "Longitude": "5.04148"
   },
   {
     "Key": "Dinan",
     "Link": "https://www.google.com/maps/place/22100+Dinan,+Francia/@48.4553257,-2.067303,14z/data=!3m1!4b1!4m5!3m4!1s0x480e8a19322f72d9:0x40ca5cd36e637e0!8m2!3d48.454366!4d-2.047327",
-    "Latitude": 48.454366,
-    "Longitude": -2.047327
+    "Latitude": "48.454366",
+    "Longitude": "-2.047327"
   },
   {
     "Key": "Dresde",
     "Link": "https://www.google.com/maps/place/Dresde,+Alemania/@51.07675,13.6325017,11z/data=!3m1!4b1!4m5!3m4!1s0x4709cf29101ad6a9:0x421b1cb4288feb0!8m2!3d51.0504088!4d13.7372621",
-    "Latitude": 51.0504074,
-    "Longitude": 13.7372618
+    "Latitude": "51.0504074",
+    "Longitude": "13.7372618"
   },
   {
     "Key": "Dublin",
     "Link": "https://www.google.com.ar/maps/place/Dubl%C3%ADn,+Irlanda/@53.3244431,-6.3857884,11z/data=!3m1!4b1!4m5!3m4!1s0x48670e80ea27ac2f:0xa00c7a9973171a0!8m2!3d53.3498053!4d-6.2603097",
-    "Latitude": 53.3498053,
-    "Longitude": -6.2603097
+    "Latitude": "53.3498053",
+    "Longitude": "-6.2603097"
   },
   {
     "Key": "Dubrovnik-Ragusa",
     "Link": "https://www.google.com.ar/maps/place/Dubrovnik+(Ragusa),+Croacia/@42.6457359,18.0240074,12z/data=!3m1!4b1!4m5!3m4!1s0x134b8ba20835e87d:0x400ad50862bd500!8m2!3d42.6506606!4d18.0944238",
-    "Latitude": 42.6506606,
-    "Longitude": 18.0944238
+    "Latitude": "42.6506606",
+    "Longitude": "18.0944238"
   },
   {
     "Key": "Duenas",
     "Link": "https://www.google.com.ar/maps/place/Due%C3%B1as,+Palencia,+Espa%C3%B1a/@41.8764382,-4.554911,15z/data=!3m1!4b1!4m5!3m4!1s0xd47a88c3087c94d:0x8d9257843863acf!8m2!3d41.8732123!4d-4.5439254",
-    "Latitude": 41.8732123,
-    "Longitude": -4.5439254
+    "Latitude": "41.8732123",
+    "Longitude": "-4.5439254"
   },
   {
     "Key": "Durham",
     "Link": "https://www.google.com/maps/place/Durham,+Reino+Unido/@54.7817348,-1.6222768,12z/data=!3m1!4b1!4m5!3m4!1s0x487c2aa525d8b1c1:0x678a46d5f522452b!8m2!3d54.77525!4d-1.584852",
-    "Latitude": 54.77525,
-    "Longitude": -1.584852
+    "Latitude": "54.77525",
+    "Longitude": "-1.584852"
   },
   {
     "Key": "Durres",
     "Link": "https://www.google.com/maps/place/Durr%C3%ABs,+Albania/@41.3313146,19.3963169,12z/data=!3m1!4b1!4m5!3m4!1s0x134fd97c5fbbbcc7:0x77f377eae6cd81ee!8m2!3d41.3245904!4d19.4564686",
-    "Latitude": 41.32459,
-    "Longitude": 19.4564686
+    "Latitude": "41.32459",
+    "Longitude": "19.4564686"
   },
   {
     "Key": "Edimburgo",
     "Link": "https://www.google.com/maps/place/Edimburgo,+Reino+Unido/@55.9411885,-3.2753785,12z/data=!3m1!4b1!4m5!3m4!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267",
-    "Latitude": 55.95325,
-    "Longitude": -3.188267
+    "Latitude": "55.95325",
+    "Longitude": "-3.188267"
   },
   {
     "Key": "Efeso",
     "Link": "https://www.google.com/maps/place/%C3%89feso/@37.9484155,27.3658665,17z/data=!3m1!4b1!4m5!3m4!1s0x14bead49aab09aad:0x68960e46cc67902!8m2!3d37.9484155!4d27.3680552",
-    "Latitude": 37.9484138,
-    "Longitude": 27.3680553
+    "Latitude": "37.9484138",
+    "Longitude": "27.3680553"
   },
   {
     "Key": "Eger",
     "Link": "https://www.google.com.ar/maps/place/Eger,+Hungr%C3%ADa/@47.9293269,20.2513247,11z/data=!3m1!4b1!4m5!3m4!1s0x47408d7894b04023:0x63adb259948d1c24!8m2!3d47.9025348!4d20.3772284",
-    "Latitude": 47.9025348,
-    "Longitude": 20.3772284
-  },
-  {
-    "Key": "El Grove",
-    "Link": "https://www.google.com.ar/maps/place/El+Grove,+Pontevedra,+Espa%C3%B1a/@42.4934275,-8.8745168,15z/data=!3m1!4b1!4m5!3m4!1s0xd2f40505c346985:0x37fcd6af52df7751!8m2!3d42.4959962!4d-8.8651418",
-    "Latitude": 42.4959962,
-    "Longitude": -8.8651418
-  },
-  {
-    "Key": "El Rocio",
-    "Link": "https://www.google.com/maps/place/El+Roc%C3%ADo,+Huelva,+Espa%C3%B1a/@37.1346058,-6.4912399,15z/data=!3m1!4b1!4m5!3m4!1s0xd11fe0e23ee0769:0xa04640009eb4200!8m2!3d37.1337088!4d-6.4796528",
-    "Latitude": 37.1337088,
-    "Longitude": -6.4796528
+    "Latitude": "47.9025348",
+    "Longitude": "20.3772284"
   },
   {
     "Key": "Elbasan",
     "Link": "https://www.google.com/maps/place/Distrito+de+Elbasan,+Albania/@41.1091941,20.0538535,13z/data=!3m1!4b1!4m5!3m4!1s0x135043008278d315:0x4243327c8f696e0a!8m2!3d41.11023!4d20.0866554",
-    "Latitude": 41.11023,
-    "Longitude": 20.0866547
+    "Latitude": "41.11023",
+    "Longitude": "20.0866547"
+  },
+  {
+    "Key": "El-Grove",
+    "Link": "https://www.google.com.ar/maps/place/El+Grove,+Pontevedra,+Espa%C3%B1a/@42.4934275,-8.8745168,15z/data=!3m1!4b1!4m5!3m4!1s0xd2f40505c346985:0x37fcd6af52df7751!8m2!3d42.4959962!4d-8.8651418",
+    "Latitude": "42.4959962",
+    "Longitude": "-8.8651418"
+  },
+  {
+    "Key": "El-Rocio",
+    "Link": "https://www.google.com/maps/place/El+Roc%C3%ADo,+Huelva,+Espa%C3%B1a/@37.1346058,-6.4912399,15z/data=!3m1!4b1!4m5!3m4!1s0xd11fe0e23ee0769:0xa04640009eb4200!8m2!3d37.1337088!4d-6.4796528",
+    "Latitude": "37.1337088",
+    "Longitude": "-6.4796528"
   },
   {
     "Key": "Epidauro",
     "Link": "https://www.google.com/maps/place/Epidauro,+Grecia/@37.6258689,22.982154,11z/data=!3m1!4b1!4m5!3m4!1s0x149f89c259307c89:0x400bd2ce2b98a70!8m2!3d37.6265726!4d23.1322437",
-    "Latitude": 37.62657,
-    "Longitude": 23.1322441
+    "Latitude": "37.62657",
+    "Longitude": "23.1322441"
   },
   {
     "Key": "Erfoud",
     "Link": "https://www.google.com/maps/place/Erfoud,+Marruecos/@31.4550154,-4.2858273,13z/data=!3m1!4b1!4m5!3m4!1s0xd977b2c5079550b:0xf04c523511a64215!8m2!3d31.4366334!4d-4.234383",
-    "Latitude": 31.4366341,
-    "Longitude": -4.234383
+    "Latitude": "31.4366341",
+    "Longitude": "-4.234383"
   },
   {
     "Key": "Erice",
     "Link": "https://www.google.com/maps/place/91016+Erice,+Trapani,+Italia/@38.0384563,12.5834865,16z/data=!3m1!4b1!4m5!3m4!1s0x1319636d513de1b3:0x3e8c8cffc10dfb62!8m2!3d38.0380892!4d12.5873511",
-    "Latitude": 38.0380892,
-    "Longitude": 12.5873511
+    "Latitude": "38.0380892",
+    "Longitude": "12.5873511"
   },
   {
     "Key": "Esmirna",
     "Link": "https://www.google.com/maps/place/Esmirna,+Provincia+de+Esmirna,+Turqu%C3%ADa/@38.4175917,26.9396308,11z/data=!3m1!4b1!4m5!3m4!1s0x14bbd862a762cacd:0x628cbba1a59ce8fe!8m2!3d38.423734!4d27.142826",
-    "Latitude": 38.4237328,
-    "Longitude": 27.1428261
+    "Latitude": "38.4237328",
+    "Longitude": "27.1428261"
   },
   {
     "Key": "Estambul",
     "Link": "https://www.google.com/maps/place/Estambul,+Provincia+de+Estambul,+Turqu%C3%ADa/@41.0049823,28.7319878,10z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589",
-    "Latitude": 41.0082359,
-    "Longitude": 28.97836
+    "Latitude": "41.0082359",
+    "Longitude": "28.97836"
   },
   {
     "Key": "Estocolmo",
     "Link": "https://www.google.com.ar/maps/place/Estocolmo,+Suecia/@59.3258414,17.70188,10z/data=!3m1!4b1!4m5!3m4!1s0x465f763119640bcb:0xa80d27d3679d7766!8m2!3d59.3293235!4d18.0685808",
-    "Latitude": 59.3293235,
-    "Longitude": 18.0685808
+    "Latitude": "59.3293235",
+    "Longitude": "18.0685808"
   },
   {
     "Key": "Estoril",
     "Link": "https://www.google.com.ar/maps/place/Estoril,+Portugal/@38.7097488,-9.4073027,14z/data=!3m1!4b1!4m5!3m4!1s0xd1ec5c602d62353:0x82c0f730439d4cb1!8m2!3d38.7133152!4d-9.3936558",
-    "Latitude": 38.7133152,
-    "Longitude": -9.3936558
+    "Latitude": "38.7133152",
+    "Longitude": "-9.3936558"
   },
   {
     "Key": "Estrasburgo",
     "Link": "https://www.google.com/maps/place/Estrasburgo,+Francia/@48.5692558,7.6220089,11z/data=!3m1!4b1!4m5!3m4!1s0x4796c8495e18b2c1:0x971a483118e7241f!8m2!3d48.5734053!4d7.7521113",
-    "Latitude": 48.5734053,
-    "Longitude": 7.7521113
+    "Latitude": "48.5734053",
+    "Longitude": "7.7521113"
   },
   {
     "Key": "Evora",
     "Link": "https://www.google.com/maps/place/%C3%89vora,+Portugal/@38.5697993,-7.9810496,12z/data=!3m1!4b1!4m5!3m4!1s0xd19e4df3883139d:0xa6ad8a31c3bdef6c!8m2!3d38.571431!4d-7.913502",
-    "Latitude": 38.57143,
-    "Longitude": -7.913502
+    "Latitude": "38.57143",
+    "Longitude": "-7.913502"
   },
   {
     "Key": "Faro",
     "Link": "https://www.google.com/maps/place/Faro,+Portugal/@37.2943191,-8.2046075,8.5z/data=!4m5!3m4!1s0xd0552e72290faa7:0x8d73c2d4494aff5a!8m2!3d37.0193548!4d-7.9304397",
-    "Latitude": 37.0193558,
-    "Longitude": -7.93043947
+    "Latitude": "37.0193558",
+    "Longitude": "-7.93043947"
   },
   {
     "Key": "Fatima",
     "Link": "https://www.google.com/maps/place/F%C3%A1tima,+Portugal/@39.5942003,-8.7148393,12z/data=!3m1!4b1!4m5!3m4!1s0xd1883467cb1711d:0x500ebbde49105f0!8m2!3d39.6172063!4d-8.6521422",
-    "Latitude": 39.6172066,
-    "Longitude": -8.652143
+    "Latitude": "39.6172066",
+    "Longitude": "-8.652143"
   },
   {
     "Key": "Ferrara",
     "Link": "https://www.google.com/maps/place/Ferrara,+Italia/@44.8363397,11.5364054,12z/data=!3m1!4b1!4m5!3m4!1s0x477e4e0bde2b11dd:0x3c3b79ae53712b2e!8m2!3d44.8381237!4d11.619787",
-    "Latitude": 44.8381237,
-    "Longitude": 11.619787
+    "Latitude": "44.8381237",
+    "Longitude": "11.619787"
   },
   {
     "Key": "Fez",
     "Link": "https://www.google.com/maps/place/Fez,+Marruecos/@34.023943,-5.071781,12z/data=!3m1!4b1!4m5!3m4!1s0xd9f8b484d445777:0x10e6aaaeedd802ef!8m2!3d34.0181246!4d-5.0078451",
-    "Latitude": 34.0181236,
-    "Longitude": -5.007845
+    "Latitude": "34.0181236",
+    "Longitude": "-5.007845"
   },
   {
     "Key": "Figueras",
     "Link": "https://www.google.com.ar/maps/place/17600+Figueras,+Girona,+Espa%C3%B1a/@42.2642333,2.9477342,14z/data=!3m1!4b1!4m5!3m4!1s0x12ba8de7daf77b2d:0x2f451468ac1a35cb!8m2!3d42.2655066!4d2.9581046",
-    "Latitude": 42.2655066,
-    "Longitude": 2.9581046
+    "Latitude": "42.2655066",
+    "Longitude": "2.9581046"
   },
   {
     "Key": "Filadelfia",
     "Link": "https://www.google.com/maps/place/Filadelfia,+Pensilvania,+EE.+UU./@40.0024137,-75.2581189,11z/data=!3m1!4b1!4m5!3m4!1s0x89c6b7d8d4b54beb:0x89f514d88c3e58c1!8m2!3d39.9525839!4d-75.1652215",
-    "Latitude": 39.9525833,
-    "Longitude": -75.16522
+    "Latitude": "39.9525833",
+    "Longitude": "-75.16522"
   },
   {
     "Key": "Flam",
     "Link": "https://www.google.com/maps/place/5743+Flam,+Noruega/@60.8584347,7.0953369,14z/data=!3m1!4b1!4m5!3m4!1s0x463e13cfcfc357c3:0x33286ff6aad510c5!8m2!3d60.8607716!4d7.1117849",
-    "Latitude": 60.8607716,
-    "Longitude": 7.1117849
+    "Latitude": "60.8607716",
+    "Longitude": "7.1117849"
   },
   {
     "Key": "Flekkefjord",
     "Link": "https://www.google.com.ar/maps/place/4400+Flekkefjord,+Noruega/@58.2996642,6.636019,13z/data=!3m1!4b1!4m5!3m4!1s0x4639ddd12fbbc8f5:0x9a76589ee4aac913!8m2!3d58.2971823!4d6.6599809",
-    "Latitude": 58.2971823,
-    "Longitude": 6.6599809
+    "Latitude": "58.2971823",
+    "Longitude": "6.6599809"
   },
   {
     "Key": "Florencia",
     "Link": "https://www.google.com/maps/place/Florencia,+Italia/@43.7799368,11.1709276,12z/data=!3m1!4b1!4m5!3m4!1s0x132a56a680d2d6ad:0x93d57917efc72a03!8m2!3d43.7695604!4d11.2558136",
-    "Latitude": 43.76956,
-    "Longitude": 11.2558136
+    "Latitude": "43.76956",
+    "Longitude": "11.2558136"
   },
   {
-    "Key": "Fort Augustus",
+    "Key": "Fort-Augustus",
     "Link": "https://www.google.com/maps/place/Fort+Augustus,+Reino+Unido/@57.1443909,-4.7016413,14z/data=!3m1!4b1!4m5!3m4!1s0x488f210df41b3beb:0x12170f9721af3cd0!8m2!3d57.1448064!4d-4.6805166",
-    "Latitude": 57.1448064,
-    "Longitude": -4.6805166
+    "Latitude": "57.1448064",
+    "Longitude": "-4.6805166"
   },
   {
-    "Key": "Fort William",
+    "Key": "Fort-William",
     "Link": "https://www.google.com/maps/place/Fort+William,+Reino+Unido/@57.2158506,-6.5082283,8z/data=!4m5!3m4!1s0x48893323371c031b:0xcda03ee308544821!8m2!3d56.819817!4d-5.1052179",
-    "Latitude": 56.8198166,
-    "Longitude": -5.105218
+    "Latitude": "56.8198166",
+    "Longitude": "-5.105218"
   },
   {
-    "Key": "Frankfurt Am Main",
+    "Key": "Frankfurt-Am-Main",
     "Link": "https://www.google.com/maps/place/Fr%C3%A1ncfort,+Alemania/@50.1211277,8.4964796,11z/data=!3m1!4b1!4m5!3m4!1s0x47bd096f477096c5:0x422435029b0c600!8m2!3d50.1109221!4d8.6821267",
-    "Latitude": 50.1109238,
-    "Longitude": 8.682127
+    "Latitude": "50.1109238",
+    "Longitude": "8.682127"
   },
   {
     "Key": "Friburgo",
     "Link": "https://www.google.com/maps/place/Friburgo,+Alemania/@47.987226,7.6563354,11z/data=!3m1!4b1!4m5!3m4!1s0x47911b26560bd665:0x41f6bb7a5df57b0!8m2!3d47.9990077!4d7.8421043",
-    "Latitude": 47.99901,
-    "Longitude": 7.84210443
+    "Latitude": "47.99901",
+    "Longitude": "7.84210443"
   },
   {
     "Key": "Gallipoli",
     "Link": "https://www.google.com/maps/place/73014+Gallipoli,+Lecce,+Italia/@40.0546065,17.9767437,14z/data=!3m1!4b1!4m5!3m4!1s0x1346a6547b66b1c7:0xd07ffbdd89ad753!8m2!3d40.0558508!4d17.9926137",
-    "Latitude": 40.0558508,
-    "Longitude": 17.9926137
+    "Latitude": "40.0558508",
+    "Longitude": "17.9926137"
   },
   {
     "Key": "Galway",
     "Link": "https://www.google.com/maps/place/Galway,+Irlanda/@53.2839936,-9.1187865,12z/data=!3m1!4b1!4m5!3m4!1s0x485b93955a2d5bff:0x32b1b440a495281!8m2!3d53.270668!4d-9.0567905",
-    "Latitude": 53.270668,
-    "Longitude": -9.0567905
+    "Latitude": "53.270668",
+    "Longitude": "-9.0567905"
   },
   {
     "Key": "Gante",
     "Link": "https://www.google.com.ar/maps/place/Gante,+B%C3%A9lgica/@51.082572,3.5744004,11z/data=!3m1!4b1!4m5!3m4!1s0x47c370e1339443ad:0x40099ab2f4d5140!8m2!3d51.0543422!4d3.7174243",
-    "Latitude": 51.0543422,
-    "Longitude": 3.7174243
+    "Latitude": "51.0543422",
+    "Longitude": "3.7174243"
   },
   {
     "Key": "Gdansk",
     "Link": "https://www.google.com/maps/place/Gdansk,+Polonia/@54.3612063,18.5499431,11z/data=!3m1!4b1!4m5!3m4!1s0x46fd731c14d4fa6f:0x9bb9fbf163b7be8d!8m2!3d54.3520252!4d18.6466384",
-    "Latitude": 54.3520252,
-    "Longitude": 18.6466384
+    "Latitude": "54.3520252",
+    "Longitude": "18.6466384"
   },
   {
     "Key": "Geiranger",
     "Link": "https://www.google.com.ar/maps/place/6216+Geiranger,+Noruega/@62.0988152,7.2005966,15z/data=!3m1!4b1!4m5!3m4!1s0x4614266d0e317cc9:0xee5b40919d3f7313!8m2!3d62.1008441!4d7.2058941",
-    "Latitude": 62.1008441,
-    "Longitude": 7.2058941
+    "Latitude": "62.1008441",
+    "Longitude": "7.2058941"
   },
   {
     "Key": "Geres",
     "Link": "https://www.google.com/maps/place/Peneda-Ger%C3%AAs+National+Park/@41.8275616,-8.26361,13z/data=!4m5!3m4!1s0xd256917fd47c523:0x6d193b91beb28db6!8m2!3d41.8386561!4d-8.2415908",
-    "Latitude": 41.8386574,
-    "Longitude": -8.2415905
+    "Latitude": "41.8386574",
+    "Longitude": "-8.2415905"
   },
   {
     "Key": "Gerona",
     "Link": "https://www.google.com/maps/place/Gerona,+Girona,+Espa%C3%B1a/@41.9803112,2.7836476,13z/data=!3m1!4b1!4m5!3m4!1s0x12bae72798c8fdab:0xaf3845b6a5296a6f!8m2!3d41.9794005!4d2.8214264",
-    "Latitude": 41.9794005,
-    "Longitude": 2.8214264
+    "Latitude": "41.9794005",
+    "Longitude": "2.8214264"
   },
   {
     "Key": "Gijon",
     "Link": "https://www.google.com/maps/place/Gij%C3%B3n,+Asturias,+Espa%C3%B1a/@43.5314853,-5.7034741,13z/data=!3m1!4b1!4m5!3m4!1s0xd367c66cbf494bf:0xbd06d207048d3536!8m2!3d43.5322015!4d-5.6611195",
-    "Latitude": 43.5322015,
-    "Longitude": -5.6611195
+    "Latitude": "43.5322015",
+    "Longitude": "-5.6611195"
   },
   {
     "Key": "Ginebra",
     "Link": "https://www.google.com/maps/place/Ginebra,+Suiza/@46.2050242,6.109069,13z/data=!3m1!4b1!4m5!3m4!1s0x478c650693d0e2eb:0xa0b695357b0bbc39!8m2!3d46.2043907!4d6.1431577",
-    "Latitude": 46.20439,
-    "Longitude": 6.14315748
+    "Latitude": "46.20439",
+    "Longitude": "6.14315748"
   },
   {
     "Key": "Gjirokaster",
     "Link": "https://www.google.com/maps/place/Distrito+de+Gjirokast%C3%ABr,+Albania/@40.0748372,20.0584922,12.5z/data=!4m5!3m4!1s0x135b0331d7262f4d:0x565adea38cf275fc!8m2!3d40.0672874!4d20.1045229",
-    "Latitude": 40.0672874,
-    "Longitude": 20.1045227
+    "Latitude": "40.0672874",
+    "Longitude": "20.1045227"
   },
   {
     "Key": "Glasgow",
     "Link": "https://www.google.com/maps/place/Glasgow,+Reino+Unido/@55.8563152,-4.3015016,12.25z/data=!4m5!3m4!1s0x488815562056ceeb:0x71e683b805ef511e!8m2!3d55.864237!4d-4.251806",
-    "Latitude": 55.86424,
-    "Longitude": -4.251806
+    "Latitude": "55.86424",
+    "Longitude": "-4.251806"
   },
   {
     "Key": "Godollo",
     "Link": "https://www.google.com.ar/maps/place/G%C3%B6d%C3%B6ll%C5%91,+Hungr%C3%ADa/@47.5996164,19.2955456,12z/data=!3m1!4b1!4m5!3m4!1s0x4741c9171f68656b:0x400c4290c1e1a00!8m2!3d47.6007732!4d19.3605431",
-    "Latitude": 47.6007732,
-    "Longitude": 19.3605431
+    "Latitude": "47.6007732",
+    "Longitude": "19.3605431"
   },
   {
     "Key": "Gouda",
     "Link": "https://www.google.com/maps/place/Gouda,+Pa%C3%ADses+Bajos/@52.0182794,4.6735449,13z/data=!3m1!4b1!4m5!3m4!1s0x47c5d6abf5be06cb:0x52baf414500565a3!8m2!3d52.0115205!4d4.7104633",
-    "Latitude": 52.0115205,
-    "Longitude": 4.7104633
+    "Latitude": "52.0115205",
+    "Longitude": "4.7104633"
   },
   {
     "Key": "Gozo",
     "Link": "https://www.google.com/maps/place/Gozo/@36.0469647,14.1899408,12z/data=!3m1!4b1!4m5!3m4!1s0x130fb4e6eeeaa5b9:0xbfa42f0fe1b720ae!8m2!3d36.0442999!4d14.2512221",
-    "Latitude": 36.0442999,
-    "Longitude": 14.2512221
-  },
-  {
-    "Key": "Gran Canon",
-    "Link": "https://www.google.com/maps/place/Gran+Ca%C3%B1%C3%B3n/@36.1127632,-114.0048244,15z/data=!3m1!4b1!4m5!3m4!1s0x80cc0654bd27e08d:0xb1c2554442d42e8d!8m2!3d36.112764!4d-113.9960696",
-    "Latitude": 36.1127625,
-    "Longitude": -113.996071
+    "Latitude": "36.0442999",
+    "Longitude": "14.2512221"
   },
   {
     "Key": "Granada",
     "Link": "https://www.google.com/maps/place/Granada,+Espa%C3%B1a/@37.1809411,-3.6262913,13z/data=!3m1!4b1!4m5!3m4!1s0xd71fce62d32c27d:0x9258f79dd3600d72!8m2!3d37.1773363!4d-3.5985571",
-    "Latitude": 37.1773376,
-    "Longitude": -3.598557
+    "Latitude": "37.1773376",
+    "Longitude": "-3.598557"
   },
   {
-    "Key": "Gretna Green",
+    "Key": "Gran-Canon",
+    "Link": "https://www.google.com/maps/place/Gran+Ca%C3%B1%C3%B3n/@36.1127632,-114.0048244,15z/data=!3m1!4b1!4m5!3m4!1s0x80cc0654bd27e08d:0xb1c2554442d42e8d!8m2!3d36.112764!4d-113.9960696",
+    "Latitude": "36.1127625",
+    "Longitude": "-113.996071"
+  },
+  {
+    "Key": "Gretna-Green",
     "Link": "https://www.google.com/maps/place/Gretna+Green,+Gretna,+Reino+Unido/@55.0057006,-3.0649174,17z/data=!3m1!4b1!4m5!3m4!1s0x487d3e001a4b2d9b:0xb3f0a8be18535701!8m2!3d55.0050199!4d-3.0626071",
-    "Latitude": 55.00502,
-    "Longitude": -3.062607
+    "Latitude": "55.00502",
+    "Longitude": "-3.062607"
   },
   {
     "Key": "Grindelwald",
     "Link": "https://www.google.com/maps/place/Grindelwald,+Suiza/@46.6198253,7.9006895,11z/data=!3m1!4b1!4m5!3m4!1s0x478f9eab18c79217:0xbfaa5c0f42972f65!8m2!3d46.624164!4d8.0413962",
-    "Latitude": 46.624164,
-    "Longitude": 8.0413962
+    "Latitude": "46.624164",
+    "Longitude": "8.0413962"
   },
   {
     "Key": "Guarda",
     "Link": "https://www.google.com/maps/place/Guarda,+Portugal/@40.5404472,-7.5302203,10z/data=!3m1!4b1!4m8!1m2!2m1!1sGuarda!3m4!1s0xd3cfac48ff6c653:0x400ebbde4903500!8m2!3d40.5308408!4d-7.2221421",
-    "Latitude": 40.53084,
-    "Longitude": -7.222142
+    "Latitude": "40.53084",
+    "Longitude": "-7.222142"
   },
   {
     "Key": "Gudvangen",
     "Link": "https://www.google.com/maps/place/5747+Gudvangen,+Noruega/@60.8787286,6.8300188,15z/data=!3m1!4b1!4m5!3m4!1s0x463e0bd0a181fad1:0xacd10d9533bb91ef!8m2!3d60.8787189!4d6.8387736",
-    "Latitude": 60.8787189,
-    "Longitude": 6.8387736
+    "Latitude": "60.8787189",
+    "Longitude": "6.8387736"
   },
   {
     "Key": "Guetaria",
     "Link": "https://www.google.com/maps/place/Guetaria,+Guip%C3%BAzcoa,+Espa%C3%B1a/@43.3054955,-2.212605,15z/data=!3m1!4b1!4m5!3m4!1s0xd51c8a202261709:0xc4704d074c9bb220!8m2!3d43.3077339!4d-2.2021494",
-    "Latitude": 43.3077339,
-    "Longitude": -2.2021494
+    "Latitude": "43.3077339",
+    "Longitude": "-2.2021494"
   },
   {
     "Key": "Guimaraes",
     "Link": "https://www.google.com/maps/place/Guimar%C3%A3es,+Portugal/@41.460349,-8.3771067,12z/data=!3m1!4b1!4m5!3m4!1s0xd24f0191ff06bb3:0x53e284e8981c154a!8m2!3d41.44253!4d-8.2917857",
-    "Latitude": 41.44253,
-    "Longitude": -8.291785
+    "Latitude": "41.44253",
+    "Longitude": "-8.291785"
   },
   {
     "Key": "Hamburgo",
     "Link": "https://www.google.com/maps/place/Hamburgo,+Alemania/@53.5582446,9.6476392,10z/data=!3m1!4b1!4m5!3m4!1s0x47b161837e1813b9:0x4263df27bd63aa0!8m2!3d53.5510846!4d9.9936819",
-    "Latitude": 53.5510864,
-    "Longitude": 9.993682
+    "Latitude": "53.5510864",
+    "Longitude": "9.993682"
   },
   {
     "Key": "Hamelin",
     "Link": "https://www.google.com.ar/maps/place/Hamel%C3%ADn,+Alemania/@52.1065891,9.2904605,12z/data=!3m1!4b1!4m5!3m4!1s0x47ba8ef0831badc3:0x425ac6d94ac4a70!8m2!3d52.1082726!4d9.362171",
-    "Latitude": 52.1082726,
-    "Longitude": 9.362171
+    "Latitude": "52.1082726",
+    "Longitude": "9.362171"
+  },
+  {
+    "Key": "Hannover",
+    "Link": "https://www.google.com.ar/maps/place/Hannover,+Alemania/@52.3797932,9.6213869,11z/data=!3m1!4b1!4m5!3m4!1s0x47b00b514d494f85:0x425ac6d94ac4720!8m2!3d52.3758916!4d9.7320104",
+    "Latitude": "52.3758916",
+    "Longitude": "9.7320104"
   },
   {
     "Key": "Haro",
     "Link": "https://www.google.com.ar/maps/place/26200+Haro,+La+Rioja,+Espa%C3%B1a/@42.5722952,-2.8633881,15z/data=!3m1!4b1!4m5!3m4!1s0xd4f8bde50907717:0xc82e0cd24b1c0c42!8m2!3d42.5768716!4d-2.8502302",
-    "Latitude": 42.5768716,
-    "Longitude": -2.8502302
+    "Latitude": "42.5768716",
+    "Longitude": "-2.8502302"
   },
   {
     "Key": "Harrogate",
     "Link": "https://www.google.com/maps/place/Harrogate,+Reino+Unido/@53.9887641,-1.5730369,12z/data=!4m5!3m4!1s0x48794e237175bd01:0x3c084fbaadea4ff!8m2!3d53.99212!4d-1.541812",
-    "Latitude": 53.99212,
-    "Longitude": -1.541812
+    "Latitude": "53.99212",
+    "Longitude": "-1.541812"
   },
   {
     "Key": "Heidelberg",
     "Link": "https://www.google.com/maps/place/Heidelberg,+Alemania/@49.4057072,8.6135741,12z/data=!3m1!4b1!4m5!3m4!1s0x4797c1050eccdccd:0xefe6ea0044243ad7!8m2!3d49.3987524!4d8.6724335",
-    "Latitude": 49.3987541,
-    "Longitude": 8.672434
+    "Latitude": "49.3987541",
+    "Longitude": "8.672434"
   },
   {
     "Key": "Helsinki",
     "Link": "https://www.google.com.ar/maps/place/Helsinki,+Finlandia/@60.1098678,24.7385084,10z/data=!3m1!4b1!4m5!3m4!1s0x46920bc796210691:0xcd4ebd843be2f763!8m2!3d60.1698557!4d24.9383791",
-    "Latitude": 60.1698557,
-    "Longitude": 24.9383791
+    "Latitude": "60.1698557",
+    "Longitude": "24.9383791"
   },
   {
     "Key": "Hidra",
     "Link": "https://www.google.com/maps/place/%CE%8E%CE%B4%CF%81%CE%B1+180+40,+Grecia/@37.348273,23.4601088,16z/data=!3m1!4b1!4m5!3m4!1s0x149f75b5b1d460b1:0x400bd2ce2b9c2c0!8m2!3d37.3466624!4d23.4659497",
-    "Latitude": 37.34666,
-    "Longitude": 23.46595
+    "Latitude": "37.34666",
+    "Longitude": "23.46595"
   },
   {
     "Key": "Highland",
     "Link": "https://www.google.com/maps/place/Highland,+Reino+Unido/@57.5804308,-7.1494158,7z/data=!3m1!4b1!4m5!3m4!1s0x488f715397e107a5:0x73f7ea226427de38!8m2!3d57.4595749!4d-4.2263955",
-    "Latitude": 57.4595749,
-    "Longitude": -4.2263955
+    "Latitude": "57.4595749",
+    "Longitude": "-4.2263955"
   },
   {
     "Key": "Honfleur",
     "Link": "https://www.google.com/maps/place/Honfleur,+Francia/@49.4084996,0.194494,13z/data=!3m1!4b1!4m5!3m4!1s0x47e033a5e30f5dc5:0x40c14484fbceaf0!8m2!3d49.418762!4d0.233262",
-    "Latitude": 49.418762,
-    "Longitude": 0.233262
+    "Latitude": "49.418762",
+    "Longitude": "0.233262"
   },
   {
     "Key": "Huelva",
     "Link": "https://www.google.com/maps/place/Huelva,+Espa%C3%B1a/@37.270931,-6.97471,13z/data=!3m1!4b1!4m5!3m4!1s0xd11cfe6d744284b:0xd82baac110b40f83!8m2!3d37.261421!4d-6.9447224",
-    "Latitude": 37.261421,
-    "Longitude": -6.9447224
+    "Latitude": "37.261421",
+    "Longitude": "-6.9447224"
   },
   {
     "Key": "Huesca",
     "Link": "https://www.google.com.ar/maps/place/Huesca,+Espa%C3%B1a/@42.1359368,-0.423358,14z/data=!3m1!4b1!4m5!3m4!1s0xd584449d1d84db5:0x2c8dfd864aa74791!8m2!3d42.131845!4d-0.4078058",
-    "Latitude": 42.131845,
-    "Longitude": -0.4078058
+    "Latitude": "42.131845",
+    "Longitude": "-0.4078058"
   },
   {
     "Key": "Ilhavo",
     "Link": "https://www.google.com/maps/place/%C3%8Dlhavo,+Portugal/@40.606596,-8.7470323,12z/data=!4m5!3m4!1s0xd23bd21193229d9:0x424d17f953b2580c!8m2!3d40.602309!4d-8.672371",
-    "Latitude": 40.60231,
-    "Longitude": -8.672371
+    "Latitude": "40.60231",
+    "Longitude": "-8.672371"
   },
   {
     "Key": "Innsbruck",
     "Link": "https://www.google.com/maps/place/Innsbruck,+Austria/@47.2853697,11.2387052,11z/data=!3m1!4b1!4m5!3m4!1s0x479d6ecfe1f8ca73:0x9d201c7d281d9b0d!8m2!3d47.2692124!4d11.4041024",
-    "Latitude": 47.26921,
-    "Longitude": 11.4041023
+    "Latitude": "47.26921",
+    "Longitude": "11.4041023"
   },
   {
     "Key": "Interlaken",
     "Link": "https://www.google.com/maps/place/Interlaken,+Suiza/@46.6926816,7.7392599,11.75z/data=!4m5!3m4!1s0x1453996a31921a05:0x9c111af14c02be00!8m2!3d46.6863481!4d7.8632049",
-    "Latitude": 46.686348,
-    "Longitude": 7.863205
+    "Latitude": "46.686348",
+    "Longitude": "7.863205"
   },
   {
     "Key": "Inverness",
     "Link": "https://www.google.com/maps/place/Inverness,+Reino+Unido/@57.4679769,-4.2918974,12z/data=!3m1!4b1!4m5!3m4!1s0x488f715b2d17de2b:0x624309d12e3ec43d!8m2!3d57.477773!4d-4.224721",
-    "Latitude": 57.47777,
-    "Longitude": -4.224721
+    "Latitude": "57.47777",
+    "Longitude": "-4.224721"
   },
   {
-    "Key": "Isla De La Toja",
+    "Key": "Isla-De-La-Toja",
     "Link": "https://www.google.com.ar/maps/place/36991+Isla+de+La+Toja,+Pontevedra,+Espa%C3%B1a/@42.4891668,-8.8571454,15z/data=!3m1!4b1!4m5!3m4!1s0xd2f4031c1908869:0xd0e02765f1ac768f!8m2!3d42.4891519!4d-8.8483906",
-    "Latitude": 42.4891519,
-    "Longitude": -8.8483906
+    "Latitude": "42.4891519",
+    "Longitude": "-8.8483906"
   },
   {
-    "Key": "Islas Orcadas",
+    "Key": "Islas-Orcadas",
     "Link": "https://www.google.com/maps/place/Islas+Orcadas,+Reino+Unido/@59.035861,-3.9980537,9z/data=!3m1!4b1!4m5!3m4!1s0x489b9f93ef41121f:0x30c681a0642b050!8m2!3d58.9809401!4d-2.9605206",
-    "Latitude": 58.9809401,
-    "Longitude": -2.9605206
+    "Latitude": "58.9809401",
+    "Longitude": "-2.9605206"
   },
   {
-    "Key": "Isola Bella",
+    "Key": "Isola-Bella",
     "Link": "https://www.google.com/maps/place/Isola+Bella/@45.8940517,8.5216154,15.75z/data=!4m8!1m2!2m1!1sIsola+Bella!3m4!1s0x4785df7f53f61345:0xea0af221ce46feb9!8m2!3d45.8954378!4d8.5268401",
-    "Latitude": 45.89544,
-    "Longitude": 8.52684
+    "Latitude": "45.89544",
+    "Longitude": "8.52684"
   },
   {
-    "Key": "Isola Dei Pescatori",
+    "Key": "Isola-Dei-Pescatori",
     "Link": "https://www.google.com/maps/place/Isola+dei+Pescatori/@45.9010994,8.5181331,17z/data=!3m1!4b1!4m5!3m4!1s0x4785df84cd282e97:0x279ca2d8d261777f!8m2!3d45.9013428!4d8.519849",
-    "Latitude": 45.9013443,
-    "Longitude": 8.519849
+    "Latitude": "45.9013443",
+    "Longitude": "8.519849"
   },
   {
     "Key": "Jaca",
     "Link": "https://www.google.com.ar/maps/place/22700+Jaca,+Huesca,+Espa%C3%B1a/@42.5726322,-0.5568484,15z/data=!3m1!4b1!4m5!3m4!1s0xd5780ec767847ed:0x196f61f8bc9a1be2!8m2!3d42.5717166!4d-0.5470554",
-    "Latitude": 42.5717166,
-    "Longitude": -0.5470554
+    "Latitude": "42.5717166",
+    "Longitude": "-0.5470554"
   },
   {
     "Key": "Jedburgh",
     "Link": "https://www.google.com/maps/place/Jedburgh,+Reino+Unido/@55.4778286,-2.5699218,14z/data=!3m1!4b1!4m5!3m4!1s0x487d80a8a3477a9b:0x6f77b35ac1d3e19e!8m2!3d55.477721!4d-2.5549369",
-    "Latitude": 55.477721,
-    "Longitude": -2.5549369
+    "Latitude": "55.477721",
+    "Longitude": "-2.5549369"
   },
   {
-    "Key": "Jerez De La Frontera",
+    "Key": "Jerez-De-La-Frontera",
     "Link": "https://www.google.com/maps/place/Jerez+de+la+Frontera,+C%C3%A1diz,+Espa%C3%B1a/@36.6876005,-6.1580049,13z/data=!3m1!4b1!4m5!3m4!1s0xd0dc6e84844a39f:0x6dac3ef5f3d0ffea!8m2!3d36.6850064!4d-6.1260744",
-    "Latitude": 36.6850052,
-    "Longitude": -6.12607431
+    "Latitude": "36.6850052",
+    "Longitude": "-6.12607431"
   },
   {
     "Key": "Jerusalen",
     "Link": "https://www.google.com/maps/place/Jerusal%C3%A9n,+Israel/@31.7964453,35.1053182,12z/data=!3m1!4b1!4m5!3m4!1s0x1502d7d634c1fc4b:0xd96f623e456ee1cb!8m2!3d31.768319!4d35.21371",
-    "Latitude": 31.768319,
-    "Longitude": 35.21371
+    "Latitude": "31.768319",
+    "Longitude": "35.21371"
   },
   {
-    "Key": "Jindrichuv Hradec",
+    "Key": "Jindrichuv-Hradec",
     "Link": "https://www.google.com/maps/place/377+01+Jind%C5%99ich%C5%AFv+Hradec,+Chequia/@49.1627314,14.9230274,12z/data=!3m1!4b1!4m5!3m4!1s0x470cce23ca040d3b:0x143618aa4f1468f3!8m2!3d49.1444823!4d15.0061389",
-    "Latitude": 49.1444823,
-    "Longitude": 15.0061389
+    "Latitude": "49.1444823",
+    "Longitude": "15.0061389"
   },
   {
     "Key": "Karasjok",
     "Link": "https://www.google.com.ar/maps/place/9730+Karasjok,+Noruega/@69.4679145,25.4834061,13z/data=!3m1!4b1!4m5!3m4!1s0x45ce8258ffbf644d:0x927a1684ecedeac4!8m2!3d69.471935!4d25.510813",
-    "Latitude": 69.471935,
-    "Longitude": 25.510813
+    "Latitude": "69.471935",
+    "Longitude": "25.510813"
   },
   {
-    "Key": "Karlovy Vary",
+    "Key": "Karlovy-Vary",
     "Link": "https://www.google.com/maps/place/Karlovy+Vary,+Chequia/@50.2169842,12.7942744,12z/data=!3m1!4b1!4m5!3m4!1s0x47a099405da94d43:0x284baf8a43d431d0!8m2!3d50.2318521!4d12.8719616",
-    "Latitude": 50.2318521,
-    "Longitude": 12.8719616
+    "Latitude": "50.2318521",
+    "Longitude": "12.8719616"
   },
   {
     "Key": "Kazanlak",
     "Link": "https://www.google.com.ar/maps/place/Kazanlak,+Bulgaria/@42.6252706,25.3785853,13z/data=!3m1!4b1!4m5!3m4!1s0x40a854039745e71f:0xe93f825ff853e53d!8m2!3d42.6194408!4d25.3929576",
-    "Latitude": 42.6194408,
-    "Longitude": 25.3929576
+    "Latitude": "42.6194408",
+    "Longitude": "25.3929576"
   },
   {
     "Key": "Kecskemet",
     "Link": "https://www.google.com/maps/place/Kecskem%C3%A9t,+Hungr%C3%ADa/@46.8857078,19.5389715,11z/data=!3m1!4b1!4m5!3m4!1s0x4743da6108f61c3f:0x400c4290c1e1180!8m2!3d46.8963711!4d19.6896861",
-    "Latitude": 46.8963711,
-    "Longitude": 19.6896861
+    "Latitude": "46.8963711",
+    "Longitude": "19.6896861"
   },
   {
     "Key": "Kilmarnock",
     "Link": "https://www.google.com/maps/place/Kilmarnock,+Reino+Unido/@55.6090997,-4.5733036,12z/data=!3m1!4b1!4m5!3m4!1s0x48882d0afd22d831:0xe877cfa002369c79!8m2!3d55.614719!4d-4.498792",
-    "Latitude": 55.614719,
-    "Longitude": -4.498792
+    "Latitude": "55.614719",
+    "Longitude": "-4.498792"
   },
   {
     "Key": "Konya",
     "Link": "https://www.google.com/maps/place/Konya,+Provincia+de+Konya,+Turqu%C3%ADa/@37.8784235,32.3663963,11z/data=!3m1!4b1!4m5!3m4!1s0x14d08568d615f745:0x240dd0fc08060967!8m2!3d37.8746429!4d32.4931554",
-    "Latitude": 37.87464,
-    "Longitude": 32.4931564
+    "Latitude": "37.87464",
+    "Longitude": "32.4931564"
   },
   {
     "Key": "Korce",
     "Link": "https://www.google.com/maps/place/Kor%C3%A7%C3%AB,+Albania/@40.6176052,20.762422,14z/data=!3m1!4b1!4m5!3m4!1s0x135a0a1264b983fb:0xd46f0f4967c3b944!8m2!3d40.6140785!4d20.7778071",
-    "Latitude": 40.61408,
-    "Longitude": 20.7778072
+    "Latitude": "40.61408",
+    "Longitude": "20.7778072"
   },
   {
     "Key": "Kotor",
     "Link": "https://www.google.com/maps/place/Kotor,+Montenegro/@42.4243077,18.7661987,16z/data=!3m1!4b1!4m5!3m4!1s0x134c33063d70c91b:0x7a73f15e212e9306!8m2!3d42.424662!4d18.771234",
-    "Latitude": 42.424662,
-    "Longitude": 18.771234
+    "Latitude": "42.424662",
+    "Longitude": "18.771234"
   },
   {
     "Key": "Kristiansand",
     "Link": "https://www.google.com.ar/maps/place/Kristiansand,+Noruega/@58.153049,7.9391721,12z/data=!3m1!4b1!4m5!3m4!1s0x46380258d5607a5b:0xdf0c0d6fc81c58a4!8m2!3d58.1599119!4d8.0182064",
-    "Latitude": 58.1599119,
-    "Longitude": 8.0182064
+    "Latitude": "58.1599119",
+    "Longitude": "8.0182064"
   },
   {
     "Key": "Kruje",
     "Link": "https://www.google.com/maps/place/Distrito+de+Kruj%C3%AB,+Albania/@41.5082141,19.7048352,12z/data=!3m1!4b1!4m5!3m4!1s0x1351ce798fda35a9:0x88c62369999d0381!8m2!3d41.5094765!4d19.7710732",
-    "Latitude": 41.5094757,
-    "Longitude": 19.7710724
+    "Latitude": "41.5094757",
+    "Longitude": "19.7710724"
   },
   {
     "Key": "Kusadasi",
     "Link": "https://www.google.com/maps/place/Ku%C5%9Fadas%C4%B1,+Provincia+de+Aydin,+Turqu%C3%ADa/@37.8556968,27.2257935,13z/data=!3m1!4b1!4m5!3m4!1s0x14bea92b956a5427:0xd89b725d100f2ef4!8m2!3d37.857913!4d27.261015",
-    "Latitude": 37.857914,
-    "Longitude": 27.2610149
+    "Latitude": "37.857914",
+    "Longitude": "27.2610149"
   },
   {
-    "Key": "La Coruna",
+    "Key": "La-Coruna",
     "Link": "https://www.google.com/maps/place/La+Coru%C3%B1a,+Espa%C3%B1a/@25.1009211,55.5018668,10.56z/data=!4m5!3m4!1s0xd2e7cfcf174574d:0x6a47350d095cdfee!8m2!3d43.3623436!4d-8.4115401",
-    "Latitude": 43.3623436,
-    "Longitude": -8.4115401
+    "Latitude": "43.3623436",
+    "Longitude": "-8.4115401"
   },
   {
-    "Key": "La Guardia-Pontevedra",
-    "Link": "https://www.google.com.ar/maps/place/La+Guardia,+Pontevedra,+Espa%C3%B1a/@41.9628303,-8.9039976,11.25z/data=!4m5!3m4!1s0xd25ea94367a9ec1:0xb2e0f88bc2beb0de!8m2!3d41.9074666!4d-8.8652259",
-    "Latitude": 41.9074666,
-    "Longitude": -8.8652259
-  },
-  {
-    "Key": "La Haya",
-    "Link": "https://www.google.com/maps/place/La+Haya,+Pa%C3%ADses+Bajos/@52.0716335,4.2398285,12z/data=!3m1!4b1!4m5!3m4!1s0x47c5b72f4298bd71:0x400de5a8d1e6c10!8m2!3d52.0704978!4d4.3006999",
-    "Latitude": 52.0705,
-    "Longitude": 4.30069971
-  },
-  {
-    "Key": "La Valeta",
-    "Link": "https://www.google.com/maps/place/La+Valeta,+Malta/@35.8984976,14.5044102,15z/data=!3m1!4b1!4m5!3m4!1s0x130e45281d8647c5:0x745ad38ee242c917!8m2!3d35.8989085!4d14.5145528",
-    "Latitude": 35.8989085,
-    "Longitude": 14.5145528
-  },
-  {
-    "Key": "Lago Lomond",
+    "Key": "Lago-Lomond",
     "Link": "https://www.google.com/maps/place/Lago+Lomond/@56.1557348,-4.8985078,10z/data=!3m1!4b1!4m5!3m4!1s0x4888ffd3731c51f3:0xc4f1e758e337fb38!8m2!3d56.1113678!4d-4.6288602",
-    "Latitude": 56.1113663,
-    "Longitude": -4.62886
+    "Latitude": "56.1113663",
+    "Longitude": "-4.62886"
   },
   {
-    "Key": "Lago Ness",
+    "Key": "Lago-Ness",
     "Link": "https://www.google.com/maps/place/Lago+Ness/@57.2737239,-4.7818639,10z/data=!3m1!4b1!4m5!3m4!1s0x488f16c34da23729:0xd4d749cbf4fe912f!8m2!3d57.3228575!4d-4.4243817",
-    "Latitude": 57.3228569,
-    "Longitude": -4.42438173
+    "Latitude": "57.3228569",
+    "Longitude": "-4.42438173"
   },
   {
     "Key": "Lagos",
     "Link": "https://www.google.com/maps/place/Lagos,+Portugal/@37.1152749,-8.7180231,13z/data=!3m1!4b1!4m5!3m4!1s0xd1b304950234d8d:0x5410aaa3471afc57!8m2!3d37.1027881!4d-8.6730275",
-    "Latitude": 37.102787,
-    "Longitude": -8.673027
+    "Latitude": "37.102787",
+    "Longitude": "-8.673027"
   },
   {
-    "Key": "Lake District",
+    "Key": "La-Guardia-Pontevedra",
+    "Link": "https://www.google.com.ar/maps/place/La+Guardia,+Pontevedra,+Espa%C3%B1a/@41.9628303,-8.9039976,11.25z/data=!4m5!3m4!1s0xd25ea94367a9ec1:0xb2e0f88bc2beb0de!8m2!3d41.9074666!4d-8.8652259",
+    "Latitude": "41.9074666",
+    "Longitude": "-8.8652259"
+  },
+  {
+    "Key": "La-Haya",
+    "Link": "https://www.google.com/maps/place/La+Haya,+Pa%C3%ADses+Bajos/@52.0716335,4.2398285,12z/data=!3m1!4b1!4m5!3m4!1s0x47c5b72f4298bd71:0x400de5a8d1e6c10!8m2!3d52.0704978!4d4.3006999",
+    "Latitude": "52.0705",
+    "Longitude": "4.30069971"
+  },
+  {
+    "Key": "Lake-District",
     "Link": "https://www.google.com/maps/place/Lake+District+National+Park/@53.8280839,-3.0483531,8.25z/data=!4m8!1m2!2m1!1sLake+District!3m4!1s0x487cc16220357017:0x17b57bddea6a7a86!8m2!3d54.4608702!4d-3.0886254",
-    "Latitude": 54.46087,
-    "Longitude": -3.08862543
+    "Latitude": "54.46087",
+    "Longitude": "-3.08862543"
   },
   {
     "Key": "Lalin",
     "Link": "https://www.google.com.ar/maps/place/36500+Lal%C3%ADn,+Pontevedra,+Espa%C3%B1a/@42.6616016,-8.1198163,15z/data=!3m1!4b1!4m5!3m4!1s0xd2fc74a8eb078c9:0x851830bcaa4b3998!8m2!3d42.6611505!4d-8.1110256",
-    "Latitude": 42.6611505,
-    "Longitude": -8.1110256
+    "Latitude": "42.6611505",
+    "Longitude": "-8.1110256"
   },
   {
     "Key": "Lamego",
     "Link": "https://www.google.com/maps/place/Lamego,+Portugal/@41.217711,-8.0857066,10z/data=!4m5!3m4!1s0xd24ab63e8a4e775:0xe6f400904a6277fb!8m2!3d41.0953745!4d-7.8123805",
-    "Latitude": 41.0953751,
-    "Longitude": -7.81238031
+    "Latitude": "41.0953751",
+    "Longitude": "-7.81238031"
   },
   {
     "Key": "Larache",
     "Link": "https://www.google.com/maps/place/Larache,+Marruecos/@35.1759726,-6.1904963,13z/data=!3m1!4b1!4m5!3m4!1s0xd0bcf2ab8e99da7:0x4a2ed27c15a15ef0!8m2!3d35.1744271!4d-6.1473964",
-    "Latitude": 35.1744271,
-    "Longitude": -6.1473964
+    "Latitude": "35.1744271",
+    "Longitude": "-6.1473964"
   },
   {
     "Key": "Laredo",
     "Link": "https://www.google.com/maps/place/Laredo,+Cantabria,+Espa%C3%B1a/@43.4171138,-3.4437741,14z/data=!3m1!4b1!4m5!3m4!1s0xd4ec0721d3b6e97:0x3b8facb07633b43b!8m2!3d43.4096287!4d-3.428383",
-    "Latitude": 43.4096287,
-    "Longitude": -3.428383
+    "Latitude": "43.4096287",
+    "Longitude": "-3.428383"
   },
   {
     "Key": "Larnaca",
     "Link": "https://www.google.com/maps/place/L%C3%A1rnaca,+Chipre/@34.9014942,33.5501941,12z/data=!3m1!4b1!4m5!3m4!1s0x14e082a16c40cb13:0x4fcbf0221371d0a5!8m2!3d34.9002535!4d33.6231723",
-    "Latitude": 34.9002535,
-    "Longitude": 33.6231723
+    "Latitude": "34.9002535",
+    "Longitude": "33.6231723"
   },
   {
-    "Key": "Las Vegas",
+    "Key": "Las-Vegas",
     "Link": "https://www.google.com/maps/place/Las+Vegas,+Nevada,+EE.+UU./@36.1246737,-115.4551948,10z/data=!3m1!4b1!4m5!3m4!1s0x80beb782a4f57dd1:0x3accd5e6d5b379a3!8m2!3d36.1699412!4d-115.1398296",
-    "Latitude": 36.16994,
-    "Longitude": -115.139832
+    "Latitude": "36.16994",
+    "Longitude": "-115.139832"
   },
   {
     "Key": "Lausana",
     "Link": "https://www.google.com/maps/place/Lausana,+Suiza/@46.5283945,6.5124101,11z/data=!3m1!4b1!4m5!3m4!1s0x478c293ecd89a7e5:0xeb173fc9cae2ee5e!8m2!3d46.5196535!4d6.6322734",
-    "Latitude": 46.5196533,
-    "Longitude": 6.632273
+    "Latitude": "46.5196533",
+    "Longitude": "6.632273"
+  },
+  {
+    "Key": "La-Valeta",
+    "Link": "https://www.google.com/maps/place/La+Valeta,+Malta/@35.8984976,14.5044102,15z/data=!3m1!4b1!4m5!3m4!1s0x130e45281d8647c5:0x745ad38ee242c917!8m2!3d35.8989085!4d14.5145528",
+    "Latitude": "35.8989085",
+    "Longitude": "14.5145528"
   },
   {
     "Key": "Lecce",
     "Link": "https://www.google.com/maps/place/73100+Lecce,+Italia/@40.3541908,18.1392749,13z/data=!3m1!4b1!4m5!3m4!1s0x13442ee42f2d1109:0x9b5b5a4c6ab377f0!8m2!3d40.3515155!4d18.1750161",
-    "Latitude": 40.3515155,
-    "Longitude": 18.1750161
+    "Latitude": "40.3515155",
+    "Longitude": "18.1750161"
   },
   {
     "Key": "Leon",
     "Link": "https://www.google.com/maps/place/Le%C3%B3n,+Espa%C3%B1a/@42.6036635,-5.6124109,13z/data=!3m1!4b1!4m5!3m4!1s0xd379a9a0d5e1bd9:0x7d849ffad4f1eef3!8m2!3d42.5987263!4d-5.5670959",
-    "Latitude": 42.5987263,
-    "Longitude": -5.5670959
+    "Latitude": "42.5987263",
+    "Longitude": "-5.5670959"
   },
   {
     "Key": "Lillehammer",
     "Link": "https://www.google.com.ar/maps/place/Lillehammer,+Noruega/@61.1123102,10.4037433,12z/data=!3m1!4b1!4m5!3m4!1s0x466a62a7f7b5288d:0x32273ad34a5bed34!8m2!3d61.1152713!4d10.4662306",
-    "Latitude": 61.1152713,
-    "Longitude": 10.4662306
+    "Latitude": "61.1152713",
+    "Longitude": "10.4662306"
   },
   {
     "Key": "Limerick",
     "Link": "https://www.google.com/maps/place/Limerick,+Irlanda/@52.6515985,-8.70018,12z/data=!3m1!4b1!4m5!3m4!1s0x485b5c611f545113:0xa00c7a997317330!8m2!3d52.6638367!4d-8.6267343",
-    "Latitude": 52.6638367,
-    "Longitude": -8.6267343
+    "Latitude": "52.6638367",
+    "Longitude": "-8.6267343"
   },
   {
     "Key": "Lindau",
     "Link": "https://www.google.com/maps/place/88131+Lindau,+Alemania/@47.5673436,9.6720821,11.25z/data=!4m5!3m4!1s0x479b0c36dec90e9d:0x4538aafa21612f80!8m2!3d47.5797815!4d9.6789333",
-    "Latitude": 47.57978,
-    "Longitude": 9.678933
+    "Latitude": "47.57978",
+    "Longitude": "9.678933"
   },
   {
     "Key": "Lisboa",
     "Link": "https://www.google.com/maps/place/Lisboa,+Portugal/@38.7436057,-9.2302437,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366",
-    "Latitude": 38.72225,
-    "Longitude": -9.139337
+    "Latitude": "38.72225",
+    "Longitude": "-9.139337"
   },
   {
     "Key": "Liubliana",
     "Link": "https://www.google.com.ar/maps/place/Liubliana,+Eslovenia/@46.0660318,14.3920158,11z/data=!3m1!4b1!4m5!3m4!1s0x476531f5969886d1:0x400f81c823fec20!8m2!3d46.0569465!4d14.5057515",
-    "Latitude": 46.0569465,
-    "Longitude": 14.5057515
+    "Latitude": "46.0569465",
+    "Longitude": "14.5057515"
   },
   {
     "Key": "Liverpool",
     "Link": "https://www.google.com/maps/place/Liverpool,+Reino+Unido/@53.4120954,-3.0561423,11z/data=!3m1!4b1!4m5!3m4!1s0x487adf8a647060b7:0x42dc046f3f176e01!8m2!3d53.4083714!4d-2.9915726",
-    "Latitude": 53.40837,
-    "Longitude": -2.99157262
+    "Latitude": "53.40837",
+    "Longitude": "-2.99157262"
   },
   {
     "Key": "Locronan",
     "Link": "https://www.google.com/maps/place/Locronan,+Francia/@48.0956948,-4.2276922,14z/data=!3m1!4b1!4m5!3m4!1s0x4816d340288ac045:0x152a35df164e9b35!8m2!3d48.098711!4d-4.207479",
-    "Latitude": 48.098711,
-    "Longitude": -4.207479
+    "Latitude": "48.098711",
+    "Longitude": "-4.207479"
+  },
+  {
+    "Key": "Loen",
+    "Link": "https://www.google.com/maps/place/6789+Loen,+Noruega/@61.868829,6.8389142,14z/data=!3m1!4b1!4m5!3m4!1s0x46167dcf431a6c01:0x4151c36ef4507057!8m2!3d61.8710579!4d6.8480176",
+    "Latitude": "61.8710579",
+    "Longitude": "6.8480176"
+  },
+  {
+    "Key": "Lofthus",
+    "Link": "https://www.google.com/maps/place/5781+Lofthus,+Noruega/@60.3339591,6.6544613,15z/data=!4m5!3m4!1s0x463e8184b85370cd:0xb55800f5ac3c8be2!8m2!3d60.3326821!4d6.6609551",
+    "Latitude": "60.3326821",
+    "Longitude": "6.6609551"
   },
   {
     "Key": "Logrono",
     "Link": "https://www.google.com.ar/maps/place/Logro%C3%B1o,+La+Rioja,+Espa%C3%B1a/@42.4603508,-2.4833823,13z/data=!3m1!4b1!4m5!3m4!1s0xd5aab4130b390b1:0xf98252918a168870!8m2!3d42.4627195!4d-2.4449852",
-    "Latitude": 42.4627195,
-    "Longitude": -2.4449852
+    "Latitude": "42.4627195",
+    "Longitude": "-2.4449852"
   },
   {
     "Key": "Londres",
     "Link": "https://www.google.com/maps/place/Londres,+Reino+Unido/@51.528308,-0.3817826,10z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583",
-    "Latitude": 51.50735,
-    "Longitude": -0.1277583
+    "Latitude": "51.50735",
+    "Longitude": "-0.1277583"
   },
   {
     "Key": "Lorca",
     "Link": "https://www.google.com.ar/maps/place/30800+Lorca,+Murcia,+Espa%C3%B1a/@37.6768325,-1.711989,14z/data=!3m1!4b1!4m5!3m4!1s0xd64e6382d7cb5e1:0xc8867e729b04ca6a!8m2!3d37.6735925!4d-1.6968357",
-    "Latitude": 37.6735925,
-    "Longitude": -1.6968357
+    "Latitude": "37.6735925",
+    "Longitude": "-1.6968357"
   },
   {
-    "Key": "Los Angeles",
+    "Key": "Los-Angeles",
     "Link": "https://www.google.com/maps/place/Los+%C3%81ngeles,+California,+EE.+UU./@34.0201613,-118.6919286,10z/data=!3m1!4b1!4m5!3m4!1s0x80c2c75ddc27da13:0xe22fdf6f254608f4!8m2!3d34.0522342!4d-118.2436849",
-    "Latitude": 34.0522346,
-    "Longitude": -118.243683
+    "Latitude": "34.0522346",
+    "Longitude": "-118.243683"
   },
   {
     "Key": "Lourdes-Francia",
     "Link": "https://www.google.com.ar/maps/place/65100+Lourdes,+Francia/@43.109114,-0.1505814,12z/data=!3m1!4b1!4m5!3m4!1s0xd57d3f0e00a9549:0x406f69c2f3d7c20!8m2!3d43.091463!4d-0.045726",
-    "Latitude": 43.091463,
-    "Longitude": -0.045726
+    "Latitude": "43.091463",
+    "Longitude": "-0.045726"
   },
   {
     "Key": "Lubeca",
     "Link": "https://www.google.com.ar/maps/place/Lubeca,+Alemania/@53.8811215,10.6212913,11z/data=!3m1!4b1!4m5!3m4!1s0x47b20953f70b9df3:0xf4725f573e7e12b4!8m2!3d53.8654673!4d10.6865593",
-    "Latitude": 53.8654673,
-    "Longitude": 10.6865593
+    "Latitude": "53.8654673",
+    "Longitude": "10.6865593"
   },
   {
     "Key": "Lucca",
     "Link": "https://www.google.com/maps/place/55100+Lucca,+Italia/@43.8498714,10.3322536,11z/data=!3m1!4b1!4m5!3m4!1s0x12d5839a50ed08ef:0x792a2692654dd9e1!8m2!3d43.8429197!4d10.5026977",
-    "Latitude": 43.8429197,
-    "Longitude": 10.5026977
+    "Latitude": "43.8429197",
+    "Longitude": "10.5026977"
   },
   {
     "Key": "Lucerna",
     "Link": "https://www.google.com/maps/place/Lucerna,+Suiza/@47.0547336,8.2122649,12z/data=!3m1!4b1!4m8!1m2!2m1!1slucerna!3m4!1s0x478ffa2a79547379:0xaef02ad1409952af!8m2!3d47.0501682!4d8.3093072",
-    "Latitude": 47.0501671,
-    "Longitude": 8.309307
+    "Latitude": "47.0501671",
+    "Longitude": "8.309307"
   },
   {
-    "Key": "Lugagnano Di Sona",
+    "Key": "Lugagnano-Di-Sona",
     "Link": "https://www.google.com/maps/place/37060+Lugagnano+Verona,+Italia/@45.4334771,10.8680868,14z/data=!3m1!4b1!4m5!3m4!1s0x4781e131913e6d0b:0x84bda08770b92d0c!8m2!3d45.4329691!4d10.8897096",
-    "Latitude": 45.4329691,
-    "Longitude": 10.8897096
+    "Latitude": "45.4329691",
+    "Longitude": "10.8897096"
   },
   {
     "Key": "Lugano",
     "Link": "https://www.google.com/maps/place/Lugano,+Suiza/@46.0295779,8.8515795,11z/data=!3m1!4b1!4m5!3m4!1s0x47842df76a4211f1:0xef8c04212ea1f8e0!8m2!3d46.0036778!4d8.951052",
-    "Latitude": 46.0036778,
-    "Longitude": 8.951052
+    "Latitude": "46.0036778",
+    "Longitude": "8.951052"
   },
   {
     "Key": "Lugo",
     "Link": "https://www.google.com/maps/place/Lugo,+Espa%C3%B1a/@43.0123411,-7.5915197,13z/data=!3m1!4b1!4m5!3m4!1s0xd31ce80b130876d:0x1f305fbf2867050c!8m2!3d43.0097384!4d-7.5567582",
-    "Latitude": 43.0097384,
-    "Longitude": -7.5567582
+    "Latitude": "43.0097384",
+    "Longitude": "-7.5567582"
   },
   {
     "Key": "Luxemburgo",
     "Link": "https://www.google.com.ar/maps/place/Luxemburgo/@49.6076951,6.0658299,12z/data=!3m1!4b1!4m13!1m7!3m6!1s0x479545b9ca212147:0x64db60f602d392ef!2sLuxemburgo!3b1!8m2!3d49.815273!4d6.129583!3m4!1s0x479548cd9df32c57:0x400d1d6d1056d10!8m2!3d49.6115998!4d6.1317444",
-    "Latitude": 49.815273,
-    "Longitude": 6.129583
+    "Latitude": "49.815273",
+    "Longitude": "6.129583"
   },
   {
     "Key": "Lyon",
     "Link": "https://www.google.com/maps/place/Lyon,+Francia/@45.7579341,4.7650808,12z/data=!3m1!4b1!4m5!3m4!1s0x47f4ea516ae88797:0x408ab2ae4bb21f0!8m2!3d45.764043!4d4.835659",
-    "Latitude": 45.76404,
-    "Longitude": 4.835659
+    "Latitude": "45.76404",
+    "Longitude": "4.835659"
   },
   {
     "Key": "Madrid",
     "Link": "https://www.google.com/maps/place/Madrid,+Espa%C3%B1a/@40.4378698,-3.8196225,11z/data=!3m1!4b1!4m5!3m4!1s0xd422997800a3c81:0xc436dec1618c2269!8m2!3d40.4167754!4d-3.7037902",
-    "Latitude": 40.4167747,
-    "Longitude": -3.70379019
+    "Latitude": "40.4167747",
+    "Longitude": "-3.70379019"
+  },
+  {
+    "Key": "Malaga",
+    "Link": "https://www.google.com/maps/place/M%C3%A1laga,+Espa%C3%B1a/@36.7647499,-4.5642747,11z/data=!3m1!4b1!4m5!3m4!1s0xd72f6698d30d151:0x403d278a576e680!8m2!3d36.7167456!4d-4.4259962",
+    "Latitude": "36.7167456",
+    "Longitude": "-4.4259962"
   },
   {
     "Key": "Malinas",
     "Link": "https://www.google.com.ar/maps/place/Malinas,+B%C3%A9lgica/@51.034942,4.3894749,12z/data=!3m1!4b1!4m5!3m4!1s0x47c3e59450852049:0x40099ab2f4d5800!8m2!3d51.0258761!4d4.4775362",
-    "Latitude": 51.0258761,
-    "Longitude": 4.4775362
+    "Latitude": "51.0258761",
+    "Longitude": "4.4775362"
+  },
+  {
+    "Key": "Marbella",
+    "Link": "https://www.google.com/maps/place/Marbella,+M%C3%A1laga,+Espa%C3%B1a/@36.5008304,-4.9350402,12z/data=!3m1!4b1!4m5!3m4!1s0xd72d809904dabdf:0xe6c9db907b5ecab!8m2!3d36.510071!4d-4.8824474",
+    "Latitude": "36.510071",
+    "Longitude": "-4.8824474"
   },
   {
     "Key": "Maribor",
     "Link": "https://www.google.com/maps/place/2000+M%C3%A1ribor,+Eslovenia/@46.5536366,15.5745095,12z/data=!3m1!4b1!4m5!3m4!1s0x476f77a6ea402051:0x1053af90bc0daa22!8m2!3d46.5546503!4d15.6458812",
-    "Latitude": 46.5546503,
-    "Longitude": 15.6458812
+    "Latitude": "46.5546503",
+    "Longitude": "15.6458812"
   },
   {
     "Key": "Marrakech",
     "Link": "https://www.google.com/maps/place/Marrakech,+Marruecos/@31.6346023,-8.0778938,12z/data=!3m1!4b1!4m5!3m4!1s0xdafee8d96179e51:0x5950b6534f87adb8!8m2!3d31.6294723!4d-7.9810845",
-    "Latitude": 31.6294727,
-    "Longitude": -7.98108435
+    "Latitude": "31.6294727",
+    "Longitude": "-7.98108435"
   },
   {
     "Key": "Marvao",
     "Link": "https://www.google.com/maps/place/Marv%C3%A3o,+Portugal/@39.3939459,-7.3849502,15z/data=!3m1!4b1!4m5!3m4!1s0xd17bf150f248c4f:0xbe9af0b9e8c640d6!8m2!3d39.3940052!4d-7.3764514",
-    "Latitude": 39.3940048,
-    "Longitude": -7.37645149
+    "Latitude": "39.3940048",
+    "Longitude": "-7.37645149"
   },
   {
     "Key": "Matera",
     "Link": "https://www.google.com/maps/place/75100+Matera,+Italia/@40.6646663,16.5651093,13z/data=!3m1!4b1!4m5!3m4!1s0x13477ee2482b152b:0x8f6a4ae10da9360!8m2!3d40.666379!4d16.6043199",
-    "Latitude": 40.666379,
-    "Longitude": 16.6043199
+    "Latitude": "40.666379",
+    "Longitude": "16.6043199"
   },
   {
     "Key": "Mazarron",
     "Link": "https://www.google.com.ar/maps/place/Mazarr%C3%B3n,+Murcia,+Espa%C3%B1a/@37.59789,-1.3239402,15z/data=!3m1!4b1!4m5!3m4!1s0xd64a24f0c459fc3:0x8eafac38a7df1f15!8m2!3d37.5958175!4d-1.3147353",
-    "Latitude": 37.5958175,
-    "Longitude": -1.3147353
+    "Latitude": "37.5958175",
+    "Longitude": "-1.3147353"
   },
   {
-    "Key": "Medina Del Campo",
+    "Key": "Medina-Del-Campo",
     "Link": "https://www.google.com.ar/maps/place/47400+Medina+del+Campo,+Valladolid,+Espa%C3%B1a/@41.3101259,-4.9326252,14z/data=!3m1!4b1!4m5!3m4!1s0xd47504048548c01:0x3a1105143cc6af29!8m2!3d41.3081627!4d-4.9154767",
-    "Latitude": 41.3081627,
-    "Longitude": -4.9154767
+    "Latitude": "41.3081627",
+    "Longitude": "-4.9154767"
   },
   {
     "Key": "Medugorje",
     "Link": "https://www.google.com/maps/place/Me%C4%91ugorje,+Bosnia+y+Herzegovina/@43.1915474,17.6452123,14z/data=!3m1!4b1!4m5!3m4!1s0x134b6d2f8d4fe3b5:0x9dc250dd6284739d!8m2!3d43.200913!4d17.6629672",
-    "Latitude": 43.200913,
-    "Longitude": 17.6629672
+    "Latitude": "43.200913",
+    "Longitude": "17.6629672"
   },
   {
     "Key": "Meersburgo",
     "Link": "https://www.google.com.ar/maps/place/Meersburg,+Alemania/@47.7062957,9.2394328,13z/data=!3m1!4b1!4m5!3m4!1s0x479af8167165b413:0x41f6bb7a5df84a0!8m2!3d47.6954836!4d9.2720915",
-    "Latitude": 47.6954836,
-    "Longitude": 9.2720915
+    "Latitude": "47.6954836",
+    "Longitude": "9.2720915"
   },
   {
     "Key": "Melgaco",
     "Link": "https://www.google.com/maps/place/Melga%C3%A7o,+Portugal/@42.1136872,-8.268582,15z/data=!3m1!4b1!4m5!3m4!1s0xd25659f486652af:0x97cd32809569d269!8m2!3d42.1143979!4d-8.2579735",
-    "Latitude": 42.1144,
-    "Longitude": -8.257974
+    "Latitude": "42.1144",
+    "Longitude": "-8.257974"
   },
   {
     "Key": "Mequinez",
     "Link": "https://www.google.com/maps/place/Mequinez,+Marruecos/@33.8809852,-5.6080608,12z/data=!3m1!4b1!4m5!3m4!1s0xda044d23bfc49d1:0xfbbf80a99e4cde18!8m2!3d33.8730164!4d-5.5407299",
-    "Latitude": 33.8730164,
-    "Longitude": -5.54073
+    "Latitude": "33.8730164",
+    "Longitude": "-5.54073"
   },
   {
-    "Key": "Mesao Frio",
+    "Key": "Mesao-Frio",
     "Link": "https://www.google.com/maps/place/Mes%C3%A3o+Frio,+Portugal/@41.1640823,-7.8993516,15z/data=!3m1!4b1!4m5!3m4!1s0xd24ae19a06595d7:0x950533ca6f8351b8!8m2!3d41.1598648!4d-7.8899228",
-    "Latitude": 41.1598663,
-    "Longitude": -7.88992262
+    "Latitude": "41.1598663",
+    "Longitude": "-7.88992262"
   },
   {
     "Key": "Metz",
     "Link": "https://www.google.com/maps/place/Metz,+Francia/@49.1049442,6.1263658,12z/data=!3m1!4b1!4m5!3m4!1s0x4794dc1b6074b6a9:0x596be4b635bba669!8m2!3d49.1193089!4d6.1757156",
-    "Latitude": 49.1193089,
-    "Longitude": 6.1757156
+    "Latitude": "49.1193089",
+    "Longitude": "6.1757156"
   },
   {
     "Key": "Middelburg",
     "Link": "https://www.google.com/maps/place/Middelburg,+Pa%C3%ADses+Bajos/@51.5051517,3.5826798,13z/data=!3m1!4b1!4m5!3m4!1s0x47c48e44065d5267:0x9d5f315bb0ead1b4!8m2!3d51.4987962!4d3.610998",
-    "Latitude": 51.4987962,
-    "Longitude": 3.610998
+    "Latitude": "51.4987962",
+    "Longitude": "3.610998"
   },
   {
-    "Key": "Miercurea Ciuc",
+    "Key": "Miercurea-Ciuc",
     "Link": "https://www.google.com/maps/place/Miercurea+Ciuc,+Ruman%C3%ADa/@46.3576685,25.669859,12z/data=!3m1!4b1!4m5!3m4!1s0x474b2a092c490c6b:0x6aa5d0a276cb4941!8m2!3d46.3695574!4d25.7953655",
-    "Latitude": 46.3695574,
-    "Longitude": 25.7953655
+    "Latitude": "46.3695574",
+    "Longitude": "25.7953655"
   },
   {
     "Key": "Mikonos",
     "Link": "https://www.google.com.ar/maps/place/Miconos,+Mikonos,+Grecia/@37.4335963,25.1082281,10z/data=!3m1!4b1!4m5!3m4!1s0x14a2b8d058302c45:0x400bd2ce2b9c780!8m2!3d37.4467354!4d25.3288845",
-    "Latitude": 37.4467354,
-    "Longitude": 25.3288845
+    "Latitude": "37.4467354",
+    "Longitude": "25.3288845"
   },
   {
     "Key": "Milan",
     "Link": "https://www.google.com/maps/place/Mil%C3%A1n,+Italia/@45.4626482,9.0376472,11z/data=!3m1!4b1!4m5!3m4!1s0x4786c1493f1275e7:0x3cffcd13c6740e8d!8m2!3d45.4642035!4d9.189982",
-    "Latitude": 45.4642029,
-    "Longitude": 9.189982
+    "Latitude": "45.4642029",
+    "Longitude": "9.189982"
   },
   {
     "Key": "Milos",
     "Link": "https://www.google.com.ar/maps/place/Milos+190+01,+Grecia/@37.8291919,24.0286171,17z/data=!3m1!4b1!4m5!3m4!1s0x14a18c13435c6bab:0xa00bd2f74c2f5b0!8m2!3d37.8289295!4d24.0315899",
-    "Latitude": 37.8289295,
-    "Longitude": 24.0315899
+    "Latitude": "37.8289295",
+    "Longitude": "24.0315899"
   },
   {
     "Key": "Moher",
     "Link": "https://www.google.com/maps/place/Moher,+Co.+Galway,+Irlanda/@53.2809401,-8.2650048,12.25z/data=!4m5!3m4!1s0x485c6847c51052af:0x3565040acbfdd585!8m2!3d53.3118389!4d-8.2383942",
-    "Latitude": 53.3118389,
-    "Longitude": -8.2383942
+    "Latitude": "53.3118389",
+    "Longitude": "-8.2383942"
   },
   {
     "Key": "Monaco",
     "Link": "https://www.google.com/maps/place/M%C3%B3naco/@43.7378501,7.4083428,14z/data=!3m1!4b1!4m5!3m4!1s0x12cdc26f7b3f8531:0x74f7784c3ac49cfc!8m2!3d43.7384176!4d7.4246158",
-    "Latitude": 43.73842,
-    "Longitude": 7.424616
+    "Latitude": "43.73842",
+    "Longitude": "7.424616"
   },
   {
     "Key": "Moncao",
     "Link": "https://www.google.com/maps/place/Mon%C3%A7%C3%A3o,+Portugal/@42.0703498,-8.5001931,14z/data=!3m1!4b1!4m5!3m4!1s0xd2577fb591ae177:0xe1e71cb0709452a5!8m2!3d42.0771855!4d-8.4819441",
-    "Latitude": 42.0771866,
-    "Longitude": -8.481944
+    "Latitude": "42.0771866",
+    "Longitude": "-8.481944"
   },
   {
     "Key": "Monreale",
     "Link": "https://www.google.com/maps/place/90046+Monreale,+Palermo,+Italia/@38.0782574,13.2743758,14z/data=!3m1!4b1!4m5!3m4!1s0x1319ee3c15d9e9bf:0xc9f05a91152d7dfd!8m2!3d38.0814986!4d13.2889834",
-    "Latitude": 38.0814972,
-    "Longitude": 13.2889833
+    "Latitude": "38.0814972",
+    "Longitude": "13.2889833"
   },
   {
-    "Key": "Mont Saint Michel",
-    "Link": "https://www.google.com/maps/place/50170+Monte+Saint-Michel,+Francia/@48.636421,-1.5637365,13z/data=!3m1!4b1!4m5!3m4!1s0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe!8m2!3d48.636063!4d-1.511457",
-    "Latitude": 48.636063,
-    "Longitude": -1.511457
-  },
-  {
-    "Key": "Monte Etna",
-    "Link": "https://www.google.com/maps/place/Etna/@37.7810097,14.8638653,11.25z/data=!4m5!3m4!1s0x1316aa3714a7a0eb:0x1d0b042aa5c52a70!8m2!3d37.751005!4d14.9934349",
-    "Latitude": 37.7510033,
-    "Longitude": 14.9934349
-  },
-  {
-    "Key": "Montecarlo Di Lucca",
+    "Key": "Montecarlo-Di-Lucca",
     "Link": "https://www.google.com.ar/maps/place/55015+Montecarlo,+Lucca,+Italia/@43.8484918,10.6358708,13z/data=!3m1!4b1!4m5!3m4!1s0x132a7ee331ecd389:0x4643ac3b525f8f15!8m2!3d43.8534454!4d10.6657906",
-    "Latitude": 43.8534454,
-    "Longitude": 10.6657906
+    "Latitude": "43.8534454",
+    "Longitude": "10.6657906"
+  },
+  {
+    "Key": "Monte-Etna",
+    "Link": "https://www.google.com/maps/place/Etna/@37.7810097,14.8638653,11.25z/data=!4m5!3m4!1s0x1316aa3714a7a0eb:0x1d0b042aa5c52a70!8m2!3d37.751005!4d14.9934349",
+    "Latitude": "37.7510033",
+    "Longitude": "14.9934349"
   },
   {
     "Key": "Montepulciano",
     "Link": "https://www.google.com.ar/maps/place/53045+Montepulciano,+Siena,+Italia/@43.0973373,11.7626212,13z/data=!4m5!3m4!1s0x13295c04abeab307:0xcfbd667e662d3f92!8m2!3d43.0986938!4d11.7872467",
-    "Latitude": 43.0986938,
-    "Longitude": 11.7872467
+    "Latitude": "43.0986938",
+    "Longitude": "11.7872467"
   },
   {
     "Key": "Montreal",
     "Link": "https://www.google.com/maps/place/Montreal,+Quebec,+Canad%C3%A1/@45.5576996,-74.010491,10z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a541c64b70d:0x654e3138211fefef!8m2!3d45.5016889!4d-73.567256",
-    "Latitude": 45.50169,
-    "Longitude": -73.56725
+    "Latitude": "45.50169",
+    "Longitude": "-73.56725"
   },
   {
     "Key": "Montreux",
     "Link": "https://www.google.com/maps/place/Montreux,+Suiza/@46.4461237,6.8456799,12z/data=!3m1!4b1!4m5!3m4!1s0x478e9b20cdb650cd:0xccc07a7fc46d1847!8m2!3d46.4312213!4d6.9106799",
-    "Latitude": 46.43122,
-    "Longitude": 6.91068
+    "Latitude": "46.43122",
+    "Longitude": "6.91068"
+  },
+  {
+    "Key": "Mont-Saint-Michel",
+    "Link": "https://www.google.com/maps/place/50170+Monte+Saint-Michel,+Francia/@48.636421,-1.5637365,13z/data=!3m1!4b1!4m5!3m4!1s0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe!8m2!3d48.636063!4d-1.511457",
+    "Latitude": "48.636063",
+    "Longitude": "-1.511457"
   },
   {
     "Key": "Moscu",
     "Link": "https://www.google.com.ar/maps/place/Mosc%C3%BA,+Rusia/@55.5807481,36.8251304,9z/data=!3m1!4b1!4m5!3m4!1s0x46b54afc73d4b0c9:0x3d44d6cc5757cf4c!8m2!3d55.755826!4d37.6172999",
-    "Latitude": 55.755826,
-    "Longitude": 37.6172999
+    "Latitude": "55.755826",
+    "Longitude": "37.6172999"
   },
   {
     "Key": "Mosta",
     "Link": "https://www.google.com/maps/place/Mosta,+Malta/@35.9133594,14.3986879,14z/data=!3m1!4b1!4m5!3m4!1s0x130e4fd3892dd7b9:0xc7e94747c3647e86!8m2!3d35.9141504!4d14.4228427",
-    "Latitude": 35.9141504,
-    "Longitude": 14.4228427
+    "Latitude": "35.9141504",
+    "Longitude": "14.4228427"
   },
   {
     "Key": "Mostar",
     "Link": "https://www.google.com/maps/place/Mostar+88000,+Bosnia+y+Herzegovina/@43.3396111,17.7862209,13z/data=!3m1!4b1!4m5!3m4!1s0x134b43a43b6340a9:0x14f32b2d4e37c5a!8m2!3d43.3437748!4d17.8077578",
-    "Latitude": 43.3437748,
-    "Longitude": 17.8077578
+    "Latitude": "43.3437748",
+    "Longitude": "17.8077578"
   },
   {
     "Key": "Motovun",
     "Link": "https://www.google.com.ar/maps/place/Motovun,+Croacia/@45.336127,13.7922034,13z/data=!3m1!4b1!4m5!3m4!1s0x477ca718145c7a83:0x677595175247d560!8m2!3d45.3359506!4d13.8278605",
-    "Latitude": 45.3359506,
-    "Longitude": 13.8278605
+    "Latitude": "45.3359506",
+    "Longitude": "13.8278605"
   },
   {
     "Key": "Mulhouse",
     "Link": "https://www.google.com.ar/maps/place/Mulhouse,+Francia/@47.7526806,7.2906051,13z/data=!3m1!4b1!4m5!3m4!1s0x47919b6c1d88946b:0x40a5fb99a393360!8m2!3d47.750839!4d7.335888",
-    "Latitude": 47.750839,
-    "Longitude": 7.335888
+    "Latitude": "47.750839",
+    "Longitude": "7.335888"
   },
   {
     "Key": "Munich",
     "Link": "https://www.google.com/maps/place/M%C3%BAnich,+Alemania/@48.1548256,11.4017512,11z/data=!3m1!4b1!4m5!3m4!1s0x479e75f9a38c5fd9:0x10cb84a7db1987d!8m2!3d48.1351253!4d11.5819805",
-    "Latitude": 48.1351242,
-    "Longitude": 11.5819807
+    "Latitude": "48.1351242",
+    "Longitude": "11.5819807"
   },
   {
     "Key": "Murcia",
     "Link": "https://www.google.com.ar/maps/place/Murcia,+Espa%C3%B1a/@37.9805272,-1.1621948,13z/data=!3m1!4b1!4m5!3m4!1s0xd6381f8d5928c7f:0xd627129b38c4ab9a!8m2!3d37.9922399!4d-1.1306544",
-    "Latitude": 37.9922399,
-    "Longitude": -1.1306544
+    "Latitude": "37.9922399",
+    "Longitude": "-1.1306544"
   },
   {
     "Key": "Najera",
     "Link": "https://www.google.com.ar/maps/place/26300+N%C3%A1jera,+La+Rioja,+Espa%C3%B1a/@42.4157725,-2.73912,15z/data=!3m1!4b1!4m5!3m4!1s0xd455c48d3f063d5:0xb7ea89a98a0bb30f!8m2!3d42.4167413!4d-2.7294624",
-    "Latitude": 42.4167413,
-    "Longitude": -2.7294624
+    "Latitude": "42.4167413",
+    "Longitude": "-2.7294624"
   },
   {
     "Key": "Nantes",
     "Link": "https://www.google.com/maps/place/Nantes,+Francia/@47.2383172,-1.6300964,12z/data=!3m1!4b1!4m5!3m4!1s0x4805ee81f0a8aead:0x40d37521e0ded30!8m2!3d47.218371!4d-1.553621",
-    "Latitude": 47.218371,
-    "Longitude": -1.553621
+    "Latitude": "47.218371",
+    "Longitude": "-1.553621"
   },
   {
     "Key": "Napoles",
     "Link": "https://www.google.com/maps/place/N%C3%A1poles,+Italia/@40.853586,14.1729665,12z/data=!3m1!4b1!4m5!3m4!1s0x133b084f6a6c7e99:0x3df52cc13b78191d!8m2!3d40.8517983!4d14.26812",
-    "Latitude": 40.8518,
-    "Longitude": 14.26812
+    "Latitude": "40.8518",
+    "Longitude": "14.26812"
   },
   {
     "Key": "Nauplia",
     "Link": "https://www.google.com.ar/maps/place/Nauplia,+Grecia/@37.5731353,22.7881263,14z/data=!3m1!4b1!4m5!3m4!1s0x149ffa9cc1517963:0x84e450db6d640b8!8m2!3d37.5673173!4d22.8015531",
-    "Latitude": 37.5673173,
-    "Longitude": 22.8015531
+    "Latitude": "37.5673173",
+    "Longitude": "22.8015531"
   },
   {
     "Key": "Nazare",
     "Link": "https://www.google.com/maps/place/Nazar%C3%A9,+Portugal/@39.6330478,-9.0666221,11.75z/data=!4m5!3m4!1s0xd18a8232f6ad417:0x3d2d871af42106f!8m2!3d39.6012147!4d-9.0700991",
-    "Latitude": 39.6012154,
-    "Longitude": -9.070099
+    "Latitude": "39.6012154",
+    "Longitude": "-9.070099"
   },
   {
     "Key": "Nazareth",
     "Link": "https://www.google.com/maps/place/Nazaret,+Israel/@32.7142464,35.2547978,13z/data=!3m1!4b1!4m5!3m4!1s0x151c4e7cf16c0fff:0xd2385b30c1275dd6!8m2!3d32.699635!4d35.303546",
-    "Latitude": 32.699635,
-    "Longitude": 35.303546
+    "Latitude": "32.699635",
+    "Longitude": "35.303546"
   },
   {
     "Key": "Nessebar",
     "Link": "https://www.google.com.ar/maps/place/Nesebar,+Bulgaria/@42.6561185,27.6945337,14z/data=!3m1!4b1!4m5!3m4!1s0x40a69f5d6d18eeab:0x6b0f7338542adf13!8m2!3d42.6601365!4d27.7205593",
-    "Latitude": 42.6601365,
-    "Longitude": 27.7205593
+    "Latitude": "42.6601365",
+    "Longitude": "27.7205593"
   },
   {
     "Key": "Neuschwanstein",
     "Link": "https://www.google.com.ar/maps/place/Neuschwanstein/@47.5685813,10.6545831,11.62z/data=!4m8!1m2!2m1!1sNeuschwanstein!3m4!1s0x479cf7cac44ea35d:0xc8a6866bd39dbba3!8m2!3d47.557574!4d10.7498004",
-    "Latitude": 47.557574,
-    "Longitude": 10.7498004
+    "Latitude": "47.557574",
+    "Longitude": "10.7498004"
   },
   {
     "Key": "Newport",
     "Link": "https://www.google.com/maps/place/Newport,+Rhode+Island,+EE.+UU./@41.4861465,-71.3596895,13z/data=!3m1!4b1!4m5!3m4!1s0x89e5bab70509976b:0xce5e96f72c2f6f21!8m2!3d41.4901024!4d-71.3128285",
-    "Latitude": 41.4901024,
-    "Longitude": -71.3128285
+    "Latitude": "41.4901024",
+    "Longitude": "-71.3128285"
   },
   {
     "Key": "Nicosia",
     "Link": "https://www.google.com/maps/place/Nicosia,+Chipre/@35.1923727,33.3273615,12z/data=!3m1!4b1!4m5!3m4!1s0x14de1767ca494d55:0x5b5ea49c0311c0a5!8m2!3d35.1855659!4d33.3822764",
-    "Latitude": 35.1855659,
-    "Longitude": 33.3822764
+    "Latitude": "35.1855659",
+    "Longitude": "33.3822764"
   },
   {
     "Key": "Nin",
     "Link": "https://www.google.com/maps/place/Nin,+Croacia/@44.2379575,15.164085,13z/data=!3m1!4b1!4m5!3m4!1s0x4761f461f5483993:0x400ad50862bc7f0!8m2!3d44.2423373!4d15.183695",
-    "Latitude": 44.2423373,
-    "Longitude": 15.183695
+    "Latitude": "44.2423373",
+    "Longitude": "15.183695"
   },
   {
     "Key": "Nis",
     "Link": "https://www.google.com.ar/maps/place/Ni%C5%A1,+Serbia/@43.316238,21.8583398,13z/data=!3m1!4b1!4m5!3m4!1s0x4755b0c240c81f65:0x56319fe3122ac3cd!8m2!3d43.3209022!4d21.8957589",
-    "Latitude": 43.3209022,
-    "Longitude": 21.8957589
+    "Latitude": "43.3209022",
+    "Longitude": "21.8957589"
   },
   {
     "Key": "Niza",
     "Link": "https://www.google.com/maps/place/Niza,+Francia/@43.7031691,7.1827768,12z/data=!3m1!4b1!4m5!3m4!1s0x12cdd0106a852d31:0x40819a5fd979a70!8m2!3d43.7101728!4d7.2619532",
-    "Latitude": 43.7101746,
-    "Longitude": 7.26195335
+    "Latitude": "43.7101746",
+    "Longitude": "7.26195335"
   },
   {
     "Key": "Nkob",
     "Link": "https://www.google.com/maps/place/Nkob,+Marruecos/@30.873322,-5.8716775,15z/data=!3m1!4b1!4m5!3m4!1s0xdbcf8fa3fc4c11b:0x25acb4d72200b014!8m2!3d30.8694027!4d-5.8644018",
-    "Latitude": 30.8694019,
-    "Longitude": -5.864402
+    "Latitude": "30.8694019",
+    "Longitude": "-5.864402"
   },
   {
     "Key": "Nordfjord",
     "Link": "https://www.google.com.ar/maps/place/Nordfjord/@61.8351028,5.4637483,9z/data=!4m8!1m2!2m1!1sNORDFJORD!3m4!1s0x4617acc0f3515add:0x578948ad13df60e1!8m2!3d61.8617209!4d6.0159109",
-    "Latitude": 61.8617209,
-    "Longitude": 6.0159109
+    "Latitude": "61.8617209",
+    "Longitude": "6.0159109"
   },
   {
     "Key": "Noto",
     "Link": "https://www.google.com/maps/place/96017+Noto,+Siracusa,+Italia/@36.8971752,15.0532821,14z/data=!3m1!4b1!4m5!3m4!1s0x131229afb04ab6b9:0x2725aa60a66d1a27!8m2!3d36.8924433!4d15.0651945",
-    "Latitude": 36.8924433,
-    "Longitude": 15.0651945
+    "Latitude": "36.8924433",
+    "Longitude": "15.0651945"
   },
   {
-    "Key": "Nueva York",
+    "Key": "Nueva-York",
     "Link": "https://www.google.com/maps/place/Nueva+York,+EE.+UU./@40.6971494,-74.2598729,10z/data=!3m1!4b1!4m5!3m4!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728",
-    "Latitude": 40.7127762,
-    "Longitude": -74.0059738
+    "Latitude": "40.7127762",
+    "Longitude": "-74.0059738"
   },
   {
     "Key": "Nuremberg",
     "Link": "https://www.google.com/maps/place/N%C3%BAremberg,+Alemania/@49.436009,10.992953,11z/data=!3m1!4b1!4m5!3m4!1s0x479f57aeb5b61cd3:0xdd5daf85a98c21b7!8m2!3d49.4521018!4d11.0766654",
-    "Latitude": 49.4521027,
-    "Longitude": 11.0766649
+    "Latitude": "49.4521027",
+    "Longitude": "11.0766649"
   },
   {
     "Key": "Oberammergau",
     "Link": "https://www.google.com.ar/maps/place/82487+Oberammergau,+Alemania/@47.6004953,11.0210834,13z/data=!3m1!4b1!4m5!3m4!1s0x479dab099e172f7f:0xb3a682a0f0a67535!8m2!3d47.5956599!4d11.072352",
-    "Latitude": 47.5956599,
-    "Longitude": 11.072352
+    "Latitude": "47.5956599",
+    "Longitude": "11.072352"
   },
   {
     "Key": "Obidos",
     "Link": "https://www.google.com/maps/place/%C3%93bidos,+Portugal/@39.3684407,-9.2007886,13z/data=!3m1!4b1!4m5!3m4!1s0xd18b49eef1edec5:0x170a628ab34d3bb3!8m2!3d39.3604212!4d-9.1582014",
-    "Latitude": 39.36042,
-    "Longitude": -9.158201
+    "Latitude": "39.36042",
+    "Longitude": "-9.158201"
   },
   {
     "Key": "Ohrid",
     "Link": "https://www.google.com/maps/place/Ohrid,+Macedonia+(ARYM)/@41.1139902,20.7569497,13z/data=!3m1!4b1!4m5!3m4!1s0x1350db6587ea6657:0xc46cfc65390bc9d3!8m2!3d41.1230977!4d20.8016481",
-    "Latitude": 41.1230965,
-    "Longitude": 20.8016472
+    "Latitude": "41.1230965",
+    "Longitude": "20.8016472"
   },
   {
     "Key": "Ojedo",
     "Link": "https://www.google.com/maps/place/Ojedo,+Cantabria,+Espa%C3%B1a/@43.1625627,-4.617083,15z/data=!3m1!4b1!4m5!3m4!1s0xd49b17905dc71d1:0x9d9495bd6c3c0107!8m2!3d43.1632256!4d-4.6075948",
-    "Latitude": 43.1632271,
-    "Longitude": -4.607595
+    "Latitude": "43.1632271",
+    "Longitude": "-4.607595"
   },
   {
     "Key": "Olbia",
     "Link": "https://www.google.com.ar/maps/place/07026+Olbia,+Olbia-Tempio,+Italia/@40.9278735,9.4578522,13z/data=!3m1!4b1!4m5!3m4!1s0x12d94b04024bea79:0x7bfe3270a490c808!8m2!3d40.9235764!4d9.4964429",
-    "Latitude": 40.9235764,
-    "Longitude": 9.4964429
+    "Latitude": "40.9235764",
+    "Longitude": "9.4964429"
   },
   {
     "Key": "Olhao",
     "Link": "https://www.google.com/maps/place/Olh%C3%A3o,+Portugal/@37.0353556,-7.8728002,13z/data=!3m1!4b1!4m5!3m4!1s0xd1aab32b7e934fb:0x14f4290619058992!8m2!3d37.0260416!4d-7.8423509",
-    "Latitude": 37.0260416,
-    "Longitude": -7.8423509
+    "Latitude": "37.0260416",
+    "Longitude": "-7.8423509"
   },
   {
     "Key": "Olmedo",
     "Link": "https://www.google.com.ar/maps/place/Olmedo,+Valladolid,+Espa%C3%B1a/@41.2815821,-4.840568,11z/data=!3m1!4b1!4m8!1m2!2m1!1solmedo!3m4!1s0xd47366910fb6eed:0x40587075af595f0!8m2!3d41.2851649!4d-4.7070616",
-    "Latitude": 41.2851649,
-    "Longitude": -4.7070616
+    "Latitude": "41.2851649",
+    "Longitude": "-4.7070616"
   },
   {
     "Key": "Olympia",
     "Link": "https://www.google.com/maps/place/Olympia,+Grecia/@37.7711605,21.4317253,10z/data=!3m1!4b1!4m5!3m4!1s0x136085869b4683b9:0x59d7a6719d19df0d!8m2!3d37.748886!4d21.7246351",
-    "Latitude": 37.7488861,
-    "Longitude": 21.7246342
+    "Latitude": "37.7488861",
+    "Longitude": "21.7246342"
   },
   {
     "Key": "Opatija",
     "Link": "https://www.google.com/maps/place/Opatija,+Croacia/@45.3395862,14.2777059,13z/data=!3m1!4b1!4m5!3m4!1s0x4764a84acbb5741b:0x400ad50862bc290!8m2!3d45.3376197!4d14.305196",
-    "Latitude": 45.3376197,
-    "Longitude": 14.305196
+    "Latitude": "45.3376197",
+    "Longitude": "14.305196"
   },
   {
     "Key": "Oporto",
     "Link": "https://www.google.com/maps/place/Oporto,+Portugal/@41.1621376,-8.6569732,13z/data=!3m1!4b1!4m5!3m4!1s0xd2465abc4e153c1:0xa648d95640b114bc!8m2!3d41.1579438!4d-8.6291053",
-    "Latitude": 41.1579437,
-    "Longitude": -8.629106
+    "Latitude": "41.1579437",
+    "Longitude": "-8.629106"
   },
   {
     "Key": "Orense",
     "Link": "https://www.google.com.ar/maps/place/Orense,+Ourense,+Espa%C3%B1a/@42.3384207,-7.8987052,13z/data=!3m1!4b1!4m5!3m4!1s0xd2ffeb5bc5378eb:0x295326a374bca39c!8m2!3d42.3357893!4d-7.863881",
-    "Latitude": 42.3357893,
-    "Longitude": -7.863881
+    "Latitude": "42.3357893",
+    "Longitude": "-7.863881"
   },
   {
     "Key": "Orleans",
     "Link": "https://www.google.com/maps/place/Orleans,+Francia/@47.8735098,1.8421683,12z/data=!3m1!4b1!4m5!3m4!1s0x47e4e4d49df386e3:0x9eb97de479c38029!8m2!3d47.902964!4d1.909251",
-    "Latitude": 47.902964,
-    "Longitude": 1.909251
+    "Latitude": "47.902964",
+    "Longitude": "1.909251"
   },
   {
     "Key": "Oslo",
     "Link": "https://www.google.com.ar/maps/place/Oslo,+Noruega/@59.8937806,10.6450355,11z/data=!3m1!4b1!4m5!3m4!1s0x46416e61f267f039:0x7e92605fd3231e9a!8m2!3d59.9138688!4d10.7522454",
-    "Latitude": 59.9138688,
-    "Longitude": 10.7522454
+    "Latitude": "59.9138688",
+    "Longitude": "10.7522454"
   },
   {
     "Key": "Ostuni",
     "Link": "https://www.google.com/maps/place/72017+Ostuni,+Brindisi,+Italia/@40.7268956,17.562942,14z/data=!3m1!4b1!4m5!3m4!1s0x1346435718d3ceb1:0x1c366a4ea72bfafa!8m2!3d40.7295235!4d17.5779979",
-    "Latitude": 40.7295235,
-    "Longitude": 17.5779979
+    "Latitude": "40.7295235",
+    "Longitude": "17.5779979"
   },
   {
     "Key": "Oswiecim",
     "Link": "https://www.google.com/maps/place/O%C5%9Bwi%C4%99cim,+Polonia/@50.0352028,19.1882174,12z/data=!3m1!4b1!4m8!1m2!2m1!1sAuschwitz!3m4!1s0x471694e04f384c31:0x1e1c6b2131976ebd!8m2!3d50.0344025!4d19.2097878",
-    "Latitude": 50.0344025,
-    "Longitude": 19.2097878
+    "Latitude": "50.0344025",
+    "Longitude": "19.2097878"
   },
   {
     "Key": "Oviedo",
     "Link": "https://www.google.com/maps/place/Oviedo,+Asturias,+Espa%C3%B1a/@43.3694815,-5.8836773,13z/data=!3m1!4b1!4m5!3m4!1s0xd368c9a60ac1c67:0x3134440ecc5e6224!8m2!3d43.3619145!4d-5.8493887",
-    "Latitude": 43.3619156,
-    "Longitude": -5.8493886
+    "Latitude": "43.3619156",
+    "Longitude": "-5.8493886"
   },
   {
     "Key": "Oxford",
     "Link": "https://www.google.com/maps/place/Oxford,+Reino+Unido/@51.7503955,-1.3176278,12z/data=!3m1!4b1!4m5!3m4!1s0x48713380adc41faf:0xc820dba8cb547402!8m2!3d51.7520209!4d-1.2577263",
-    "Latitude": 51.75202,
-    "Longitude": -1.25772631
+    "Latitude": "51.75202",
+    "Longitude": "-1.25772631"
   },
   {
     "Key": "Padua",
     "Link": "https://www.google.com/maps/place/Padua,+Italia/@45.4064823,11.8212053,12z/data=!3m1!4b1!4m5!3m4!1s0x477eda5841ab30cf:0xc18236edaa1a2e2c!8m2!3d45.4064349!4d11.8767611",
-    "Latitude": 45.4064331,
-    "Longitude": 11.8767614
+    "Latitude": "45.4064331",
+    "Longitude": "11.8767614"
   },
   {
     "Key": "Paestum",
     "Link": "https://www.google.com/maps/place/84047+Paestum,+Salerno,+Italia/@40.4224933,15.0007156,15z/data=!3m1!4b1!4m5!3m4!1s0x133bfd7351c6a12d:0xa09e12253c2be50!8m2!3d40.4231513!4d15.0071628",
-    "Latitude": 40.4231513,
-    "Longitude": 15.0071628
+    "Latitude": "40.4231513",
+    "Longitude": "15.0071628"
   },
   {
     "Key": "Palermo",
     "Link": "https://www.google.com/maps/place/Palermo,+Italia/@38.1405228,13.2872481,12z/data=!3m1!4b1!4m5!3m4!1s0x1319e8c9814ed099:0xa0b042c233bd880!8m2!3d38.11569!4d13.3614868",
-    "Latitude": 38.11569,
-    "Longitude": 13.3614864
+    "Latitude": "38.11569",
+    "Longitude": "13.3614864"
   },
   {
     "Key": "Pamplona",
     "Link": "https://www.google.com/maps/place/Pamplona,+Navarra,+Espa%C3%B1a/@42.8157607,-1.6850411,13z/data=!3m1!4b1!4m5!3m4!1s0xd50928ba31965c7:0x4e6e903632cb2e90!8m2!3d42.812526!4d-1.6457745",
-    "Latitude": 42.8125267,
-    "Longitude": -1.64577448
+    "Latitude": "42.8125267",
+    "Longitude": "-1.64577448"
   },
   {
     "Key": "Pamukkale",
     "Link": "https://www.google.com/maps/place/Pamukkale,+20190+Pamukkale%2FProvincia+de+Denizli,+Turqu%C3%ADa/@37.9152807,29.1084163,15z/data=!3m1!4b1!4m5!3m4!1s0x14c713c95620da2f:0xb1190f5f451efcd6!8m2!3d37.9136957!4d29.1187097",
-    "Latitude": 37.9136963,
-    "Longitude": 29.11871
+    "Latitude": "37.9136963",
+    "Longitude": "29.11871"
   },
   {
     "Key": "Paphos",
     "Link": "https://www.google.com/maps/place/Paphos,+Chipre/@34.7727478,32.397991,13z/data=!3m1!4b1!4m5!3m4!1s0x14e70663f42de2c9:0x6c05fdff50f4b5e7!8m2!3d34.7720133!4d32.4297369",
-    "Latitude": 34.7720133,
-    "Longitude": 32.4297369
+    "Latitude": "34.7720133",
+    "Longitude": "32.4297369"
   },
   {
     "Key": "Paris",
     "Link": "https://www.google.com/maps/place/Par%C3%ADs,+Francia/@48.8588377,2.2770199,12z/data=!3m1!4b1!4m5!3m4!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!8m2!3d48.856614!4d2.3522219",
-    "Latitude": 48.8566132,
-    "Longitude": 2.352222
+    "Latitude": "48.8566132",
+    "Longitude": "2.352222"
   },
   {
     "Key": "Parnu",
     "Link": "https://www.google.com/maps/place/P%C3%A4rnu,+Condado+de+P%C3%A4rnu,+Estonia/@58.3790728,24.4578163,12z/data=!3m1!4b1!4m5!3m4!1s0x46ecfcde022724a1:0x400b36d18fc6990!8m2!3d58.3916898!4d24.4952895",
-    "Latitude": 58.3916898,
-    "Longitude": 24.4952895
+    "Latitude": "58.3916898",
+    "Longitude": "24.4952895"
   },
   {
     "Key": "Patmos",
     "Link": "https://www.google.com/maps/place/Patmos/@37.324766,26.4998474,12z/data=!3m1!4b1!4m5!3m4!1s0x14bda50db4bd8ab5:0xc4ed84fc66418137!8m2!3d37.3129763!4d26.5468773",
-    "Latitude": 37.3129763,
-    "Longitude": 26.5468773
+    "Latitude": "37.3129763",
+    "Longitude": "26.5468773"
   },
   {
     "Key": "Pecs",
     "Link": "https://www.google.com.ar/maps/place/P%C3%A9cs,+Hungr%C3%ADa/@46.0778856,18.1104959,11z/data=!3m1!4b1!4m5!3m4!1s0x4742b111ea3252e3:0x400c4290c1e1200!8m2!3d46.0727345!4d18.232266",
-    "Latitude": 46.0727345,
-    "Longitude": 18.232266
+    "Latitude": "46.0727345",
+    "Longitude": "18.232266"
   },
   {
     "Key": "Penafiel",
     "Link": "https://www.google.com/maps/place/Pe%C3%B1afiel,+Valladolid,+Espa%C3%B1a/@41.5974935,-4.1288631,15z/data=!3m1!4b1!4m5!3m4!1s0xd46eb855292ee61:0x5c6f2eb64160973f!8m2!3d41.5984715!4d-4.1245115",
-    "Latitude": 41.5984715,
-    "Longitude": -4.1245115
+    "Latitude": "41.5984715",
+    "Longitude": "-4.1245115"
   },
   {
-    "Key": "Penalva Do Castelo",
+    "Key": "Penalva-Do-Castelo",
     "Link": "https://www.google.com/maps/place/Penalva+do+Castelo,+Portugal/@40.6753068,-7.7295955,12z/data=!3m1!4b1!4m5!3m4!1s0xd3cc9b2100dbb8b:0x400ebbde4903db0!8m2!3d40.6862295!4d-7.633113",
-    "Latitude": 40.68623,
-    "Longitude": -7.633113
+    "Latitude": "40.68623",
+    "Longitude": "-7.633113"
   },
   {
-    "Key": "Penhas Da Saude",
+    "Key": "Penhas-Da-Saude",
     "Link": "https://www.google.com.ar/maps/place/Penhas+da+Sa%C3%BAde,+Cortes+do+Meio,+Portugal/@40.3080419,-7.5664299,14z/data=!4m5!3m4!1s0xd3d2420f967376f:0xfcc09ad5b77fcdd1!8m2!3d40.3080932!4d-7.5489823",
-    "Latitude": 40.3080932,
-    "Longitude": -7.5489823
+    "Latitude": "40.3080932",
+    "Longitude": "-7.5489823"
   },
   {
     "Key": "Pergamo",
     "Link": "https://www.google.com/maps/place/Bergama,+Provincia+de+Esmirna,+Turqu%C3%ADa/@39.1137907,27.1570298,14z/data=!3m1!4b1!4m5!3m4!1s0x14b9f87a217c77d7:0x682b18b696cbe377!8m2!3d39.121449!4d27.179913",
-    "Latitude": 39.12145,
-    "Longitude": 27.1799126
+    "Latitude": "39.12145",
+    "Longitude": "27.1799126"
   },
   {
     "Key": "Perugia",
     "Link": "https://www.google.com/maps/place/Perugia,+Perusa,+Italia/@43.0951224,12.3102837,12z/data=!3m1!4b1!4m5!3m4!1s0x132ea08cea51c34f:0xce39eb2a884fc7f4!8m2!3d43.1107168!4d12.3908279",
-    "Latitude": 43.1107168,
-    "Longitude": 12.3908279
+    "Latitude": "43.1107168",
+    "Longitude": "12.3908279"
   },
   {
-    "Key": "Petra-Wadi Musa",
+    "Key": "Petra-Wadi-Musa",
     "Link": "https://www.google.com/maps/place/Wadi+Musa,+Jordania/@30.3216532,35.4713702,15z/data=!3m1!4b1!4m5!3m4!1s0x15016930021ab6b1:0xe43a697bc3a3e0b9!8m2!3d30.3216354!4d35.480125",
-    "Latitude": 30.3216354,
-    "Longitude": 35.480125
+    "Latitude": "30.3216354",
+    "Longitude": "35.480125"
   },
   {
-    "Key": "Piatra Neamt",
+    "Key": "Piatra-Neamt",
     "Link": "https://www.google.com/maps/place/Piatra+Neam%C8%9B,+Ruman%C3%ADa/@46.9354662,26.3044643,12z/data=!3m1!4b1!4m5!3m4!1s0x47355449968fa865:0x52d3dedb49e2d0b8!8m2!3d46.9299616!4d26.3779793",
-    "Latitude": 46.9299616,
-    "Longitude": 26.3779793
+    "Latitude": "46.9299616",
+    "Longitude": "26.3779793"
   },
   {
-    "Key": "Piazza Armerina",
+    "Key": "Piazza-Armerina",
     "Link": "https://www.google.com/maps/place/94015+Piazza+Armerina+Enna,+Italia/@37.3861015,14.3512489,14z/data=!3m1!4b1!4m5!3m4!1s0x13111ed08b5a3eb9:0x65567e76ef084002!8m2!3d37.385768!4d14.3706714",
-    "Latitude": 37.385768,
-    "Longitude": 14.3706714
+    "Latitude": "37.385768",
+    "Longitude": "14.3706714"
   },
   {
     "Key": "Pienza",
     "Link": "https://www.google.com.ar/maps/place/53026+Pienza,+Siena,+Italia/@43.0790309,11.6721,16z/data=!3m1!4b1!4m5!3m4!1s0x13296709c3dd8955:0x3ec38ba0023cdad7!8m2!3d43.0774495!4d11.6775951",
-    "Latitude": 43.0774495,
-    "Longitude": 11.6775951
+    "Latitude": "43.0774495",
+    "Longitude": "11.6775951"
   },
   {
     "Key": "Pinhao",
     "Link": "https://www.google.com/maps/place/Pinh%C3%A3o,+Portugal/@41.1902011,-7.5497131,14z/data=!3m1!4b1!4m5!3m4!1s0xd3b44aa880cba13:0x97827431e74a1a62!8m2!3d41.191005!4d-7.5461623",
-    "Latitude": 41.1910057,
-    "Longitude": -7.546162
+    "Latitude": "41.1910057",
+    "Longitude": "-7.546162"
   },
   {
     "Key": "Piran",
     "Link": "https://www.google.com/maps/place/6330+Piran,+Eslovenia/@45.5240259,13.5603324,15z/data=!3m1!4b1!4m5!3m4!1s0x477b7ac16a2b5f71:0x94668833574c89ba!8m2!3d45.528319!4d13.5682895",
-    "Latitude": 45.528319,
-    "Longitude": 13.5682895
+    "Latitude": "45.528319",
+    "Longitude": "13.5682895"
   },
   {
     "Key": "Pireus",
     "Link": "https://www.google.com.ar/maps/place/El+Pireo,+Grecia/@37.946163,23.629808,14z/data=!3m1!4b1!4m5!3m4!1s0x14a1bbebb7ac3147:0xd820da95ff30fdf7!8m2!3d37.9429857!4d23.6469832",
-    "Latitude": 37.9429857,
-    "Longitude": 23.6469832
+    "Latitude": "37.9429857",
+    "Longitude": "23.6469832"
   },
   {
     "Key": "Pisa",
     "Link": "https://www.google.com/maps/place/Pisa,+Italia/@43.7067454,10.3603586,13z/data=!3m1!4b1!4m5!3m4!1s0x12d5919af0f6598f:0xaab80fb5a78478c8!8m2!3d43.7228386!4d10.4016888",
-    "Latitude": 43.72284,
-    "Longitude": 10.4016886
+    "Latitude": "43.72284",
+    "Longitude": "10.4016886"
   },
   {
     "Key": "Pitlochry",
     "Link": "https://www.google.com/maps/place/Pitlochry,+Reino+Unido/@56.7051172,-3.7495199,14z/data=!3m1!4b1!4m5!3m4!1s0x4886029155e76bb1:0x809611293410407e!8m2!3d56.704361!4d-3.729711",
-    "Latitude": 56.70436,
-    "Longitude": -3.729711
+    "Latitude": "56.70436",
+    "Longitude": "-3.729711"
   },
   {
     "Key": "Pleyben",
     "Link": "https://www.google.com/maps/place/29190+Pleyben,+Francia/@48.2419016,-4.0483978,12z/data=!3m1!4b1!4m5!3m4!1s0x48113a2dbdc8b8bf:0x40ca5cd36e56750!8m2!3d48.226345!4d-3.969829",
-    "Latitude": 48.226345,
-    "Longitude": -3.969829
+    "Latitude": "48.226345",
+    "Longitude": "-3.969829"
   },
   {
-    "Key": "Plitvicka Jezera",
+    "Key": "Plitvicka-Jezera",
     "Link": "https://www.google.com/maps/place/53231,+Plitvi%C4%8Dka+Jezera,+Croacia/@44.8798702,15.60908,14z/data=!3m1!4b1!4m5!3m4!1s0x47616784a5c87ea9:0x400ad50862bc3b0!8m2!3d44.8807696!4d15.6210837",
-    "Latitude": 44.8807696,
-    "Longitude": 15.6210837
+    "Latitude": "44.8807696",
+    "Longitude": "15.6210837"
   },
   {
     "Key": "Plovdiv",
     "Link": "https://www.google.com.ar/maps/place/Plovdiv,+Bulgaria/@42.1442269,24.6708338,12z/data=!3m1!4b1!4m5!3m4!1s0x14acd108a248763d:0x6470d1fa6f1338a0!8m2!3d42.1354079!4d24.7452904",
-    "Latitude": 42.1354079,
-    "Longitude": 24.7452904
+    "Latitude": "42.1354079",
+    "Longitude": "24.7452904"
   },
   {
     "Key": "Pocitelj",
     "Link": "https://www.google.com/maps/place/Po%C4%8Ditelj,+Bosnia+y+Herzegovina/@43.1343936,17.7230725,15z/data=!3m1!4b1!4m5!3m4!1s0x134b724adab07a8d:0xd25439229306d0f6!8m2!3d43.1343788!4d17.7318273",
-    "Latitude": 43.1343788,
-    "Longitude": 17.7318273
+    "Latitude": "43.1343788",
+    "Longitude": "17.7318273"
   },
   {
     "Key": "Podgorica",
     "Link": "https://www.google.com/maps/place/Podgorica,+Montenegro/@42.4321061,19.1858384,12z/data=!3m1!4b1!4m5!3m4!1s0x134de8079606867d:0x6bf78a76ea588ae9!8m2!3d42.4304196!4d19.2593642",
-    "Latitude": 42.4304196,
-    "Longitude": 19.2593642
+    "Latitude": "42.4304196",
+    "Longitude": "19.2593642"
   },
   {
-    "Key": "Polignano A Mare",
+    "Key": "Polignano-A-Mare",
     "Link": "https://www.google.com/maps/place/70044+Polignano+a+Mare,+Bari,+Italia/@40.9962248,17.2077652,15z/data=!3m1!4b1!4m5!3m4!1s0x1347cbeb9e80f67b:0x9bbe6b6e25a97601!8m2!3d40.9948996!4d17.2225389",
-    "Latitude": 40.9948996,
-    "Longitude": 17.2225389
+    "Latitude": "40.9948996",
+    "Longitude": "17.2225389"
   },
   {
     "Key": "Pompeya",
     "Link": "https://www.google.com/maps/place/80045+Pompeya,+N%C3%A1poles,+Italia/@40.7466143,14.4586626,13z/data=!3m1!4b1!4m5!3m4!1s0x133bbc95914ba4ef:0xd2d18a72aeb414a4!8m2!3d40.7461572!4d14.4989344",
-    "Latitude": 40.74616,
-    "Longitude": 14.4989347
+    "Latitude": "40.74616",
+    "Longitude": "14.4989347"
   },
   {
     "Key": "Ponferrada",
     "Link": "https://www.google.com/maps/place/Ponferrada,+Le%C3%B3n,+Espa%C3%B1a/@42.553935,-6.6273617,14z/data=!3m1!4b1!4m5!3m4!1s0xd30ba8c4ef7b633:0xdc636ce1ab239060!8m2!3d42.5499958!4d-6.598259",
-    "Latitude": 42.5499958,
-    "Longitude": -6.598259
+    "Latitude": "42.5499958",
+    "Longitude": "-6.598259"
   },
   {
-    "Key": "Ponte De Lima",
+    "Key": "Ponte-De-Lima",
     "Link": "https://www.google.com/maps/place/Ponte+de+Lima,+Portugal/@41.7652755,-8.6051461,14z/data=!3m1!4b1!4m5!3m4!1s0xd25a5f1030f0711:0x34b7b0b5fe7c66ce!8m2!3d41.7647333!4d-8.5827407",
-    "Latitude": 41.7647324,
-    "Longitude": -8.582741
+    "Latitude": "41.7647324",
+    "Longitude": "-8.582741"
   },
   {
     "Key": "Pontevedra",
     "Link": "https://www.google.com.ar/maps/place/Pontevedra,+PO,+Espa%C3%B1a/@42.4338911,-8.6568553,14z/data=!3m1!4b1!4m5!3m4!1s0xd2f71cf339da6d7:0x6d5b163a1be431d4!8m2!3d42.4298846!4d-8.6446202",
-    "Latitude": 42.4298846,
-    "Longitude": -8.6446202
+    "Latitude": "42.4298846",
+    "Longitude": "-8.6446202"
   },
   {
     "Key": "Porec",
     "Link": "https://www.google.com/maps/place/Pore%C4%8D,+Croacia/@45.2313049,13.5278745,12z/data=!3m1!4b1!4m5!3m4!1s0x477c979c94879029:0x7a9e5b587feaabd!8m2!3d45.2271652!4d13.5947399",
-    "Latitude": 45.2271652,
-    "Longitude": 13.5947399
+    "Latitude": "45.2271652",
+    "Longitude": "13.5947399"
   },
   {
     "Key": "Poros",
     "Link": "https://www.google.com/maps/place/Poros/@37.5305404,23.4030014,12z/data=!3m1!4b1!4m5!3m4!1s0x149f7e794a876847:0xa0ffd52fd8aac543!8m2!3d37.5206262!4d23.4716567",
-    "Latitude": 37.5206261,
-    "Longitude": 23.4716568
+    "Latitude": "37.5206261",
+    "Longitude": "23.4716568"
   },
   {
     "Key": "Postojna",
     "Link": "https://www.google.com/maps/place/Postojna+Cave/@45.7830335,14.201653,17z/data=!3m1!4b1!4m5!3m4!1s0x477b31e1cd708b2b:0x8d4720fffb2d02be!8m2!3d45.7830298!4d14.2038417",
-    "Latitude": 45.7830298,
-    "Longitude": 14.2038417
+    "Latitude": "45.7830298",
+    "Longitude": "14.2038417"
   },
   {
     "Key": "Potes",
     "Link": "https://www.google.com/maps/place/39570+Potes,+Cantabria,+Espa%C3%B1a/@43.1534918,-4.630929,15z/data=!3m1!4b1!4m5!3m4!1s0xd49b3dde66acefb:0x520e9f3fdcb58e2!8m2!3d43.1535975!4d-4.6236113",
-    "Latitude": 43.1535975,
-    "Longitude": -4.6236113
+    "Latitude": "43.1535975",
+    "Longitude": "-4.6236113"
   },
   {
     "Key": "Potsdam",
     "Link": "https://www.google.com.ar/maps/place/Potsdam,+Alemania/@52.4284881,12.8873279,11z/data=!3m1!4b1!4m5!3m4!1s0x47a8f5cd843ad6b7:0xc565f8980baaec9b!8m2!3d52.3905689!4d13.0644729",
-    "Latitude": 52.3905689,
-    "Longitude": 13.0644729
+    "Latitude": "52.3905689",
+    "Longitude": "13.0644729"
   },
   {
     "Key": "Poznan",
     "Link": "https://www.google.com/maps/place/Pozna%C5%84,+Polonia/@52.4006553,16.7615814,11z/data=!3m1!4b1!4m5!3m4!1s0x470444d2ece10ab7:0xa4ea31980334bfd1!8m2!3d52.406374!4d16.9251681",
-    "Latitude": 52.406374,
-    "Longitude": 16.9251681
+    "Latitude": "52.406374",
+    "Longitude": "16.9251681"
   },
   {
     "Key": "Praga",
     "Link": "https://www.google.com/maps/place/Praga,+Chequia/@50.0595854,14.3255397,11z/data=!3m1!4b1!4m5!3m4!1s0x470b939c0970798b:0x400af0f66164090!8m2!3d50.0755381!4d14.4378005",
-    "Latitude": 50.07554,
-    "Longitude": 14.4378
+    "Latitude": "50.07554",
+    "Longitude": "14.4378"
   },
   {
     "Key": "Quebec",
     "Link": "https://www.google.com/maps/place/Quebec,+Canad%C3%A1/@46.856283,-71.4817773,11z/data=!3m1!4b1!4m5!3m4!1s0x4cb8968a05db8893:0x8fc52d63f0e83a03!8m2!3d46.8138783!4d-71.2079809",
-    "Latitude": 46.8138771,
-    "Longitude": -71.20798
+    "Latitude": "46.8138771",
+    "Longitude": "-71.20798"
   },
   {
     "Key": "Quimper",
     "Link": "https://www.google.com/maps/place/29000+Quimper,+Francia/@47.9982212,-4.1672506,12z/data=!3m1!4b1!4m5!3m4!1s0x4810d5972e13aeaf:0xd32d85efcaa2cdd0!8m2!3d47.997542!4d-4.097899",
-    "Latitude": 47.997542,
-    "Longitude": -4.097899
+    "Latitude": "47.997542",
+    "Longitude": "-4.097899"
   },
   {
     "Key": "Rabat",
     "Link": "https://www.google.com/maps/place/Rabat,+Marruecos/@33.969199,-6.9273034,12z/data=!3m1!4b1!4m5!3m4!1s0xda76b871f50c5c1:0x7ac946ed7408076b!8m2!3d33.9715904!4d-6.8498129",
-    "Latitude": 33.9715919,
-    "Longitude": -6.849813
+    "Latitude": "33.9715919",
+    "Longitude": "-6.849813"
   },
   {
     "Key": "Rattenberg",
     "Link": "https://www.google.com/maps/place/Rattenberg,+Austria/@47.4387522,11.8877626,16z/data=!3m1!4b1!4m5!3m4!1s0x4777d36692cf8b8d:0x5f456f11337d7a26!8m2!3d47.439237!4d11.8932923",
-    "Latitude": 47.439237,
-    "Longitude": 11.8932923
+    "Latitude": "47.439237",
+    "Longitude": "11.8932923"
   },
   {
     "Key": "Regua",
     "Link": "https://www.google.com/maps/place/Peso+da+R%C3%A9gua,+Portugal/@41.1681667,-7.7982502,14z/data=!3m1!4b1!4m5!3m4!1s0xd3b52b27a104fe9:0xc441f6a1965dbc98!8m2!3d41.1655901!4d-7.7884809",
-    "Latitude": 41.16559,
-    "Longitude": -7.78848076
+    "Latitude": "41.16559",
+    "Longitude": "-7.78848076"
   },
   {
     "Key": "Rennes",
     "Link": "https://www.google.com.ar/maps/place/Rennes,+Francia/@48.1158943,-1.7584942,12z/data=!3m1!4b1!4m5!3m4!1s0x480ede2fa7d69085:0x40ca5cd36e4ab30!8m2!3d48.117266!4d-1.6777926",
-    "Latitude": 48.117266,
-    "Longitude": -1.6777926
+    "Latitude": "48.117266",
+    "Longitude": "-1.6777926"
   },
   {
     "Key": "Rheine",
     "Link": "https://www.google.com.ar/maps/place/Rheine,+Alemania/@52.2669201,7.3358375,11z/data=!3m1!4b1!4m5!3m4!1s0x47b832bbde52c3e1:0x97238b222f4a4fe!8m2!3d52.2815691!4d7.4434092",
-    "Latitude": 52.2815691,
-    "Longitude": 7.4434092
+    "Latitude": "52.2815691",
+    "Longitude": "7.4434092"
   },
   {
     "Key": "Ribadeo",
     "Link": "https://www.google.com/maps/place/Ribadeo,+Lugo,+Espa%C3%B1a/@43.5116946,-7.1894676,12z/data=!3m1!4b1!4m5!3m4!1s0xd317e57e6a9d147:0x66dca2a1ea8864a7!8m2!3d43.5122469!4d-7.1144039",
-    "Latitude": 43.5122452,
-    "Longitude": -7.11440372
+    "Latitude": "43.5122452",
+    "Longitude": "-7.11440372"
   },
   {
     "Key": "Riga",
     "Link": "https://www.google.com.ar/maps/place/Riga,+Letonia/@56.9711614,23.8489883,10z/data=!3m1!4b1!4m5!3m4!1s0x46eecfb0e5073ded:0x400cfcd68f2fe30!8m2!3d56.9496487!4d24.1051865",
-    "Latitude": 56.9496487,
-    "Longitude": 24.1051865
+    "Latitude": "56.9496487",
+    "Longitude": "24.1051865"
   },
   {
     "Key": "Rijeka",
     "Link": "https://www.google.com/maps/place/Rijeka,+Croacia/@45.3477092,14.3567736,12z/data=!3m1!4b1!4m5!3m4!1s0x4764a12517aabe2d:0x373c6f383dcbb670!8m2!3d45.3270631!4d14.442176",
-    "Latitude": 45.3270631,
-    "Longitude": 14.442176
+    "Latitude": "45.3270631",
+    "Longitude": "14.442176"
   },
   {
     "Key": "Rila",
     "Link": "https://www.google.com.ar/maps/place/2630+Rila,+Bulgaria/@42.12525,23.1238676,15z/data=!3m1!4b1!4m5!3m4!1s0x14aaf1affc004845:0x3a3436286128c90b!8m2!3d42.1256751!4d23.1315864",
-    "Latitude": 42.1256751,
-    "Longitude": 23.1315864
+    "Latitude": "42.1256751",
+    "Longitude": "23.1315864"
   },
   {
-    "Key": "Rock Of Cashel",
+    "Key": "Rock-Of-Cashel",
     "Link": "https://www.google.com/maps/place/Rock+of+Cashel/@52.525084,-7.8907322,14.25z/data=!4m12!1m6!3m5!1s0x485ccbde708a41f5:0xcc3e472ab1b680dd!2sRock+of+Cashel!8m2!3d52.5200763!4d-7.8904522!3m4!1s0x485ccbde708a41f5:0xcc3e472ab1b680dd!8m2!3d52.5200763!4d-7.8904522",
-    "Latitude": 52.5200763,
-    "Longitude": -7.8904522
+    "Latitude": "52.5200763",
+    "Longitude": "-7.8904522"
   },
   {
     "Key": "Rodas",
     "Link": "https://www.google.com.ar/maps/place/Rodas/@36.1673368,27.6853243,10z/data=!3m1!4b1!4m5!3m4!1s0x14950af92e9b4fad:0x27eed014f85bd454!8m2!3d36.4340533!4d28.2176379",
-    "Latitude": 36.4340533,
-    "Longitude": 28.2176379
+    "Latitude": "36.4340533",
+    "Longitude": "28.2176379"
   },
   {
     "Key": "Roma",
     "Link": "https://www.google.com/maps/place/Roma,+Italia/@41.909986,12.3959122,11z/data=!3m1!4b1!4m5!3m4!1s0x132f6196f9928ebb:0xb90f770693656e38!8m2!3d41.9027835!4d12.4963655",
-    "Latitude": 41.9027824,
-    "Longitude": 12.4963655
+    "Latitude": "41.9027824",
+    "Longitude": "12.4963655"
   },
   {
     "Key": "Ronda",
     "Link": "https://www.google.com/maps/place/29400+Ronda,+M%C3%A1laga,+Espa%C3%B1a/@36.740668,-5.1756688,14z/data=!3m1!4b1!4m5!3m4!1s0xd0d3143e258a279:0x94358021349a5ba2!8m2!3d36.746209!4d-5.1612251",
-    "Latitude": 36.746209,
-    "Longitude": -5.1612251
+    "Latitude": "36.746209",
+    "Longitude": "-5.1612251"
   },
   {
     "Key": "Roterdam",
     "Link": "https://www.google.com/maps/place/R%C3%B3terdam,+Pa%C3%ADses+Bajos/@51.9278891,4.3503224,11z/data=!3m1!4b1!4m5!3m4!1s0x47c5b7605f54c47d:0x5229bbac955e4b85!8m2!3d51.9244201!4d4.4777326",
-    "Latitude": 51.92442,
-    "Longitude": 4.47773266
+    "Latitude": "51.92442",
+    "Longitude": "4.47773266"
   },
   {
-    "Key": "Rothenburg Ob Der Tauber",
+    "Key": "Rothenburg-Ob-Der-Tauber",
     "Link": "https://www.google.com/maps/place/Rothenburg+ob+der+Tauber,+Alemania/@49.3657932,10.0924691,12z/data=!3m1!4b1!4m5!3m4!1s0x47988efdf06dff37:0x41eda32beb5f5c0!8m2!3d49.3801834!4d10.1867388",
-    "Latitude": 49.3801842,
-    "Longitude": 10.186739
+    "Latitude": "49.3801842",
+    "Longitude": "10.186739"
   },
   {
     "Key": "Rovaniemi",
     "Link": "https://www.google.com.ar/maps/place/Rovaniemi,+Finlandia/@66.6670505,24.9108875,8z/data=!3m1!4b1!4m5!3m4!1s0x442b4bbd76772553:0x158088adb48841c4!8m2!3d66.5039478!4d25.7293905",
-    "Latitude": 66.5039478,
-    "Longitude": 25.7293905
+    "Latitude": "66.5039478",
+    "Longitude": "25.7293905"
   },
   {
     "Key": "Rovinj",
     "Link": "https://www.google.com/maps/place/Rovinj,+Croacia/@45.073856,13.6006566,12z/data=!3m1!4b1!4m5!3m4!1s0x477cbf634d5c86ff:0xffc69f61c598ae53!8m2!3d45.0811661!4d13.6387067",
-    "Latitude": 45.0811661,
-    "Longitude": 13.6387067
+    "Latitude": "45.0811661",
+    "Longitude": "13.6387067"
   },
   {
     "Key": "Ruan",
     "Link": "https://www.google.com/maps/place/Ruan,+Francia/@49.4412454,1.0211339,12z/data=!3m1!4b1!4m5!3m4!1s0x47e0de76ca71faab:0x3d1cabefa49f93d6!8m2!3d49.443232!4d1.099971",
-    "Latitude": 49.443232,
-    "Longitude": 1.099971
+    "Latitude": "49.443232",
+    "Longitude": "1.099971"
   },
   {
-    "Key": "Rudesheim Am Rhein",
+    "Key": "Rudesheim-Am-Rhein",
     "Link": "https://www.google.com/maps/place/65385+R%C3%BCdesheim+am+Rhein,+Alemania/@50.0288887,7.8230778,12z/data=!3m1!4b1!4m5!3m4!1s0x47bde6300d8c792b:0x422435029b0a270!8m2!3d49.9821443!4d7.9301124",
-    "Latitude": 49.9821434,
-    "Longitude": 7.93011236
+    "Latitude": "49.9821434",
+    "Longitude": "7.93011236"
   },
   {
     "Key": "Ruse",
     "Link": "https://www.google.com.ar/maps/place/Ruse,+Bulgaria/@43.8217195,25.8897516,12z/data=!3m1!4b1!4m5!3m4!1s0x40ae60b47fe2a385:0xbe27db5216286802!8m2!3d43.8355713!4d25.9656554",
-    "Latitude": 43.8355713,
-    "Longitude": 25.9656554
+    "Latitude": "43.8355713",
+    "Longitude": "25.9656554"
   },
   {
     "Key": "Sagres",
     "Link": "https://www.google.com/maps/place/Sagres,+Portugal/@37.0323819,-8.9810125,13z/data=!3m1!4b1!4m5!3m4!1s0xd1b4c17d26b1a2d:0x500ebbde490b750!8m2!3d37.0168316!4d-8.9405858",
-    "Latitude": 37.01683,
-    "Longitude": -8.940586
+    "Latitude": "37.01683",
+    "Longitude": "-8.940586"
   },
   {
     "Key": "Saint-Malo",
     "Link": "https://www.google.com/maps/place/Saint-Malo,+Francia/@48.6463741,-2.0771712,12z/data=!3m1!4b1!4m5!3m4!1s0x480e81102126bf5d:0xf8e97dadb22be12d!8m2!3d48.649337!4d-2.025674",
-    "Latitude": 48.649337,
-    "Longitude": -2.025674
+    "Latitude": "48.649337",
+    "Longitude": "-2.025674"
   },
   {
     "Key": "Salamanca",
     "Link": "https://www.google.com/maps/place/Salamanca,+Espa%C3%B1a/@40.9634332,-5.7042317,13z/data=!3m1!4b1!4m5!3m4!1s0xd3f265dc7dd7c45:0x2f7ae4d00bbfa9aa!8m2!3d40.9701039!4d-5.6635397",
-    "Latitude": 40.9701042,
-    "Longitude": -5.66354
+    "Latitude": "40.9701042",
+    "Longitude": "-5.66354"
   },
   {
     "Key": "Salerno",
     "Link": "https://www.google.com.ar/maps/place/Salerno,+Italia/@40.6747225,14.7226162,12z/data=!3m1!4b1!4m5!3m4!1s0x133bc25734bd3089:0x15a49713da0374a0!8m2!3d40.6824408!4d14.7680961",
-    "Latitude": 40.6824408,
-    "Longitude": 14.7680961
+    "Latitude": "40.6824408",
+    "Longitude": "14.7680961"
   },
   {
     "Key": "Salisbury",
     "Link": "https://www.google.com/maps/place/Salisbury,+Reino+Unido/@51.0797597,-1.843363,13z/data=!3m1!4b1!4m5!3m4!1s0x48738c5536009bb7:0xda3e080f25eaa06!8m2!3d51.068785!4d-1.794472",
-    "Latitude": 51.068785,
-    "Longitude": -1.794472
+    "Latitude": "51.068785",
+    "Longitude": "-1.794472"
   },
   {
     "Key": "Salzburgo",
     "Link": "https://www.google.com.ar/maps/place/Salzburgo,+Austria/@47.8027887,12.9863903,12z/data=!3m1!4b1!4m5!3m4!1s0x47769adda908d4b1:0xc1e183a1412af73d!8m2!3d47.80949!4d13.05501",
-    "Latitude": 47.80949,
-    "Longitude": 13.05501
+    "Latitude": "47.80949",
+    "Longitude": "13.05501"
   },
   {
-    "Key": "San Francisco",
+    "Key": "San-Francisco",
     "Link": "https://www.google.com/maps/place/San+Francisco,+California,+EE.+UU./@37.757815,-122.5076406,12z/data=!3m1!4b1!4m5!3m4!1s0x80859a6d00690021:0x4a501367f076adff!8m2!3d37.7749295!4d-122.4194155",
-    "Latitude": 37.7749295,
-    "Longitude": -122.4194155
-  },
-  {
-    "Key": "San Gimignano",
-    "Link": "https://www.google.com.ar/maps/place/53037+San+Gimignano,+Siena,+Italia/@43.4683255,11.0278345,15z/data=!3m1!4b1!4m5!3m4!1s0x132a3c3831446b6f:0x4c4ef55452f54491!8m2!3d43.4676324!4d11.0434909",
-    "Latitude": 43.4676324,
-    "Longitude": 11.0434909
-  },
-  {
-    "Key": "San Petersburgo",
-    "Link": "https://www.google.com.ar/maps/place/San+Petersburgo,+Rusia/@59.9390095,29.5303098,9z/data=!3m1!4b1!4m5!3m4!1s0x4696378cc74a65ed:0x6dc7673fab848eff!8m2!3d59.9342802!4d30.3350986",
-    "Latitude": 59.9342802,
-    "Longitude": 30.3350986
-  },
-  {
-    "Key": "San Sebastian",
-    "Link": "https://www.google.com/maps/place/San+Sebasti%C3%A1n,+Guip%C3%BAzcoa,+Espa%C3%B1a/@43.3072873,-2.0089025,13z/data=!3m1!4b1!4m5!3m4!1s0xd51affe3b68fe15:0xe43ec55994864649!8m2!3d43.318334!4d-1.9812313",
-    "Latitude": 43.3183327,
-    "Longitude": -1.98123133
+    "Latitude": "37.7749295",
+    "Longitude": "-122.4194155"
   },
   {
     "Key": "Sangenjo",
     "Link": "https://www.google.com/maps/place/Sangenjo,+Pontevedra,+Espa%C3%B1a/@42.4252925,-8.8899106,12z/data=!3m1!4b1!4m5!3m4!1s0xd2f684e690e6a93:0xfe610ec5cc2bdc64!8m2!3d42.416489!4d-8.8252502",
-    "Latitude": 42.416489,
-    "Longitude": -8.8252502
+    "Latitude": "42.416489",
+    "Longitude": "-8.8252502"
   },
   {
-    "Key": "Santa Barbara",
+    "Key": "San-Gimignano",
+    "Link": "https://www.google.com.ar/maps/place/53037+San+Gimignano,+Siena,+Italia/@43.4683255,11.0278345,15z/data=!3m1!4b1!4m5!3m4!1s0x132a3c3831446b6f:0x4c4ef55452f54491!8m2!3d43.4676324!4d11.0434909",
+    "Latitude": "43.4676324",
+    "Longitude": "11.0434909"
+  },
+  {
+    "Key": "San-Petersburgo",
+    "Link": "https://www.google.com.ar/maps/place/San+Petersburgo,+Rusia/@59.9390095,29.5303098,9z/data=!3m1!4b1!4m5!3m4!1s0x4696378cc74a65ed:0x6dc7673fab848eff!8m2!3d59.9342802!4d30.3350986",
+    "Latitude": "59.9342802",
+    "Longitude": "30.3350986"
+  },
+  {
+    "Key": "San-Sebastian",
+    "Link": "https://www.google.com/maps/place/San+Sebasti%C3%A1n,+Guip%C3%BAzcoa,+Espa%C3%B1a/@43.3072873,-2.0089025,13z/data=!3m1!4b1!4m5!3m4!1s0xd51affe3b68fe15:0xe43ec55994864649!8m2!3d43.318334!4d-1.9812313",
+    "Latitude": "43.3183327",
+    "Longitude": "-1.98123133"
+  },
+  {
+    "Key": "Santa-Barbara",
     "Link": "https://www.google.com/maps/place/Santa+B%C3%A1rbara,+California,+EE.+UU./@34.3987087,-119.8198963,12z/data=!3m1!4b1!4m5!3m4!1s0x80e914c76f2d83d5:0xc8d13a64d7ba7648!8m2!3d34.4208305!4d-119.6981901",
-    "Latitude": 34.4208305,
-    "Longitude": -119.6981901
+    "Latitude": "34.4208305",
+    "Longitude": "-119.6981901"
   },
   {
     "Key": "Santander",
     "Link": "https://www.google.com/maps/place/Santander,+Cantabria,+Espa%C3%B1a/@43.4614014,-3.8461566,13z/data=!3m1!4b1!4m5!3m4!1s0xd4949ae8a6bee71:0xd27cdc801682ba96!8m2!3d43.4623057!4d-3.8099803",
-    "Latitude": 43.4623057,
-    "Longitude": -3.8099803
+    "Latitude": "43.4623057",
+    "Longitude": "-3.8099803"
   },
   {
-    "Key": "Santiago De Compostela",
+    "Key": "Santiago-De-Compostela",
     "Link": "https://www.google.com/maps/place/Santiago+de+Compostela,+La+Coru%C3%B1a,+Espa%C3%B1a/@42.8801996,-8.5797892,13z/data=!3m1!4b1!4m5!3m4!1s0xd2efe44e2dd71a7:0xe0146888c087e311!8m2!3d42.8782132!4d-8.5448445",
-    "Latitude": 42.878212,
-    "Longitude": -8.544845
+    "Latitude": "42.878212",
+    "Longitude": "-8.544845"
   },
   {
-    "Key": "Santillana Del Mar",
+    "Key": "Santillana-Del-Mar",
     "Link": "https://www.google.com/maps/place/Santillana+del+Mar,+Cantabria,+Espa%C3%B1a/@43.3882984,-4.1176977,15z/data=!3m1!4b1!4m5!3m4!1s0xd49151e4ba3e223:0x38d3e5b4d4caa063!8m2!3d43.3873327!4d-4.1066092",
-    "Latitude": 43.3873327,
-    "Longitude": -4.1066092
+    "Latitude": "43.3873327",
+    "Longitude": "-4.1066092"
   },
   {
     "Key": "Santona",
     "Link": "https://www.google.com/maps/place/Santo%C3%B1a,+Cantabria,+Espa%C3%B1a/@43.4453985,-3.4617801,15z/data=!3m1!4b1!4m5!3m4!1s0xd4ebf9bc58fc1bb:0xd9b0cb3bb88e0df5!8m2!3d43.4448965!4d-3.4561456",
-    "Latitude": 43.4448965,
-    "Longitude": -3.4561456
+    "Latitude": "43.4448965",
+    "Longitude": "-3.4561456"
   },
   {
     "Key": "Santorini",
     "Link": "https://www.google.com.ar/maps/place/Santorini/@36.4071334,25.3505908,12z/data=!3m1!4b1!4m5!3m4!1s0x1499ce86adfd9ff7:0xb2a761f740d68afc!8m2!3d36.3931562!4d25.4615092",
-    "Latitude": 36.3931562,
-    "Longitude": 25.4615092
+    "Latitude": "36.3931562",
+    "Longitude": "25.4615092"
   },
   {
-    "Key": "Sao Bento Da Porta Aberta",
+    "Key": "Sao-Bento-Da-Porta-Aberta",
     "Link": "https://www.google.com/maps/place/Sao+Bento+of+the+Open+Door/@41.6921286,-8.2353547,12.75z/data=!4m8!1m2!2m1!1sS%C3%A3o+Bento+da+Porta+Aberta!3m4!1s0xd251ebeba58a9f1:0x8a626159c08ef6b6!8m2!3d41.6902161!4d-8.2033404",
-    "Latitude": 41.6902161,
-    "Longitude": -8.203341
+    "Latitude": "41.6902161",
+    "Longitude": "-8.203341"
   },
   {
     "Key": "Sarajevo",
     "Link": "https://www.google.com/maps/place/Sarajevo,+Bosnia+y+Herzegovina/@43.8938256,18.3129511,12z/data=!3m1!4b1!4m5!3m4!1s0x4758cbb1ed719bd1:0x562ecda6de87b33e!8m2!3d43.8562586!4d18.4130763",
-    "Latitude": 43.8562586,
-    "Longitude": 18.4130763
+    "Latitude": "43.8562586",
+    "Longitude": "18.4130763"
   },
   {
     "Key": "Schaffhausen",
     "Link": "https://www.google.com.ar/maps/place/Escafusa,+Suiza/@47.7153074,8.6108255,13z/data=!3m1!4b1!4m5!3m4!1s0x47907f5e15b7650d:0xdfe3a298703e4be7!8m2!3d47.6958897!4d8.6380488",
-    "Latitude": 47.6958897,
-    "Longitude": 8.6380488
+    "Latitude": "47.6958897",
+    "Longitude": "8.6380488"
   },
   {
     "Key": "Schwarzwald",
     "Link": "https://www.google.com.ar/maps/place/Selva+Negra/@48.2676493,7.1095533,8z/data=!3m1!4b1!4m5!3m4!1s0x4790ec232f1791bd:0xdbe2bec8ae87edf1!8m2!3d48.2774862!4d8.185997",
-    "Latitude": 48.2774862,
-    "Longitude": 8.185997
+    "Latitude": "48.2774862",
+    "Longitude": "8.185997"
   },
   {
     "Key": "Segovia",
     "Link": "https://www.google.com/maps/place/Segovia,+Espa%C3%B1a/@40.9412449,-4.1472215,13z/data=!3m1!4b1!4m5!3m4!1s0xd413ee6a93332f9:0x54567221bf13dfb7!8m2!3d40.9429032!4d-4.1088069",
-    "Latitude": 40.9429,
-    "Longitude": -4.108807
+    "Latitude": "40.9429",
+    "Longitude": "-4.108807"
   },
   {
     "Key": "Sesimbra",
     "Link": "https://www.google.com/maps/place/Sesimbra,+Portugal/@38.4961133,-9.2603734,11z/data=!3m1!4b1!4m5!3m4!1s0xd194dc65c262f03:0x400ebbde4903b60!8m2!3d38.4444674!4d-9.1020079",
-    "Latitude": 38.4444656,
-    "Longitude": -9.102008
+    "Latitude": "38.4444656",
+    "Longitude": "-9.102008"
   },
   {
     "Key": "Sevilla",
     "Link": "https://www.google.com/maps/place/Sevilla,+Espa%C3%B1a/@37.3753501,-6.0250988,12z/data=!3m1!4b1!4m5!3m4!1s0xd126c1114be6291:0x34f018621cfe5648!8m2!3d37.3890924!4d-5.9844589",
-    "Latitude": 37.38909,
-    "Longitude": -5.984459
+    "Latitude": "37.38909",
+    "Longitude": "-5.984459"
   },
   {
     "Key": "Shkodra",
     "Link": "https://www.google.com.ar/maps/place/Shkod%C3%ABr,+Albania/@42.0645897,19.3887636,12z/data=!3m1!4b1!4m5!3m4!1s0x134e005bf998212f:0x7c0d3fbd64d1804e!8m2!3d42.0692985!4d19.5032559",
-    "Latitude": 42.0692985,
-    "Longitude": 19.5032559
+    "Latitude": "42.0692985",
+    "Longitude": "19.5032559"
   },
   {
     "Key": "Sibenik",
     "Link": "https://www.google.com/maps/place/%C5%A0ibenik,+Croacia/@43.7416835,15.8174063,12z/data=!3m1!4b1!4m5!3m4!1s0x13352615d088d09d:0x400ad50862bcc20!8m2!3d43.7350196!4d15.8952045",
-    "Latitude": 43.7350196,
-    "Longitude": 15.8952045
+    "Latitude": "43.7350196",
+    "Longitude": "15.8952045"
   },
   {
     "Key": "Sibiel",
     "Link": "https://www.google.com/maps/place/Sibiel+557234,+Ruman%C3%ADa/@45.7642293,23.8968515,15z/data=!3m1!4b1!4m5!3m4!1s0x474c412e53f1d855:0xf20639ae8dbc3150!8m2!3d45.7648787!4d23.9066193",
-    "Latitude": 45.7648787,
-    "Longitude": 23.9066193
+    "Latitude": "45.7648787",
+    "Longitude": "23.9066193"
   },
   {
     "Key": "Sibiu",
     "Link": "https://www.google.com/maps/place/Sibiu,+Ruman%C3%ADa/@45.7830954,24.0697979,12z/data=!3m1!4b1!4m5!3m4!1s0x474c6788fd2c1cd5:0x3ade9d214e3390b4!8m2!3d45.7983273!4d24.1255826",
-    "Latitude": 45.7983273,
-    "Longitude": 24.1255826
+    "Latitude": "45.7983273",
+    "Longitude": "24.1255826"
   },
   {
     "Key": "Siena",
     "Link": "https://www.google.com/maps/place/53100+Siena,+Italia/@43.3160031,11.2926297,13z/data=!3m1!4b1!4m5!3m4!1s0x132a2cbf34bf5313:0x5d731212f12343e3!8m2!3d43.318809!4d11.3307574",
-    "Latitude": 43.31881,
-    "Longitude": 11.3307571
+    "Latitude": "43.31881",
+    "Longitude": "11.3307571"
   },
   {
-    "Key": "Sierra De La Estrella",
+    "Key": "Sierra-De-La-Estrella",
     "Link": "https://www.google.com/maps/place/Sierra+de+la+Estrella/@40.3230297,-7.6048081,15z/data=!3m1!4b1!4m5!3m4!1s0xd3d28a0408be839:0x1d00ebbed2102ce0!8m2!3d40.3230306!4d-7.5960533",
-    "Latitude": 40.3230324,
-    "Longitude": -7.596053
+    "Latitude": "40.3230324",
+    "Longitude": "-7.596053"
   },
   {
     "Key": "Sighisoara",
     "Link": "https://www.google.com/maps/place/Sighi%C8%99oara,+Ruman%C3%ADa/@46.2230599,24.7586876,13z/data=!3m1!4b1!4m5!3m4!1s0x474b74f2e6637e5b:0x7b12e0094163247f!8m2!3d46.2197025!4d24.7963878",
-    "Latitude": 46.2197025,
-    "Longitude": 24.7963878
+    "Latitude": "46.2197025",
+    "Longitude": "24.7963878"
   },
   {
     "Key": "Sigulda",
     "Link": "https://www.google.com.ar/maps/place/Sigulda,+Siguldas+pils%C4%93ta,+LV-2150,+Letonia/@57.1633764,24.8103711,13z/data=!3m1!4b1!4m5!3m4!1s0x46e94e2d43517dc1:0x400cfcd68f31f60!8m2!3d57.1495626!4d24.8603325",
-    "Latitude": 57.1495626,
-    "Longitude": 24.8603325
+    "Latitude": "57.1495626",
+    "Longitude": "24.8603325"
   },
   {
     "Key": "Sinaia",
     "Link": "https://www.google.com/maps/place/Sinaia+106100,+Ruman%C3%ADa/@45.3411481,25.5164493,13z/data=!3m1!4b1!4m5!3m4!1s0x40b3172c95bc1f5f:0x40666047c55abf82!8m2!3d45.3310429!4d25.5623504",
-    "Latitude": 45.3310429,
-    "Longitude": 25.5623504
+    "Latitude": "45.3310429",
+    "Longitude": "25.5623504"
   },
   {
     "Key": "Sintra",
     "Link": "https://www.google.com/maps/place/Sintra,+Portugal/@38.8354233,-9.5007255,11z/data=!3m1!4b1!4m5!3m4!1s0xd1ed09be5d23323:0x400ebbde4903720!8m2!3d38.8029127!4d-9.3816495",
-    "Latitude": 38.8029137,
-    "Longitude": -9.38165
+    "Latitude": "38.8029137",
+    "Longitude": "-9.38165"
   },
   {
     "Key": "Siracusa",
     "Link": "https://www.google.com/maps/place/96100+Siracusa,+Italia/@37.0792122,15.2358768,13z/data=!3m1!4b1!4m5!3m4!1s0x1313ce8da28bdf79:0xd1736683b2c58b87!8m2!3d37.0754739!4d15.2865861",
-    "Latitude": 37.0754739,
-    "Longitude": 15.2865861
+    "Latitude": "37.0754739",
+    "Longitude": "15.2865861"
   },
   {
     "Key": "Sirmione",
     "Link": "https://www.google.com/maps/place/25019+Sirmione,+Brescia,+Italia/@45.4781652,10.5828539,13z/data=!3m1!4b1!4m5!3m4!1s0x4781eb49aa6463cb:0x1334a318d3cf2792!8m2!3d45.4969717!4d10.6053754",
-    "Latitude": 45.4969717,
-    "Longitude": 10.6053754
+    "Latitude": "45.4969717",
+    "Longitude": "10.6053754"
   },
   {
     "Key": "Skjolden",
     "Link": "https://www.google.com.ar/maps/place/6876+Skjolden,+Noruega/@61.4905254,7.5918219,15z/data=!3m1!4b1!4m5!3m4!1s0x4615be2ae091ea83:0xa06e83012bf173b2!8m2!3d61.4905159!4d7.6005767",
-    "Latitude": 61.4905159,
-    "Longitude": 7.6005767
+    "Latitude": "61.4905159",
+    "Longitude": "7.6005767"
   },
   {
     "Key": "Skopie",
     "Link": "https://www.google.com/maps/place/Skopie,+Macedonia+(ARYM)/@41.9991965,21.3548498,12z/data=!3m1!4b1!4m5!3m4!1s0x135415a58c9aa2a5:0xb2ed88c260872020!8m2!3d41.9960421!4d21.431647",
-    "Latitude": 41.9960421,
-    "Longitude": 21.431647
+    "Latitude": "41.9960421",
+    "Longitude": "21.431647"
   },
   {
     "Key": "Soajo",
     "Link": "https://www.google.com/maps/place/Soajo,+Portugal/@41.920764,-8.3392188,11.25z/data=!4m5!3m4!1s0xd2512549866144f:0x500ebbde4910d80!8m2!3d41.8744565!4d-8.2628915",
-    "Latitude": 41.87446,
-    "Longitude": -8.262892
+    "Latitude": "41.87446",
+    "Longitude": "-8.262892"
   },
   {
     "Key": "Sofia",
     "Link": "https://www.google.com.ar/maps/place/Sof%C3%ADa,+Bulgaria/@42.6955992,23.1838606,11z/data=!3m1!4b1!4m5!3m4!1s0x40aa8682cb317bf5:0x400a01269bf5e60!8m2!3d42.6977082!4d23.3218675",
-    "Latitude": 42.6977082,
-    "Longitude": 23.3218675
+    "Latitude": "42.6977082",
+    "Longitude": "23.3218675"
   },
   {
     "Key": "Sorrento",
     "Link": "https://www.google.com/maps/place/80067+Sorrento,+N%C3%A1poles,+Italia/@40.6238188,14.3576817,14z/data=!3m1!4b1!4m5!3m4!1s0x133b99536dbf5b61:0x2644eb57abc0ce40!8m2!3d40.6262925!4d14.3757985",
-    "Latitude": 40.6262925,
-    "Longitude": 14.3757985
+    "Latitude": "40.6262925",
+    "Longitude": "14.3757985"
   },
   {
     "Key": "Sozopol",
     "Link": "https://www.google.com.ar/maps/place/8130+Sozopol,+Bulgaria/@42.417366,27.6789166,14z/data=!3m1!4b1!4m5!3m4!1s0x40a6c7f5573ae503:0xf46ad844a446db20!8m2!3d42.4172628!4d27.6961748",
-    "Latitude": 42.4172628,
-    "Longitude": 27.6961748
+    "Latitude": "42.4172628",
+    "Longitude": "27.6961748"
   },
   {
     "Key": "Split",
     "Link": "https://www.google.com.ar/maps/place/21000,+Split,+Croacia/@43.5160411,16.4140639,13z/data=!3m1!4b1!4m5!3m4!1s0x13355dfc6bbcf517:0xa1798ff631b49f98!8m2!3d43.5081323!4d16.4401935",
-    "Latitude": 43.5081323,
-    "Longitude": 16.4401935
+    "Latitude": "43.5081323",
+    "Longitude": "16.4401935"
   },
   {
     "Key": "Stavanger",
     "Link": "https://www.google.com.ar/maps/place/Stavanger,+Noruega/@58.9487548,5.5402536,11z/data=!3m1!4b1!4m5!3m4!1s0x463a3549dd29f795:0xad7aeb21b80a9259!8m2!3d58.9699756!4d5.7331073",
-    "Latitude": 58.9699756,
-    "Longitude": 5.7331073
+    "Latitude": "58.9699756",
+    "Longitude": "5.7331073"
   },
   {
     "Key": "Stirling",
     "Link": "https://www.google.com/maps/place/Stirling,+Reino+Unido/@56.1187003,-3.9747178,13z/data=!3m1!4b1!4m5!3m4!1s0x488857d73c437831:0xfbf01f3702d576ad!8m2!3d56.1165227!4d-3.9369029",
-    "Latitude": 56.1165237,
-    "Longitude": -3.936903
+    "Latitude": "56.1165237",
+    "Longitude": "-3.936903"
   },
   {
     "Key": "Stranda",
     "Link": "https://www.google.com.ar/maps/place/6200+Stranda,+Noruega/@62.3088666,6.9049494,14z/data=!3m1!4b1!4m5!3m4!1s0x4616a2598dfc46a5:0x3669b77b2e7ab0dc!8m2!3d62.3091141!4d6.9424091",
-    "Latitude": 62.3091141,
-    "Longitude": 6.9424091
+    "Latitude": "62.3091141",
+    "Longitude": "6.9424091"
   },
   {
     "Key": "Stratford",
     "Link": "https://www.google.com/maps/place/Stratford,+Londres,+Reino+Unido/@51.5452397,-0.03077,14z/data=!3m1!4b1!4m5!3m4!1s0x47d8a78bf2ab9b87:0xbd69d3e95620fb8a!8m2!3d51.5501741!4d-0.003371",
-    "Latitude": 51.5501741,
-    "Longitude": -0.003371
+    "Latitude": "51.5501741",
+    "Longitude": "-0.003371"
   },
   {
     "Key": "Stratford-Upon-Avon",
     "Link": "https://www.google.com/maps/place/Stratford-upon-Avon,+Reino+Unido/@52.1966407,-1.748016,13z/data=!3m1!4b1!4m5!3m4!1s0x4870c523f8188037:0xaf31886dcf419977!8m2!3d52.19173!4d-1.708298",
-    "Latitude": 52.19173,
-    "Longitude": -1.708298
+    "Latitude": "52.19173",
+    "Longitude": "-1.708298"
   },
   {
     "Key": "Stresa",
     "Link": "https://www.google.com/maps/place/28838+Stresa+Verbano-Cusio-Ossola,+Italia/@45.8815556,8.5186736,14z/data=!3m1!4b1!4m5!3m4!1s0x4786758e05b94925:0x78f0166e234c7ef3!8m2!3d45.8882031!4d8.5258667",
-    "Latitude": 45.8882027,
-    "Longitude": 8.52586651
+    "Latitude": "45.8882027",
+    "Longitude": "8.52586651"
   },
   {
     "Key": "Struga",
     "Link": "https://www.google.com/maps/place/Municipalidad+de+Struga,+Macedonia+(ARYM)/@40.7416817,20.153228,8.25z/data=!4m5!3m4!1s0x1350e73de5f937d3:0x6aa0d08129c86a44!8m2!3d41.1778353!4d20.6783258",
-    "Latitude": 41.1778336,
-    "Longitude": 20.6783257
+    "Latitude": "41.1778336",
+    "Longitude": "20.6783257"
   },
   {
     "Key": "Stuttgart",
     "Link": "https://www.google.com/maps/place/Stuttgart,+Alemania/@48.7791242,9.0371307,11z/data=!3m1!4b1!4m5!3m4!1s0x4799db34c1ad8fd3:0x79d5c11c7791cfe4!8m2!3d48.7758459!4d9.1829321",
-    "Latitude": 48.7758446,
-    "Longitude": 9.182932
+    "Latitude": "48.7758446",
+    "Longitude": "9.182932"
+  },
+  {
+    "Key": "Suzdal",
+    "Link": "https://www.google.com/maps/place/S%C3%BAzdal,+%C3%93blast+de+Vlad%C3%ADmir,+Rusia/@56.4255675,40.4098852,13z/data=!3m1!4b1!4m5!3m4!1s0x414c8b467897aa4f:0x8d3d28ae50bbf786!8m2!3d56.4191591!4d40.4536153",
+    "Latitude": "56.4191591",
+    "Longitude": "40.4536153"
   },
   {
     "Key": "Tallin",
     "Link": "https://www.google.com.ar/maps/place/Tallin,+Estonia/@59.4713933,24.4580691,10z/data=!3m1!4b1!4m5!3m4!1s0x46929499df5616bf:0x400b36d18fc6270!8m2!3d59.4369608!4d24.7535747",
-    "Latitude": 59.4369608,
-    "Longitude": 24.7535747
+    "Latitude": "59.4369608",
+    "Longitude": "24.7535747"
   },
   {
     "Key": "Tanger",
     "Link": "https://www.google.com/maps/place/T%C3%A1nger,+Marruecos/@35.7633932,-5.9045105,12z/data=!3m1!4b1!4m5!3m4!1s0xd0b875cf04c132d:0x76bfc571bfb4e17a!8m2!3d35.7594651!4d-5.8339543",
-    "Latitude": 35.7594651,
-    "Longitude": -5.8339543
+    "Latitude": "35.7594651",
+    "Longitude": "-5.8339543"
   },
   {
     "Key": "Taormina",
     "Link": "https://www.google.com/maps/place/98039+Taormina,+Mesina,+Italia/@37.8548933,15.2696615,14z/data=!3m1!4b1!4m5!3m4!1s0x131411a191a0d9b5:0x74a19a34d616e949!8m2!3d37.8516366!4d15.2853127",
-    "Latitude": 37.851635,
-    "Longitude": 15.2853127
+    "Latitude": "37.851635",
+    "Longitude": "15.2853127"
   },
   {
     "Key": "Tarazona",
     "Link": "https://www.google.com.ar/maps/place/50500+Tarazona,+Zaragoza,+Espa%C3%B1a/@41.905743,-1.7344895,15z/data=!3m1!4b1!4m5!3m4!1s0xd5baccd41219e47:0xd2e48371a6137590!8m2!3d41.9042972!4d-1.7222535",
-    "Latitude": 41.9042972,
-    "Longitude": -1.7222535
+    "Latitude": "41.9042972",
+    "Longitude": "-1.7222535"
   },
   {
-    "Key": "Targu Mures",
+    "Key": "Targu-Mures",
     "Link": "https://www.google.com/maps/place/T%C3%A2rgu+Mure%C8%99,+Ruman%C3%ADa/@46.5431998,24.4825576,12z/data=!3m1!4b1!4m5!3m4!1s0x474bb64a553e9177:0xb1573a839869d90d!8m2!3d46.5385862!4d24.5514392",
-    "Latitude": 46.5385862,
-    "Longitude": 24.5514392
+    "Latitude": "46.5385862",
+    "Longitude": "24.5514392"
   },
   {
     "Key": "Tavira",
     "Link": "https://www.google.com/maps/place/Tavira,+Portugal/@37.1294045,-7.6700565,13z/data=!3m1!4b1!4m5!3m4!1s0xd10037cd08e6625:0xd44503c5392ddd45!8m2!3d37.1335906!4d-7.6430019",
-    "Latitude": 37.1335906,
-    "Longitude": -7.6430019
+    "Latitude": "37.1335906",
+    "Longitude": "-7.6430019"
   },
   {
-    "Key": "Tel Aviv-Yafo",
+    "Key": "Tel-Aviv-Yafo",
     "Link": "https://www.google.com/maps/place/Tel+Aviv-Yafo,+Israel/@32.0880577,34.7272052,12z/data=!3m1!4b1!4m5!3m4!1s0x151d4ca6193b7c1f:0xc1fb72a2c0963f90!8m2!3d32.0852999!4d34.7817676",
-    "Latitude": 32.0852999,
-    "Longitude": 34.7817676
+    "Latitude": "32.0852999",
+    "Longitude": "34.7817676"
   },
   {
     "Key": "Teruel",
     "Link": "https://www.google.com.ar/maps/place/Teruel,+Espa%C3%B1a/@40.345041,-1.1184745,14z/data=!3m1!4b1!4m5!3m4!1s0xd5e73abeff0fd43:0x29412a3ac541cf0!8m2!3d40.3456879!4d-1.1064345",
-    "Latitude": 40.3456879,
-    "Longitude": -1.1064345
+    "Latitude": "40.3456879",
+    "Longitude": "-1.1064345"
   },
   {
     "Key": "Tinerhir",
     "Link": "https://www.google.com/maps/place/Tinerhir,+Marruecos/@31.53315,-5.6042319,12z/data=!3m1!4b1!4m5!3m4!1s0xdbd332a576e9eb1:0x14e34a1d12e39647!8m2!3d31.5204633!4d-5.5302337",
-    "Latitude": 31.5204639,
-    "Longitude": -5.530234
+    "Latitude": "31.5204639",
+    "Longitude": "-5.530234"
   },
   {
     "Key": "Tirana",
     "Link": "https://www.google.com/maps/place/Tirana,+Albania/@41.3309769,19.7828036,13z/data=!3m1!4b1!4m5!3m4!1s0x1350310470fac5db:0x40092af10653720!8m2!3d41.3275459!4d19.8186982",
-    "Latitude": 41.3275452,
-    "Longitude": 19.8186989
+    "Latitude": "41.3275452",
+    "Longitude": "19.8186989"
   },
   {
     "Key": "Toledo",
     "Link": "https://www.google.com/maps/place/Toledo,+Espa%C3%B1a/@39.86232,-4.0694705,12z/data=!3m1!4b1!4m5!3m4!1s0xd6a0bad0bb5fdf1:0xc67f5be86a75adfe!8m2!3d39.8628316!4d-4.0273231",
-    "Latitude": 39.8628316,
-    "Longitude": -4.0273231
+    "Latitude": "39.8628316",
+    "Longitude": "-4.0273231"
   },
   {
     "Key": "Tomar",
     "Link": "https://www.google.com.ar/maps/place/Tomar,+Portugal/@39.5508249,-8.6810274,10.01z/data=!4m5!3m4!1s0xd187eab195ec92b:0x368b0cc83f23e5ea!8m2!3d39.6053819!4d-8.4043125",
-    "Latitude": 39.6053819,
-    "Longitude": -8.4043125
+    "Latitude": "39.6053819",
+    "Longitude": "-8.4043125"
   },
   {
     "Key": "Tordesillas",
     "Link": "https://www.google.com.ar/maps/place/47100+Tordesillas,+Valladolid,+Espa%C3%B1a/@41.5044473,-5.0092193,15z/data=!3m1!4b1!4m5!3m4!1s0xd4760970f1e57fb:0x9eb96551a3d8b8b7!8m2!3d41.5015353!4d-4.9987459",
-    "Latitude": 41.5015353,
-    "Longitude": -4.9987459
+    "Latitude": "41.5015353",
+    "Longitude": "-4.9987459"
   },
   {
     "Key": "Toro",
     "Link": "https://www.google.com.ar/maps/place/Toro,+Zamora,+Espa%C3%B1a/@41.5253269,-5.4097751,14z/data=!3m1!4b1!4m5!3m4!1s0xd3894cd643d87fd:0x97f55e63ea55eda5!8m2!3d41.5274417!4d-5.3913375",
-    "Latitude": 41.5274417,
-    "Longitude": -5.3913375
+    "Latitude": "41.5274417",
+    "Longitude": "-5.3913375"
   },
   {
     "Key": "Toronto",
     "Link": "https://www.google.com/maps/place/Toronto,+Ontario,+Canad%C3%A1/@43.6565353,-79.6010398,10z/data=!3m1!4b1!4m5!3m4!1s0x89d4cb90d7c63ba5:0x323555502ab4c477!8m2!3d43.653226!4d-79.3831843",
-    "Latitude": 43.6532249,
-    "Longitude": -79.38319
+    "Latitude": "43.6532249",
+    "Longitude": "-79.38319"
   },
   {
     "Key": "Torun",
     "Link": "https://www.google.com/maps/place/Toru%C5%84,+Polonia/@53.0134753,18.5315086,12z/data=!3m1!4b1!4m5!3m4!1s0x470334e1d994ec19:0x744a729a586a89c4!8m2!3d53.0137902!4d18.5984437",
-    "Latitude": 53.0137902,
-    "Longitude": 18.5984437
+    "Latitude": "53.0137902",
+    "Longitude": "18.5984437"
   },
   {
-    "Key": "Tossa De Mar",
+    "Key": "Tossa-De-Mar",
     "Link": "https://www.google.com/maps/place/17320+Tossa+de+Mar,+Girona,+Espa%C3%B1a/@41.7224564,2.9222246,15z/data=!3m1!4b1!4m5!3m4!1s0x12bb1aa7ac11aaa1:0xa2614f4aec8334cd!8m2!3d41.7224989!4d2.9303675",
-    "Latitude": 41.7224989,
-    "Longitude": 2.9303675
+    "Latitude": "41.7224989",
+    "Longitude": "2.9303675"
   },
   {
     "Key": "Tours",
     "Link": "https://www.google.com.ar/maps/place/Tours,+Francia/@47.3943624,0.6248997,12z/data=!3m1!4b1!4m5!3m4!1s0x47fcd5b34a979a55:0x40dc8d705388430!8m2!3d47.394144!4d0.68484",
-    "Latitude": 47.394144,
-    "Longitude": 0.68484
+    "Latitude": "47.394144",
+    "Longitude": "0.68484"
   },
   {
     "Key": "Trani",
     "Link": "https://www.google.com/maps/place/76125+Trani,+Barletta-Andria-Trani,+Italia/@41.2747789,16.3738786,13z/data=!3m1!4b1!4m5!3m4!1s0x1338046c70780ea3:0x3e4422a665b12fd6!8m2!3d41.2774857!4d16.4178334",
-    "Latitude": 41.2774857,
-    "Longitude": 16.4178334
+    "Latitude": "41.2774857",
+    "Longitude": "16.4178334"
   },
   {
     "Key": "Trebon",
     "Link": "https://www.google.com/maps/place/379+01+T%C5%99ebo%C5%88,+Chequia/@49.0017021,14.7055043,12z/data=!3m1!4b1!4m5!3m4!1s0x477334396ba4565d:0x400af0f66160150!8m2!3d49.0041957!4d14.7721233",
-    "Latitude": 49.0041957,
-    "Longitude": 14.7721233
+    "Latitude": "49.0041957",
+    "Longitude": "14.7721233"
   },
   {
     "Key": "Tremezzo",
     "Link": "https://www.google.com/maps/place/22019+Tremezzina,+Como,+Italia/@45.9823331,9.2048187,15z/data=!3m1!4b1!4m5!3m4!1s0x478422d6c3e57d7f:0xe8247e3e5a70bb9b!8m2!3d45.9848619!4d9.2288189",
-    "Latitude": 45.9848619,
-    "Longitude": 9.2288189
+    "Latitude": "45.9848619",
+    "Longitude": "9.2288189"
   },
   {
     "Key": "Triberg",
     "Link": "https://www.google.com.ar/maps/place/78098+Triberg,+Alemania/@48.141471,8.1857492,12z/data=!3m1!4b1!4m5!3m4!1s0x4790c2354309fcab:0x41f6bb7a5df8960!8m2!3d48.1301564!4d8.2324351",
-    "Latitude": 48.1301564,
-    "Longitude": 8.2324351
+    "Latitude": "48.1301564",
+    "Longitude": "8.2324351"
   },
   {
     "Key": "Tromso",
     "Link": "https://www.google.com.ar/maps/place/Troms%C3%B8,+Noruega/@69.6653119,18.7776688,11z/data=!3m1!4b1!4m5!3m4!1s0x45c4c4526c3b71fd:0x23dca858e6ebed3!8m2!3d69.6492047!4d18.9553238",
-    "Latitude": 69.6492047,
-    "Longitude": 18.9553238
+    "Latitude": "69.6492047",
+    "Longitude": "18.9553238"
   },
   {
     "Key": "Trossachs",
     "Link": "https://www.google.com/maps/place/Trossachs,+Callander+FK17+8HY,+Reino+Unido/@56.2355558,-4.4331621,14z/data=!4m5!3m4!1s0x4888fa0c86c849a7:0x145331ddd54f1beb!8m2!3d56.234312!4d-4.409999",
-    "Latitude": 56.234312,
-    "Longitude": -4.409999
+    "Latitude": "56.234312",
+    "Longitude": "-4.409999"
   },
   {
     "Key": "Turin",
     "Link": "https://www.google.com/maps/place/Tur%C3%ADn,+Italia/@45.0734673,7.6055663,12z/data=!3m1!4b1!4m5!3m4!1s0x47886d0cc3ed5cdf:0x405e67d473c94e0!8m2!3d45.0703393!4d7.686864",
-    "Latitude": 45.07034,
-    "Longitude": 7.686864
+    "Latitude": "45.07034",
+    "Longitude": "7.686864"
   },
   {
     "Key": "Uarzazate",
     "Link": "https://www.google.com/maps/place/Uarzazate+45000,+Marruecos/@30.9355177,-6.967609,13z/data=!3m1!4b1!4m5!3m4!1s0xdbb104077422057:0x26b3cb529b37ab00!8m2!3d30.9335436!4d-6.937016",
-    "Latitude": 30.9335442,
-    "Longitude": -6.937016
+    "Latitude": "30.9335442",
+    "Longitude": "-6.937016"
   },
   {
     "Key": "Ubeda-Alicante",
     "Link": "https://www.google.com/maps/place/%C3%9Abeda,+Alicante,+Espa%C3%B1a/@38.4459983,-0.983081,18.5z/data=!4m5!3m4!1s0xd63ef2cd7b41ad5:0xa02af717f5783b0!8m2!3d38.4457291!4d-0.9823655",
-    "Latitude": 38.4457291,
-    "Longitude": -0.9823655
+    "Latitude": "38.4457291",
+    "Longitude": "-0.9823655"
   },
   {
     "Key": "Ulm",
     "Link": "https://www.google.com.ar/maps/place/Ulm,+Alemania/@48.3875039,9.8023619,11z/data=!3m1!4b1!4m5!3m4!1s0x4799646998350bfd:0x41f6bb7a5df7d90!8m2!3d48.4010822!4d9.9876076",
-    "Latitude": 48.4010822,
-    "Longitude": 9.9876076
+    "Latitude": "48.4010822",
+    "Longitude": "9.9876076"
   },
   {
     "Key": "Vaduz",
     "Link": "https://www.google.com/maps/place/9490+Vaduz,+Liechtenstein/@47.1427197,9.4911805,13z/data=!3m1!4b1!4m5!3m4!1s0x479b31665c517ef3:0x5143d97dca1b7b82!8m2!3d47.1410303!4d9.5209277",
-    "Latitude": 47.14103,
-    "Longitude": 9.520927
+    "Latitude": "47.14103",
+    "Longitude": "9.520927"
   },
   {
-    "Key": "Valenca Do Minho",
+    "Key": "Valenca-Do-Minho",
     "Link": "https://www.google.com/maps/place/Valen%C3%A7a,+Portugal/@42.01432,-8.8652692,10z/data=!4m5!3m4!1s0xd25997d7bf23e1d:0x400ebbde4903c00!8m2!3d42.0268894!4d-8.6421195",
-    "Latitude": 42.02689,
-    "Longitude": -8.642119
+    "Latitude": "42.02689",
+    "Longitude": "-8.642119"
   },
   {
     "Key": "Valencia",
     "Link": "https://www.google.com/maps/place/Valencia,+Espa%C3%B1a/@39.4077012,-0.5015974,11z/data=!3m1!4b1!4m5!3m4!1s0xd604f4cf0efb06f:0xb4a351011f7f1d39!8m2!3d39.4699075!4d-0.3762881",
-    "Latitude": 39.4699059,
-    "Longitude": -0.3762881
+    "Latitude": "39.4699059",
+    "Longitude": "-0.3762881"
   },
   {
     "Key": "Valladolid",
     "Link": "https://www.google.com.ar/maps/place/Valladolid,+Espa%C3%B1a/@41.7031684,-4.948896,11z/data=!3m1!4b1!4m5!3m4!1s0xd47728c08c66e93:0xb3ff92d41ca26bef!8m2!3d41.652251!4d-4.7245321",
-    "Latitude": 41.652251,
-    "Longitude": -4.7245321
+    "Latitude": "41.652251",
+    "Longitude": "-4.7245321"
   },
   {
-    "Key": "Valle De Los Caidos",
+    "Key": "Valle-De-Los-Caidos",
     "Link": "https://www.google.com/maps/place/El+Valle+de+los+Ca%C3%ADdos/@40.6462321,-4.1731192,14.25z/data=!4m5!3m4!1s0xd410a28638894d1:0x3aecde28a878958f!8m2!3d40.6417999!4d-4.155308",
-    "Latitude": 40.6418,
-    "Longitude": -4.155308
+    "Latitude": "40.6418",
+    "Longitude": "-4.155308"
   },
   {
     "Key": "Vannes",
     "Link": "https://www.google.com/maps/place/Vannes,+Francia/@47.6577568,-2.8185138,12z/data=!3m1!4b1!4m5!3m4!1s0x48101e84c37de291:0xb9f358307b233d13!8m2!3d47.658236!4d-2.760847",
-    "Latitude": 47.658236,
-    "Longitude": -2.760847
+    "Latitude": "47.658236",
+    "Longitude": "-2.760847"
   },
   {
     "Key": "Varese",
     "Link": "https://www.google.com/maps/place/21100+Varese,+Italia/@45.8226166,8.7496675,12z/data=!3m1!4b1!4m5!3m4!1s0x47867e25755f0fe3:0x1df9bb5bf2862168!8m2!3d45.8205989!4d8.8250576",
-    "Latitude": 45.8205989,
-    "Longitude": 8.8250576
+    "Latitude": "45.8205989",
+    "Longitude": "8.8250576"
   },
   {
     "Key": "Varsovia",
     "Link": "https://www.google.com.ar/maps/place/Varsovia,+Polonia/@52.2326063,20.7810167,10z/data=!3m1!4b1!4m5!3m4!1s0x471ecc669a869f01:0x72f0be2a88ead3fc!8m2!3d52.2296756!4d21.0122287",
-    "Latitude": 52.2296756,
-    "Longitude": 21.0122287
+    "Latitude": "52.2296756",
+    "Longitude": "21.0122287"
   },
   {
-    "Key": "Veliko Tarnovo",
+    "Key": "Veliko-Tarnovo",
     "Link": "https://www.google.com.ar/maps/place/Veliko+Tarnovo,+Bulgaria/@43.0841301,25.5981029,13z/data=!3m1!4b1!4m5!3m4!1s0x40a9214b3d9491dd:0x400a01269bf5dc0!8m2!3d43.0756739!4d25.6171514",
-    "Latitude": 43.0756739,
-    "Longitude": 25.6171514
+    "Latitude": "43.0756739",
+    "Longitude": "25.6171514"
   },
   {
     "Key": "Venecia",
     "Link": "https://www.google.com/maps/place/Venecia,+Italia/@45.4042007,12.101554,10z/data=!3m1!4b1!4m5!3m4!1s0x477eb1daf1d63d89:0x7ba3c6f0bd92102f!8m2!3d45.4408474!4d12.3155151",
-    "Latitude": 45.44085,
-    "Longitude": 12.3155155
+    "Latitude": "45.44085",
+    "Longitude": "12.3155155"
   },
   {
     "Key": "Verona",
     "Link": "https://www.google.com/maps/place/Verona,+Italia/@45.4262289,10.9224911,12z/data=!3m1!4b1!4m5!3m4!1s0x477f5f68699be0e3:0x53f85a636882595b!8m2!3d45.4383842!4d10.9916215",
-    "Latitude": 45.438385,
-    "Longitude": 10.991622
+    "Latitude": "45.438385",
+    "Longitude": "10.991622"
   },
   {
-    "Key": "Viana Do Castelo",
+    "Key": "Viana-Do-Castelo",
     "Link": "https://www.google.com/maps/place/Distrito+de+Viana+do+Castelo,+Portugal/@41.8800053,-8.7621027,10z/data=!3m1!4b1!4m5!3m4!1s0xd250a7f0fd44313:0x300ebbde4902d10!8m2!3d41.6918046!4d-8.834451",
-    "Latitude": 41.691803,
-    "Longitude": -8.834451
+    "Latitude": "41.691803",
+    "Longitude": "-8.834451"
   },
   {
     "Key": "Viena",
     "Link": "https://www.google.com/maps/place/Viena,+Austria/@48.2205998,16.2399754,11z/data=!3m1!4b1!4m5!3m4!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!8m2!3d48.2081743!4d16.3738189",
-    "Latitude": 48.2081757,
-    "Longitude": 16.37382
+    "Latitude": "48.2081757",
+    "Longitude": "16.37382"
   },
   {
     "Key": "Vigo",
     "Link": "https://www.google.com/maps/place/Vigo,+Pontevedra,+Espa%C3%B1a/@42.2261474,-8.7604455,13z/data=!3m1!4b1!4m5!3m4!1s0xd2f621461b2c193:0x7b441dad174bd49f!8m2!3d42.2405989!4d-8.7207268",
-    "Latitude": 42.2405989,
-    "Longitude": -8.7207268
+    "Latitude": "42.2405989",
+    "Longitude": "-8.7207268"
   },
   {
-    "Key": "Vila Real",
+    "Key": "Vila-Real",
     "Link": "https://www.google.com.ar/maps/place/Vila+Real,+Portugal/@41.3120743,-7.9362687,10.25z/data=!4m13!1m7!3m6!1s0xd3b4ba914b3f42f:0x4c17e95d13927603!2sVila+Real,+Portugal!3b1!8m2!3d41.3010351!4d-7.7422354!3m4!1s0xd3b4ba914b3f42f:0x4c17e95d13927603!8m2!3d41.3010351!4d-7.7422354",
-    "Latitude": 41.3010351,
-    "Longitude": -7.7422354
+    "Latitude": "41.3010351",
+    "Longitude": "-7.7422354"
   },
   {
-    "Key": "Vila Real De Santo Antonio",
+    "Key": "Vila-Real-De-Santo-Antonio",
     "Link": "https://www.google.com/maps/place/Vila+Real+de+Santo+Ant%C3%B3nio,+Portugal/@37.1881899,-7.4539469,13z/data=!3m1!4b1!4m5!3m4!1s0xd102263fcfb7c35:0xdc001500c93e1f9a!8m2!3d37.1937172!4d-7.4209255",
-    "Latitude": 37.193718,
-    "Longitude": -7.42092562
+    "Latitude": "37.193718",
+    "Longitude": "-7.42092562"
   },
   {
     "Key": "Villarreal",
     "Link": "https://www.google.com/maps/place/12540+Villarreal,+Castell%C3%B3n,+Espa%C3%B1a/@39.9365708,-0.1418094,13z/data=!3m1!4b1!4m5!3m4!1s0xd600725c31d4dc1:0x9c147cedd45f1703!8m2!3d39.9397706!4d-0.1005932",
-    "Latitude": 39.9397706,
-    "Longitude": -0.1005932
+    "Latitude": "39.9397706",
+    "Longitude": "-0.1005932"
   },
   {
     "Key": "Vilna",
     "Link": "https://www.google.com.ar/maps/place/Vilna,+Lituania/@54.6998479,24.9727564,10z/data=!3m1!4b1!4m5!3m4!1s0x46dd93fb5c6408f5:0x400d18c70e9dc40!8m2!3d54.6871555!4d25.2796514",
-    "Latitude": 54.6871555,
-    "Longitude": 25.2796514
+    "Latitude": "54.6871555",
+    "Longitude": "25.2796514"
   },
   {
     "Key": "Viseu",
     "Link": "https://www.google.com/maps/place/Viseu,+Portugal/@40.6698914,-7.9655781,12z/data=!3m1!4b1!4m5!3m4!1s0xd23363eebc35ccd:0xf6bfc08821e7449a!8m2!3d40.6565861!4d-7.9124712",
-    "Latitude": 40.6565857,
-    "Longitude": -7.91247129
+    "Latitude": "40.6565857",
+    "Longitude": "-7.91247129"
   },
   {
     "Key": "Vitoria-Gasteiz",
     "Link": "https://www.google.com.ar/maps/place/Vitoria-Gasteiz,+%C3%81lava,+Espa%C3%B1a/@42.8540945,-2.7121777,13z/data=!3m1!4b1!4m5!3m4!1s0xd4fc2377d3d8f5b:0x9c6eb78c91ab49c9!8m2!3d42.8591656!4d-2.6817918",
-    "Latitude": 42.8591656,
-    "Longitude": -2.6817918
+    "Latitude": "42.8591656",
+    "Longitude": "-2.6817918"
   },
   {
     "Key": "Vlora",
     "Link": "https://www.google.com/maps/place/Vlor%C3%AB,+Albania/@40.4507919,19.411466,12z/data=!3m1!4b1!4m5!3m4!1s0x134533f1e8cc1895:0xd31099af13e0e86!8m2!3d40.4660668!4d19.491356",
-    "Latitude": 40.46607,
-    "Longitude": 19.4913559
+    "Latitude": "40.46607",
+    "Longitude": "19.4913559"
   },
   {
     "Key": "Vrsar",
     "Link": "https://www.google.com.ar/maps/place/Vrsar,+Croacia/@45.1497531,13.585759,13z/data=!3m1!4b1!4m5!3m4!1s0x477c95f5cad0653b:0xb67aa912180e883f!8m2!3d45.1499462!4d13.6052578",
-    "Latitude": 45.1499462,
-    "Longitude": 13.6052578
+    "Latitude": "45.1499462",
+    "Longitude": "13.6052578"
   },
   {
     "Key": "Washington",
     "Link": "https://www.google.com/maps/place/Washington+D.+C.,+Distrito+de+Columbia,+EE.+UU./@38.8935128,-77.1546621,11z/data=!3m1!4b1!4m5!3m4!1s0x89b7c6de5af6e45b:0xc2524522d4885d2a!8m2!3d38.9071923!4d-77.0368707",
-    "Latitude": 38.9071922,
-    "Longitude": -77.03687
+    "Latitude": "38.9071922",
+    "Longitude": "-77.03687"
   },
   {
     "Key": "Washington-Pennsylvania",
     "Link": "https://www.google.com/maps/place/Washington,+Pensilvania+15301,+EE.+UU./@40.1763611,-80.2774254,13z/data=!3m1!4b1!4m5!3m4!1s0x8835ad85b9259631:0x48644ecd2e6d32f!8m2!3d40.17396!4d-80.2461714",
-    "Latitude": 40.17396,
-    "Longitude": -80.24617
+    "Latitude": "40.17396",
+    "Longitude": "-80.24617"
   },
   {
     "Key": "Windsor",
     "Link": "https://www.google.com/maps/place/Windsor,+Reino+Unido/@51.4773536,-0.6606634,13z/data=!3m1!4b1!4m5!3m4!1s0x48767a0c48323997:0x4a6d76d3ed7d32b6!8m2!3d51.4817279!4d-0.613576",
-    "Latitude": 51.4817279,
-    "Longitude": -0.613576
+    "Latitude": "51.4817279",
+    "Longitude": "-0.613576"
+  },
+  {
+    "Key": "Yaroslavl",
+    "Link": "https://www.google.com/maps/place/Yaroslavl,+%C3%93blast+de+Yaroslavl,+Rusia/@57.6525163,39.5843348,10z/data=!3m1!4b1!4m5!3m4!1s0x46b291a051ecb939:0x59c9e61644948545!8m2!3d57.6260744!4d39.8844709",
+    "Latitude": "57.6260744",
+    "Longitude": "39.8844709"
   },
   {
     "Key": "York",
     "Link": "https://www.google.com/maps/place/York,+Reino+Unido/@53.9585761,-1.1506314,12z/data=!3m1!4b1!4m5!3m4!1s0x4878c340e19865f1:0x4774ab898a54e4d1!8m2!3d53.9599651!4d-1.0872979",
-    "Latitude": 53.9599648,
-    "Longitude": -1.08729792
+    "Latitude": "53.9599648",
+    "Longitude": "-1.08729792"
   },
   {
     "Key": "Zadar",
     "Link": "https://www.google.com.ar/maps/place/Zadar,+Croacia/@44.1350575,15.1788637,12z/data=!3m1!4b1!4m5!3m4!1s0x4761fa62d2c0b88f:0x12323e1c13f40784!8m2!3d44.119371!4d15.2313648",
-    "Latitude": 44.119371,
-    "Longitude": 15.2313648
+    "Latitude": "44.119371",
+    "Longitude": "15.2313648"
   },
   {
     "Key": "Zagora",
     "Link": "https://www.google.com/maps/place/Zagora,+Marruecos/@30.3429554,-5.8783398,13z/data=!3m1!4b1!4m5!3m4!1s0xdbc36ea58680e95:0x75e9e9fb616de232!8m2!3d30.3458998!4d-5.8406587",
-    "Latitude": 30.3459,
-    "Longitude": -5.84065866
+    "Latitude": "30.3459",
+    "Longitude": "-5.84065866"
   },
   {
     "Key": "Zagreb",
     "Link": "https://www.google.com.ar/maps/place/Zagreb,+Croacia/@45.8401104,15.8242483,11z/data=!3m1!4b1!4m5!3m4!1s0x4765d692c902cc39:0x3a45249628fbc28a!8m2!3d45.8150108!4d15.9819189",
-    "Latitude": 45.8150108,
-    "Longitude": 15.9819189
+    "Latitude": "45.8150108",
+    "Longitude": "15.9819189"
   },
   {
     "Key": "Zamora",
     "Link": "https://www.google.com/maps/place/Zamora,+Espa%C3%B1a/@41.5038406,-5.7620457,14z/data=!3m1!4b1!4m5!3m4!1s0xd391e3bc094f817:0x3fb3a56a82306b25!8m2!3d41.5034712!4d-5.7467879",
-    "Latitude": 41.5034712,
-    "Longitude": -5.7467879
+    "Latitude": "41.5034712",
+    "Longitude": "-5.7467879"
   },
   {
     "Key": "Zaragoza",
     "Link": "https://www.google.com/maps/place/Zaragoza,+Espa%C3%B1a/@41.6516859,-0.9300004,13z/data=!3m1!4b1!4m5!3m4!1s0xd5914dd5e618e91:0x49df13f1158489a8!8m2!3d41.6488226!4d-0.8890853",
-    "Latitude": 41.6488228,
-    "Longitude": -0.8890853
+    "Latitude": "41.6488228",
+    "Longitude": "-0.8890853"
   },
   {
     "Key": "Zermatt",
     "Link": "https://www.google.com.ar/maps/place/3920+Zermatt,+Suiza/@45.9907379,7.6018594,11z/data=!3m1!4b1!4m5!3m4!1s0x478f35a2292ee5cd:0x400ff8840196f70!8m2!3d46.0207133!4d7.749117",
-    "Latitude": 46.0207133,
-    "Longitude": 7.749117
+    "Latitude": "46.0207133",
+    "Longitude": "7.749117"
   },
   {
     "Key": "Zurich",
     "Link": "https://www.google.com/maps/place/Z%C3%BArich,+Suiza/@47.3774337,8.4666749,12z/data=!3m1!4b1!4m5!3m4!1s0x47900b9749bea219:0xe66e8df1e71fdc03!8m2!3d47.3768866!4d8.541694",
-    "Latitude": 47.37689,
-    "Longitude": 8.541694
+    "Latitude": "47.37689",
+    "Longitude": "8.541694"
   }
 ]

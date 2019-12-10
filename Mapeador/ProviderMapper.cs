@@ -11,6 +11,7 @@ using Mapeador.Domain;
 using Newtonsoft.Json;
 using System.IO;
 using System.Text.RegularExpressions;
+using WK.Libraries.SharpClipboardNS;
 
 namespace Mapeador
 {
@@ -26,6 +27,9 @@ namespace Mapeador
 		private string Filename { get; set; } = "";
 		private bool ModifyMode { get; set; } = false;
 		private bool DeserializationSuccess { get; set; }
+
+		public string Key { get => Regex.Match(rdKey.Text, "P[.] (.+?)[:]").Groups[1].Value; set => rdKey.Text = $"P. {value}:"; }
+		public string Value { get => Regex.Match(rdValue.Text, "P[.] (.+?)[:]").Groups[1].Value; set => rdValue.Text = $"P. {value}:"; }
 
 		public ProviderMapper()
 		{
@@ -212,7 +216,7 @@ namespace Mapeador
 			if (DeserializationSuccess)
 			{
 				ProviderMapping = new Dictionary<string, ProviderMapping>();
-				foreach (var item in baseMappingList)
+				foreach (var item in baseMappingList ?? new Domain.ProviderMapping[] { })
 				{
 					ProviderMapping.Add(item.ProviderElement.Key, item);
 				}
@@ -289,7 +293,7 @@ namespace Mapeador
 
 		private string GetBaseKey(string possibleKey)
 		{
-			var result = possibleKey?.Trim() ?? "";
+			var result = possibleKey?.Trim()?.ToLower() ?? "";
 
 			result = Regex.Replace(result, @"[^\u0041-\u005A\u0061-\u007A\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u017E]+", "-");
 			result = Regex.Replace(result, @"([-]|^)(?<letters>[a-zA-Z])", new MatchEvaluator(match =>
@@ -352,6 +356,46 @@ namespace Mapeador
 			SetOurSource();
 			OurSource.Clear();
 			OurSource.AddRange(BaseMapper.Keys.ToArray());
+		}
+
+		public void EmuleClipboardChange(object sender, SharpClipboard.ClipboardChangedEventArgs e)
+		{
+			if (chkSmart.Checked)
+			{
+				TextBox text = null;
+				if (rdKey.Checked)
+					text = txtPKey;
+				else if (rdValue.Checked)
+					text = txtPValue;
+
+
+				if (text != null && e?.Content != null)
+				{
+					text.Text = e.Content.ToString();
+					if (!string.IsNullOrWhiteSpace(txtRegex.Text))
+					{
+						Regex regex = null;
+						try
+						{
+							regex = new Regex(txtRegex.Text, RegexOptions.IgnoreCase);
+						}
+						catch (Exception) { }
+						if (regex != null)
+						{
+							var match = regex.Match(text.Text);
+							if (match.Success)
+							{
+								var group = match.Groups[Key];
+								if (group.Success)
+									txtPKey.Text = group.Value;
+								group = match.Groups[Value];
+								if (group.Success)
+									txtPValue.Text = group.Value;
+							}
+						}
+					}
+				}
+			}
 		}
 	}
 }

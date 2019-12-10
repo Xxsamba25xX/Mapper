@@ -38,8 +38,6 @@
 			this.txtPKey = new System.Windows.Forms.TextBox();
 			this.lblLong = new System.Windows.Forms.Label();
 			this.lblLat = new System.Windows.Forms.Label();
-			this.lblValP = new System.Windows.Forms.Label();
-			this.lblKeyP = new System.Windows.Forms.Label();
 			this.btnOkForm = new System.Windows.Forms.Button();
 			this.btnCancelForm = new System.Windows.Forms.Button();
 			this.btnCancelEdit = new System.Windows.Forms.Button();
@@ -47,6 +45,11 @@
 			this.tipBase = new System.Windows.Forms.ToolTip(this.components);
 			this.dlgOpen = new System.Windows.Forms.OpenFileDialog();
 			this.chkWordWrap = new System.Windows.Forms.CheckBox();
+			this.chkSmart = new System.Windows.Forms.CheckBox();
+			this.label1 = new System.Windows.Forms.Label();
+			this.txtRegex = new System.Windows.Forms.TextBox();
+			this.rdKey = new System.Windows.Forms.RadioButton();
+			this.rdValue = new System.Windows.Forms.RadioButton();
 			this.SuspendLayout();
 			// 
 			// txtJson
@@ -86,10 +89,10 @@
 			// 
 			this.txtOValue.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-			this.txtOValue.Location = new System.Drawing.Point(90, 141);
+			this.txtOValue.Location = new System.Drawing.Point(102, 141);
 			this.txtOValue.Name = "txtOValue";
 			this.txtOValue.ReadOnly = true;
-			this.txtOValue.Size = new System.Drawing.Size(203, 20);
+			this.txtOValue.Size = new System.Drawing.Size(191, 20);
 			this.txtOValue.TabIndex = 30;
 			// 
 			// txtOKey
@@ -98,10 +101,10 @@
             | System.Windows.Forms.AnchorStyles.Right)));
 			this.txtOKey.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
 			this.txtOKey.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
-			this.txtOKey.Location = new System.Drawing.Point(90, 104);
+			this.txtOKey.Location = new System.Drawing.Point(102, 104);
 			this.txtOKey.Name = "txtOKey";
 			this.txtOKey.ReadOnly = true;
-			this.txtOKey.Size = new System.Drawing.Size(203, 20);
+			this.txtOKey.Size = new System.Drawing.Size(191, 20);
 			this.txtOKey.TabIndex = 29;
 			this.txtOKey.TextChanged += new System.EventHandler(this.txtOKey_TextChanged);
 			this.txtOKey.Enter += new System.EventHandler(this.txtOKey_EnterLeave);
@@ -111,10 +114,10 @@
 			// 
 			this.txtPValue.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-			this.txtPValue.Location = new System.Drawing.Point(90, 68);
+			this.txtPValue.Location = new System.Drawing.Point(102, 68);
 			this.txtPValue.Name = "txtPValue";
 			this.txtPValue.ReadOnly = true;
-			this.txtPValue.Size = new System.Drawing.Size(203, 20);
+			this.txtPValue.Size = new System.Drawing.Size(191, 20);
 			this.txtPValue.TabIndex = 28;
 			// 
 			// txtPKey
@@ -123,9 +126,9 @@
             | System.Windows.Forms.AnchorStyles.Right)));
 			this.txtPKey.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
 			this.txtPKey.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
-			this.txtPKey.Location = new System.Drawing.Point(90, 30);
+			this.txtPKey.Location = new System.Drawing.Point(102, 30);
 			this.txtPKey.Name = "txtPKey";
-			this.txtPKey.Size = new System.Drawing.Size(203, 20);
+			this.txtPKey.Size = new System.Drawing.Size(191, 20);
 			this.txtPKey.TabIndex = 27;
 			this.txtPKey.TextChanged += new System.EventHandler(this.txtKey_TextChanged);
 			this.txtPKey.Enter += new System.EventHandler(this.txtKey_EnterLeave);
@@ -152,28 +155,6 @@
 			this.lblLat.Size = new System.Drawing.Size(55, 17);
 			this.lblLat.TabIndex = 25;
 			this.lblLat.Text = "O. Key:";
-			// 
-			// lblValP
-			// 
-			this.lblValP.AutoSize = true;
-			this.lblValP.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lblValP.Location = new System.Drawing.Point(22, 67);
-			this.lblValP.Margin = new System.Windows.Forms.Padding(10, 20, 10, 0);
-			this.lblValP.Name = "lblValP";
-			this.lblValP.Size = new System.Drawing.Size(53, 17);
-			this.lblValP.TabIndex = 24;
-			this.lblValP.Text = "P. Val: ";
-			// 
-			// lblKeyP
-			// 
-			this.lblKeyP.AutoSize = true;
-			this.lblKeyP.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lblKeyP.Location = new System.Drawing.Point(20, 30);
-			this.lblKeyP.Margin = new System.Windows.Forms.Padding(10, 20, 10, 0);
-			this.lblKeyP.Name = "lblKeyP";
-			this.lblKeyP.Size = new System.Drawing.Size(57, 17);
-			this.lblKeyP.TabIndex = 23;
-			this.lblKeyP.Text = "P. Key: ";
 			// 
 			// btnOkForm
 			// 
@@ -248,10 +229,71 @@
 			this.chkWordWrap.UseVisualStyleBackColor = true;
 			this.chkWordWrap.CheckedChanged += new System.EventHandler(this.chkWordWrap_CheckedChanged);
 			// 
+			// chkSmart
+			// 
+			this.chkSmart.AutoSize = true;
+			this.chkSmart.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.chkSmart.Location = new System.Drawing.Point(166, 169);
+			this.chkSmart.Margin = new System.Windows.Forms.Padding(5);
+			this.chkSmart.Name = "chkSmart";
+			this.chkSmart.Size = new System.Drawing.Size(114, 21);
+			this.chkSmart.TabIndex = 39;
+			this.chkSmart.Text = "Smart Copy ™";
+			this.chkSmart.UseVisualStyleBackColor = true;
+			// 
+			// label1
+			// 
+			this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.label1.AutoSize = true;
+			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.label1.Location = new System.Drawing.Point(286, 200);
+			this.label1.Name = "label1";
+			this.label1.Size = new System.Drawing.Size(52, 17);
+			this.label1.TabIndex = 41;
+			this.label1.Text = "Regex:";
+			// 
+			// txtRegex
+			// 
+			this.txtRegex.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.txtRegex.Font = new System.Drawing.Font("Lucida Console", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txtRegex.Location = new System.Drawing.Point(344, 199);
+			this.txtRegex.Name = "txtRegex";
+			this.txtRegex.Size = new System.Drawing.Size(219, 20);
+			this.txtRegex.TabIndex = 40;
+			// 
+			// rdKey
+			// 
+			this.rdKey.AutoSize = true;
+			this.rdKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.rdKey.Location = new System.Drawing.Point(25, 29);
+			this.rdKey.Name = "rdKey";
+			this.rdKey.Size = new System.Drawing.Size(71, 21);
+			this.rdKey.TabIndex = 42;
+			this.rdKey.TabStop = true;
+			this.rdKey.Text = "P. Key:";
+			this.rdKey.UseVisualStyleBackColor = true;
+			// 
+			// rdValue
+			// 
+			this.rdValue.AutoSize = true;
+			this.rdValue.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.rdValue.Location = new System.Drawing.Point(25, 67);
+			this.rdValue.Name = "rdValue";
+			this.rdValue.Size = new System.Drawing.Size(71, 21);
+			this.rdValue.TabIndex = 43;
+			this.rdValue.TabStop = true;
+			this.rdValue.Text = "P. Val: ";
+			this.rdValue.UseVisualStyleBackColor = true;
+			// 
 			// ProviderMapper
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+			this.Controls.Add(this.rdValue);
+			this.Controls.Add(this.rdKey);
+			this.Controls.Add(this.label1);
+			this.Controls.Add(this.txtRegex);
+			this.Controls.Add(this.chkSmart);
 			this.Controls.Add(this.chkWordWrap);
 			this.Controls.Add(this.btnOkForm);
 			this.Controls.Add(this.btnCancelForm);
@@ -266,8 +308,6 @@
 			this.Controls.Add(this.txtPKey);
 			this.Controls.Add(this.lblLong);
 			this.Controls.Add(this.lblLat);
-			this.Controls.Add(this.lblValP);
-			this.Controls.Add(this.lblKeyP);
 			this.Name = "ProviderMapper";
 			this.Padding = new System.Windows.Forms.Padding(10);
 			this.Size = new System.Drawing.Size(586, 611);
@@ -291,10 +331,13 @@
 		private System.Windows.Forms.TextBox txtPKey;
 		private System.Windows.Forms.Label lblLong;
 		private System.Windows.Forms.Label lblLat;
-		private System.Windows.Forms.Label lblValP;
-		private System.Windows.Forms.Label lblKeyP;
 		private System.Windows.Forms.ToolTip tipBase;
 		private System.Windows.Forms.OpenFileDialog dlgOpen;
 		private System.Windows.Forms.CheckBox chkWordWrap;
+		private System.Windows.Forms.CheckBox chkSmart;
+		private System.Windows.Forms.Label label1;
+		private System.Windows.Forms.TextBox txtRegex;
+		private System.Windows.Forms.RadioButton rdKey;
+		private System.Windows.Forms.RadioButton rdValue;
 	}
 }

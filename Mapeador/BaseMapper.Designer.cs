@@ -29,78 +29,36 @@
 		private void InitializeComponent()
 		{
 			this.components = new System.ComponentModel.Container();
-			this.lblLong = new System.Windows.Forms.Label();
-			this.lblLat = new System.Windows.Forms.Label();
-			this.lblLink = new System.Windows.Forms.Label();
-			this.lblKey = new System.Windows.Forms.Label();
 			this.txtLink = new System.Windows.Forms.TextBox();
 			this.txtLat = new System.Windows.Forms.TextBox();
 			this.txtLong = new System.Windows.Forms.TextBox();
 			this.lblJson = new System.Windows.Forms.Label();
 			this.btnOpenJson = new System.Windows.Forms.Button();
 			this.txtJson = new System.Windows.Forms.RichTextBox();
-			this.btnOkForm = new System.Windows.Forms.Button();
-			this.btnCancelForm = new System.Windows.Forms.Button();
-			this.btnCancelEdit = new System.Windows.Forms.Button();
-			this.btnOkEdit = new System.Windows.Forms.Button();
 			this.dlgOpen = new System.Windows.Forms.OpenFileDialog();
 			this.chkSmart = new System.Windows.Forms.CheckBox();
 			this.chkWordWrap = new System.Windows.Forms.CheckBox();
 			this.txtKey = new System.Windows.Forms.TextBox();
 			this.tipBase = new System.Windows.Forms.ToolTip(this.components);
+			this.btnOkForm = new System.Windows.Forms.Button();
+			this.btnCancelForm = new System.Windows.Forms.Button();
+			this.btnCancelEdit = new System.Windows.Forms.Button();
+			this.btnOkEdit = new System.Windows.Forms.Button();
+			this.rdKey = new System.Windows.Forms.RadioButton();
+			this.rdLink = new System.Windows.Forms.RadioButton();
+			this.rdLat = new System.Windows.Forms.RadioButton();
+			this.rdLong = new System.Windows.Forms.RadioButton();
+			this.txtRegex = new System.Windows.Forms.TextBox();
+			this.label1 = new System.Windows.Forms.Label();
 			this.SuspendLayout();
-			// 
-			// lblLong
-			// 
-			this.lblLong.AutoSize = true;
-			this.lblLong.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lblLong.Location = new System.Drawing.Point(20, 141);
-			this.lblLong.Margin = new System.Windows.Forms.Padding(10, 20, 10, 0);
-			this.lblLong.Name = "lblLong";
-			this.lblLong.Size = new System.Drawing.Size(48, 17);
-			this.lblLong.TabIndex = 7;
-			this.lblLong.Text = "Long: ";
-			// 
-			// lblLat
-			// 
-			this.lblLat.AutoSize = true;
-			this.lblLat.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lblLat.Location = new System.Drawing.Point(20, 104);
-			this.lblLat.Margin = new System.Windows.Forms.Padding(10, 20, 10, 0);
-			this.lblLat.Name = "lblLat";
-			this.lblLat.Size = new System.Drawing.Size(36, 17);
-			this.lblLat.TabIndex = 6;
-			this.lblLat.Text = "Lat: ";
-			// 
-			// lblLink
-			// 
-			this.lblLink.AutoSize = true;
-			this.lblLink.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lblLink.Location = new System.Drawing.Point(20, 67);
-			this.lblLink.Margin = new System.Windows.Forms.Padding(10, 20, 10, 0);
-			this.lblLink.Name = "lblLink";
-			this.lblLink.Size = new System.Drawing.Size(42, 17);
-			this.lblLink.TabIndex = 5;
-			this.lblLink.Text = "Link: ";
-			// 
-			// lblKey
-			// 
-			this.lblKey.AutoSize = true;
-			this.lblKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lblKey.Location = new System.Drawing.Point(20, 30);
-			this.lblKey.Margin = new System.Windows.Forms.Padding(10, 20, 10, 0);
-			this.lblKey.Name = "lblKey";
-			this.lblKey.Size = new System.Drawing.Size(40, 17);
-			this.lblKey.TabIndex = 4;
-			this.lblKey.Text = "Key: ";
 			// 
 			// txtLink
 			// 
 			this.txtLink.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-			this.txtLink.Location = new System.Drawing.Point(73, 67);
+			this.txtLink.Location = new System.Drawing.Point(91, 67);
 			this.txtLink.Name = "txtLink";
-			this.txtLink.Size = new System.Drawing.Size(224, 20);
+			this.txtLink.Size = new System.Drawing.Size(206, 20);
 			this.txtLink.TabIndex = 9;
 			this.txtLink.TextChanged += new System.EventHandler(this.txtLink_TextChanged);
 			// 
@@ -108,18 +66,18 @@
 			// 
 			this.txtLat.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-			this.txtLat.Location = new System.Drawing.Point(73, 103);
+			this.txtLat.Location = new System.Drawing.Point(91, 103);
 			this.txtLat.Name = "txtLat";
-			this.txtLat.Size = new System.Drawing.Size(224, 20);
+			this.txtLat.Size = new System.Drawing.Size(206, 20);
 			this.txtLat.TabIndex = 10;
 			// 
 			// txtLong
 			// 
 			this.txtLong.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-			this.txtLong.Location = new System.Drawing.Point(73, 140);
+			this.txtLong.Location = new System.Drawing.Point(91, 140);
 			this.txtLong.Name = "txtLong";
-			this.txtLong.Size = new System.Drawing.Size(224, 20);
+			this.txtLong.Size = new System.Drawing.Size(206, 20);
 			this.txtLong.TabIndex = 11;
 			// 
 			// lblJson
@@ -154,6 +112,54 @@
 			this.txtJson.Size = new System.Drawing.Size(554, 333);
 			this.txtJson.TabIndex = 18;
 			this.txtJson.Text = "";
+			// 
+			// dlgOpen
+			// 
+			this.dlgOpen.FileName = "openFileDialog1";
+			// 
+			// chkSmart
+			// 
+			this.chkSmart.AutoSize = true;
+			this.chkSmart.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.chkSmart.Location = new System.Drawing.Point(169, 168);
+			this.chkSmart.Margin = new System.Windows.Forms.Padding(5);
+			this.chkSmart.Name = "chkSmart";
+			this.chkSmart.Size = new System.Drawing.Size(114, 21);
+			this.chkSmart.TabIndex = 23;
+			this.chkSmart.Text = "Smart Copy ™";
+			this.chkSmart.UseVisualStyleBackColor = true;
+			this.chkSmart.CheckedChanged += new System.EventHandler(this.chkSmart_CheckedChanged);
+			// 
+			// chkWordWrap
+			// 
+			this.chkWordWrap.AutoSize = true;
+			this.chkWordWrap.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.chkWordWrap.Location = new System.Drawing.Point(169, 197);
+			this.chkWordWrap.Margin = new System.Windows.Forms.Padding(5);
+			this.chkWordWrap.Name = "chkWordWrap";
+			this.chkWordWrap.Size = new System.Drawing.Size(99, 21);
+			this.chkWordWrap.TabIndex = 24;
+			this.chkWordWrap.Text = "Word Wrap";
+			this.chkWordWrap.UseVisualStyleBackColor = true;
+			this.chkWordWrap.CheckedChanged += new System.EventHandler(this.chkWordWrap_CheckedChanged);
+			// 
+			// txtKey
+			// 
+			this.txtKey.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+			this.txtKey.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
+			this.txtKey.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
+			this.txtKey.Location = new System.Drawing.Point(91, 29);
+			this.txtKey.Name = "txtKey";
+			this.txtKey.Size = new System.Drawing.Size(206, 20);
+			this.txtKey.TabIndex = 8;
+			this.txtKey.TextChanged += new System.EventHandler(this.txtKey_TextChanged);
+			this.txtKey.Enter += new System.EventHandler(this.txtKey_EnterLeave);
+			this.txtKey.Leave += new System.EventHandler(this.txtKey_EnterLeave);
+			// 
+			// tipBase
+			// 
+			this.tipBase.AutomaticDelay = 100;
 			// 
 			// btnOkForm
 			// 
@@ -215,58 +221,80 @@
 			this.btnOkEdit.UseVisualStyleBackColor = false;
 			this.btnOkEdit.Click += new System.EventHandler(this.btnOkEdit_Click);
 			// 
-			// dlgOpen
+			// rdKey
 			// 
-			this.dlgOpen.FileName = "openFileDialog1";
+			this.rdKey.AutoSize = true;
+			this.rdKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.rdKey.Location = new System.Drawing.Point(23, 28);
+			this.rdKey.Name = "rdKey";
+			this.rdKey.Size = new System.Drawing.Size(54, 21);
+			this.rdKey.TabIndex = 25;
+			this.rdKey.Text = "Key:";
+			this.rdKey.UseVisualStyleBackColor = true;
 			// 
-			// chkSmart
+			// rdLink
 			// 
-			this.chkSmart.AutoSize = true;
-			this.chkSmart.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-			this.chkSmart.Location = new System.Drawing.Point(169, 168);
-			this.chkSmart.Margin = new System.Windows.Forms.Padding(5);
-			this.chkSmart.Name = "chkSmart";
-			this.chkSmart.Size = new System.Drawing.Size(114, 21);
-			this.chkSmart.TabIndex = 23;
-			this.chkSmart.Text = "Smart Copy ™";
-			this.chkSmart.UseVisualStyleBackColor = true;
-			this.chkSmart.Visible = false;
+			this.rdLink.AutoSize = true;
+			this.rdLink.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.rdLink.Location = new System.Drawing.Point(23, 66);
+			this.rdLink.Name = "rdLink";
+			this.rdLink.Size = new System.Drawing.Size(56, 21);
+			this.rdLink.TabIndex = 26;
+			this.rdLink.Text = "Link:";
+			this.rdLink.UseVisualStyleBackColor = true;
 			// 
-			// chkWordWrap
+			// rdLat
 			// 
-			this.chkWordWrap.AutoSize = true;
-			this.chkWordWrap.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-			this.chkWordWrap.Location = new System.Drawing.Point(169, 197);
-			this.chkWordWrap.Margin = new System.Windows.Forms.Padding(5);
-			this.chkWordWrap.Name = "chkWordWrap";
-			this.chkWordWrap.Size = new System.Drawing.Size(99, 21);
-			this.chkWordWrap.TabIndex = 24;
-			this.chkWordWrap.Text = "Word Wrap";
-			this.chkWordWrap.UseVisualStyleBackColor = true;
-			this.chkWordWrap.CheckedChanged += new System.EventHandler(this.chkWordWrap_CheckedChanged);
+			this.rdLat.AutoSize = true;
+			this.rdLat.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.rdLat.Location = new System.Drawing.Point(23, 102);
+			this.rdLat.Name = "rdLat";
+			this.rdLat.Size = new System.Drawing.Size(50, 21);
+			this.rdLat.TabIndex = 27;
+			this.rdLat.Text = "Lat:";
+			this.rdLat.UseVisualStyleBackColor = true;
 			// 
-			// txtKey
+			// rdLong
 			// 
-			this.txtKey.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-			this.txtKey.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
-			this.txtKey.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
-			this.txtKey.Location = new System.Drawing.Point(73, 29);
-			this.txtKey.Name = "txtKey";
-			this.txtKey.Size = new System.Drawing.Size(224, 20);
-			this.txtKey.TabIndex = 8;
-			this.txtKey.TextChanged += new System.EventHandler(this.txtKey_TextChanged);
-			this.txtKey.Enter += new System.EventHandler(this.txtKey_EnterLeave);
-			this.txtKey.Leave += new System.EventHandler(this.txtKey_EnterLeave);
+			this.rdLong.AutoSize = true;
+			this.rdLong.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.rdLong.Location = new System.Drawing.Point(23, 139);
+			this.rdLong.Name = "rdLong";
+			this.rdLong.Size = new System.Drawing.Size(62, 21);
+			this.rdLong.TabIndex = 28;
+			this.rdLong.Text = "Long:";
+			this.rdLong.UseVisualStyleBackColor = true;
 			// 
-			// tipBase
+			// txtRegex
 			// 
-			this.tipBase.AutomaticDelay = 100;
+			this.txtRegex.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.txtRegex.Font = new System.Drawing.Font("Lucida Console", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txtRegex.Location = new System.Drawing.Point(358, 197);
+			this.txtRegex.Name = "txtRegex";
+			this.txtRegex.Size = new System.Drawing.Size(219, 20);
+			this.txtRegex.TabIndex = 29;
+			// 
+			// label1
+			// 
+			this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.label1.AutoSize = true;
+			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+			this.label1.Location = new System.Drawing.Point(300, 198);
+			this.label1.Name = "label1";
+			this.label1.Size = new System.Drawing.Size(52, 17);
+			this.label1.TabIndex = 30;
+			this.label1.Text = "Regex:";
 			// 
 			// BaseMapper
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+			this.Controls.Add(this.label1);
+			this.Controls.Add(this.txtRegex);
+			this.Controls.Add(this.rdLong);
+			this.Controls.Add(this.rdLat);
+			this.Controls.Add(this.rdLink);
+			this.Controls.Add(this.rdKey);
 			this.Controls.Add(this.chkWordWrap);
 			this.Controls.Add(this.chkSmart);
 			this.Controls.Add(this.btnOkForm);
@@ -280,10 +308,6 @@
 			this.Controls.Add(this.txtLat);
 			this.Controls.Add(this.txtLink);
 			this.Controls.Add(this.txtKey);
-			this.Controls.Add(this.lblLong);
-			this.Controls.Add(this.lblLat);
-			this.Controls.Add(this.lblLink);
-			this.Controls.Add(this.lblKey);
 			this.Name = "BaseMapper";
 			this.Padding = new System.Windows.Forms.Padding(10);
 			this.Size = new System.Drawing.Size(600, 650);
@@ -293,11 +317,6 @@
 		}
 
 		#endregion
-
-		private System.Windows.Forms.Label lblLong;
-		private System.Windows.Forms.Label lblLat;
-		private System.Windows.Forms.Label lblLink;
-		private System.Windows.Forms.Label lblKey;
 		private System.Windows.Forms.TextBox txtKey;
 		private System.Windows.Forms.TextBox txtLink;
 		private System.Windows.Forms.TextBox txtLat;
@@ -313,5 +332,11 @@
 		private System.Windows.Forms.CheckBox chkSmart;
 		private System.Windows.Forms.CheckBox chkWordWrap;
 		private System.Windows.Forms.ToolTip tipBase;
+		private System.Windows.Forms.RadioButton rdKey;
+		private System.Windows.Forms.RadioButton rdLink;
+		private System.Windows.Forms.RadioButton rdLat;
+		private System.Windows.Forms.RadioButton rdLong;
+		private System.Windows.Forms.TextBox txtRegex;
+		private System.Windows.Forms.Label label1;
 	}
 }

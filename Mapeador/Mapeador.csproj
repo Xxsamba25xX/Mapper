@@ -36,6 +36,9 @@
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="SharpClipboard, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpClipboard.3.3.0\lib\SharpClipboard.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -71,6 +74,12 @@
     <Compile Include="ProviderMapper.Designer.cs">
       <DependentUpon>ProviderMapper.cs</DependentUpon>
     </Compile>
+    <Compile Include="StringDialogBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StringDialogBox.Designer.cs">
+      <DependentUpon>StringDialogBox.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="BaseMapper.resx">
       <DependentUpon>BaseMapper.cs</DependentUpon>
     </EmbeddedResource>
@@ -91,10 +100,16 @@
     <EmbeddedResource Include="ProviderMapper.resx">
       <DependentUpon>ProviderMapper.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="StringDialogBox.resx">
+      <DependentUpon>StringDialogBox.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Files\abreucircuit\mapping.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Files\basecircuit\mapping.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Files\europamundocircuit\mapping.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Files\surlandcircuit\mapping.json">

@@ -28,25 +28,45 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
+			this.components = new System.ComponentModel.Container();
 			this.providerMapper = new Mapeador.ProviderMapper();
 			this.baseMapper = new Mapeador.BaseMapper();
+			this.clipboard = new WK.Libraries.SharpClipboardNS.SharpClipboard(this.components);
 			this.SuspendLayout();
 			// 
 			// providerMapper
 			// 
+			this.providerMapper.Key = "Key";
 			this.providerMapper.Location = new System.Drawing.Point(608, 12);
 			this.providerMapper.Name = "providerMapper";
 			this.providerMapper.Padding = new System.Windows.Forms.Padding(10);
 			this.providerMapper.Size = new System.Drawing.Size(586, 694);
 			this.providerMapper.TabIndex = 1;
+			this.providerMapper.Value = "Val";
 			// 
 			// baseMapper
 			// 
+			this.baseMapper.Key = "Key";
+			this.baseMapper.Lat = "Lat";
+			this.baseMapper.Link = "Link";
 			this.baseMapper.Location = new System.Drawing.Point(12, 12);
+			this.baseMapper.Long = "Long";
 			this.baseMapper.Name = "baseMapper";
 			this.baseMapper.Padding = new System.Windows.Forms.Padding(10);
 			this.baseMapper.Size = new System.Drawing.Size(600, 694);
 			this.baseMapper.TabIndex = 0;
+			// 
+			// clipboard
+			// 
+			this.clipboard.MonitorClipboard = true;
+			this.clipboard.ObservableFormats.All = false;
+			this.clipboard.ObservableFormats.Files = false;
+			this.clipboard.ObservableFormats.Images = false;
+			this.clipboard.ObservableFormats.Others = false;
+			this.clipboard.ObservableFormats.Texts = true;
+			this.clipboard.ObserveLastEntry = true;
+			this.clipboard.Tag = null;
+			this.clipboard.ClipboardChanged += new System.EventHandler<WK.Libraries.SharpClipboardNS.SharpClipboard.ClipboardChangedEventArgs>(this.clipboard_ClipboardChanged);
 			// 
 			// Form1
 			// 
@@ -65,6 +85,7 @@
 
 		private BaseMapper baseMapper;
 		private ProviderMapper providerMapper;
+		private WK.Libraries.SharpClipboardNS.SharpClipboard clipboard;
 	}
 }
 

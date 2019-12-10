@@ -8,7 +8,7 @@ namespace Mapeador.Domain
 {
 	public class ProviderMapping
 	{
-		public ProviderElement ProviderElement { get; set; }
+		public ProviderElement ProviderElement { get; set; } = new ProviderElement();
 		public List<Ourelement> OurElements { get; set; } = new List<Ourelement>();
 	}
 

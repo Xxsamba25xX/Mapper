@@ -12,6 +12,7 @@ using System.IO;
 using Newtonsoft.Json;
 using System.Text.RegularExpressions;
 using System.Diagnostics;
+using WK.Libraries.SharpClipboardNS;
 
 namespace Mapeador
 {
@@ -24,9 +25,13 @@ namespace Mapeador
 		private AutoCompleteStringCollection Source { get; set; } = new AutoCompleteStringCollection();
 		private bool TxtKeyUpdated { get; set; }
 		private string Filename { get; set; } = "";
-		private string RegexLink { get; set; } = @"^(https:\/\/www[.]google[.]com\/maps)(.+?)!3d(?<latitude>[-]?\d+?([.]\d+?)?)!4d(?<longitude>[-]?\d+?([.]\d+?)?)$";
+		private string RegexLink { get; set; } = @"^(.+?)!3d(?<latitude>[-]?\d+?([.]\d+?)?)!4d(?<longitude>[-]?\d+?([.]\d+?)?)$";
 		private bool ModifyMode { get; set; } = false;
 		private bool DeserializationSuccess { get; set; }
+		public string Key { get => rdKey.Text.Substring(0, rdKey.Text.Length - 1); set => rdKey.Text = value + ":"; }
+		public string Link { get => rdLink.Text.Substring(0, rdLink.Text.Length - 1); set => rdLink.Text = value + ":"; }
+		public string Lat { get => rdLat.Text.Substring(0, rdLat.Text.Length - 1); set => rdLat.Text = value + ":"; }
+		public string Long { get => rdLong.Text.Substring(0, rdLong.Text.Length - 1); set => rdLong.Text = value + ":"; }
 
 		public BaseMapper()
 		{
@@ -122,7 +127,7 @@ namespace Mapeador
 				}
 			}
 			EraseEdit();
-					OnMappingChanged?.Invoke(this, Mapping);
+			OnMappingChanged?.Invoke(this, Mapping);
 			FillJson();
 		}
 
@@ -131,7 +136,7 @@ namespace Mapeador
 			if (!string.IsNullOrWhiteSpace(Filename))
 			{
 				Mapping = Mapping ?? new Dictionary<string, BaseMapping>();
-					OnMappingChanged?.Invoke(this, Mapping);
+				OnMappingChanged?.Invoke(this, Mapping);
 				FillJson();
 				File.WriteAllText(Filename, txtJson.Text);
 			}
@@ -298,7 +303,7 @@ namespace Mapeador
 
 		private string GetKey(string possibleKey)
 		{
-			var result = possibleKey?.Trim() ?? "";
+			var result = possibleKey?.Trim()?.ToLower() ?? "";
 
 			result = Regex.Replace(result, @"[^\u0041-\u005A\u0061-\u007A\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u017E]+", "-");
 			result = Regex.Replace(result, @"([-]|^)(?<letters>[a-zA-Z])", new MatchEvaluator(match =>
@@ -325,6 +330,61 @@ namespace Mapeador
 			}));
 			result = result.Trim('-');
 			return result;
+		}
+
+		private void chkSmart_CheckedChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		public  void EmuleClipboardChange(object sender, SharpClipboard.ClipboardChangedEventArgs e)
+		{
+
+			if (chkSmart.Checked)
+			{
+				TextBox text = null;
+				if (rdKey.Checked)
+					text = txtKey;
+				else if (rdLink.Checked)
+					text = txtLink;
+				else if (rdLat.Checked)
+					text = txtLat;
+				else if (rdLong.Checked)
+					text = txtLong;
+
+				if (text != null && e?.Content != null)
+				{
+					text.Text = e.Content.ToString();
+					if (!string.IsNullOrWhiteSpace(txtRegex.Text))
+					{
+						Regex regex = null;
+						try
+						{
+							regex = new Regex(txtRegex.Text, RegexOptions.IgnoreCase);
+						}
+						catch (Exception) { }
+						if (regex != null)
+						{
+							var match = regex.Match(text.Text);
+							if (match.Success)
+							{
+								var group = match.Groups[Key];
+								if (group.Success)
+									txtKey.Text = group.Value;
+								group = match.Groups[Link];
+								if (group.Success)
+									txtLink.Text = group.Value;
+								group = match.Groups[Lat];
+								if (group.Success)
+									txtLat.Text = group.Value;
+								group = match.Groups[Long];
+								if (group.Success)
+									txtLong.Text = group.Value;
+							}
+						}
+					}
+				}
+			}
 		}
 	}
 }
