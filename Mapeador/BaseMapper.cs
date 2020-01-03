@@ -342,19 +342,9 @@ namespace Mapeador
 
 			if (chkSmart.Checked)
 			{
-				TextBox text = null;
-				if (rdKey.Checked)
-					text = txtKey;
-				else if (rdLink.Checked)
-					text = txtLink;
-				else if (rdLat.Checked)
-					text = txtLat;
-				else if (rdLong.Checked)
-					text = txtLong;
-
-				if (text != null && e?.Content != null)
+				if (  e?.Content != null)
 				{
-					text.Text = e.Content.ToString();
+					var text = e.Content.ToString();
 					if (!string.IsNullOrWhiteSpace(txtRegex.Text))
 					{
 						Regex regex = null;
@@ -365,7 +355,7 @@ namespace Mapeador
 						catch (Exception) { }
 						if (regex != null)
 						{
-							var match = regex.Match(text.Text);
+							var match = regex.Match(text);
 							if (match.Success)
 							{
 								var group = match.Groups[Key];
