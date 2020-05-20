@@ -1453,6 +1453,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "JA||KAN",
+      "Value": "Kanazawa"
+    },
+    "OurElements": [
+      {
+        "Key": "Kanazawa",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "JA||KAW",
       "Value": "Kawayu Onsen"
     },
