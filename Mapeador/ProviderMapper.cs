@@ -80,12 +80,7 @@ namespace Mapeador
 
 		private void txtKey_EnterLeave(object sender, EventArgs e)
 		{
-			if (TxtKeyUpdated)
-			{
-				TxtKeyUpdated = false;
-				ProcessPKey();
-				ProcessEditButtons();
-			}
+
 		}
 
 		private void txtOKey_EnterLeave(object sender, EventArgs e)

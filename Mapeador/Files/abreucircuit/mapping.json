@@ -601,6 +601,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "11408",
+      "Value": "Wurzburg"
+    },
+    "OurElements": [
+      {
+        "Key": "Wurzburg",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "11422",
       "Value": "Lake District"
     },
@@ -769,6 +781,30 @@
   },
   {
     "ProviderElement": {
+      "Key": "11810",
+      "Value": "Vik"
+    },
+    "OurElements": [
+      {
+        "Key": "Vik",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "11836",
+      "Value": "Blue Lagoon"
+    },
+    "OurElements": [
+      {
+        "Key": "Laguna-Azul",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "11896",
       "Value": "Penalva do Castelo"
     },
@@ -883,6 +919,18 @@
     "OurElements": [
       {
         "Key": "Isola-Bella",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "12358",
+      "Value": "Keflavík"
+    },
+    "OurElements": [
+      {
+        "Key": "Reykjanesbaer",
         "Value": ""
       }
     ]
@@ -2585,6 +2633,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "2971",
+      "Value": "Potsdam"
+    },
+    "OurElements": [
+      {
+        "Key": "Postdam",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "2976",
       "Value": "Stresa"
     },
@@ -2693,6 +2753,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "3382",
+      "Value": "Akureyri"
+    },
+    "OurElements": [
+      {
+        "Key": "Akureyri",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "3422",
       "Value": "Alghero"
     },
@@ -2771,6 +2843,18 @@
     "OurElements": [
       {
         "Key": "Belfast",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "3880",
+      "Value": "Borgarfjordur"
+    },
+    "OurElements": [
+      {
+        "Key": "Borgarfjordur",
         "Value": ""
       }
     ]
@@ -3053,6 +3137,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "4654",
+      "Value": "Catania"
+    },
+    "OurElements": [
+      {
+        "Key": "Catania",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "4790",
       "Value": "Dubrovnik"
     },
@@ -3281,6 +3377,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "5754",
+      "Value": "Hofn"
+    },
+    "OurElements": [
+      {
+        "Key": "Hofn",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "5874",
       "Value": "Harrogate"
     },
@@ -3299,6 +3407,18 @@
     "OurElements": [
       {
         "Key": "Cataratas-Del-Niagara",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "5973",
+      "Value": "Kiev"
+    },
+    "OurElements": [
+      {
+        "Key": "Kiev",
         "Value": ""
       }
     ]
@@ -3383,6 +3503,18 @@
     "OurElements": [
       {
         "Key": "Cracovia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "6690",
+      "Value": "Kavala"
+    },
+    "OurElements": [
+      {
+        "Key": "Kavala",
         "Value": ""
       }
     ]
@@ -3479,6 +3611,18 @@
     "OurElements": [
       {
         "Key": "San-Petersburgo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "6830",
+      "Value": "Leipzig"
+    },
+    "OurElements": [
+      {
+        "Key": "Leipzig",
         "Value": ""
       }
     ]
@@ -4037,6 +4181,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "8495",
+      "Value": "Poznan"
+    },
+    "OurElements": [
+      {
+        "Key": "Poznan",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "850",
       "Value": "Segóvia"
     },
@@ -4181,6 +4337,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "8806",
+      "Value": "Reykjavík"
+    },
+    "OurElements": [
+      {
+        "Key": "Reikiavik",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "8837",
       "Value": "Rhodes"
     },
@@ -4313,6 +4481,54 @@
   },
   {
     "ProviderElement": {
+      "Key": "915",
+      "Value": "Meteoro"
+    },
+    "OurElements": [
+      {
+        "Key": "Meteora",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "916",
+      "Value": "Vergina"
+    },
+    "OurElements": [
+      {
+        "Key": "Vergina",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "917",
+      "Value": "Verea"
+    },
+    "OurElements": [
+      {
+        "Key": "Verea",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "918",
+      "Value": "Filippi"
+    },
+    "OurElements": [
+      {
+        "Key": "Filipos",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "920",
       "Value": "Kotor"
     },
@@ -4343,6 +4559,18 @@
     "OurElements": [
       {
         "Key": "Kusadasi",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "9239",
+      "Value": "Thessalonica"
+    },
+    "OurElements": [
+      {
+        "Key": "Tesalonica",
         "Value": ""
       }
     ]

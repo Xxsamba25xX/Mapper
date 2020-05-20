@@ -103,18 +103,10 @@
     <EmbeddedResource Include="StringDialogBox.resx">
       <DependentUpon>StringDialogBox.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Files\abreucircuit\mapping.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="Files\basecircuit\mapping.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="Files\europamundocircuit\mapping.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="Files\surlandcircuit\mapping.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <None Include="Files\abreucircuit\mapping.json" />
+    <None Include="Files\basecircuit\mapping.json" />
+    <None Include="Files\europamundocircuit\mapping.json" />
+    <None Include="Files\surlandcircuit\mapping.json" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

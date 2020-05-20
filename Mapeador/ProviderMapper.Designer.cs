@@ -131,8 +131,6 @@
 			this.txtPKey.Size = new System.Drawing.Size(191, 20);
 			this.txtPKey.TabIndex = 27;
 			this.txtPKey.TextChanged += new System.EventHandler(this.txtKey_TextChanged);
-			this.txtPKey.Enter += new System.EventHandler(this.txtKey_EnterLeave);
-			this.txtPKey.Leave += new System.EventHandler(this.txtKey_EnterLeave);
 			// 
 			// lblLong
 			// 
