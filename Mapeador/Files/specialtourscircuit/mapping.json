@@ -241,6 +241,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "10119",
+      "Value": "Burgas"
+    },
+    "OurElements": [
+      {
+        "Key": "Burgas",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "10123",
       "Value": "Bursa"
     },
@@ -895,6 +907,10 @@
     "OurElements": [
       {
         "Key": "Ho-Chi-Minh",
+        "Value": ""
+      },
+      {
+        "Key": "Saigon",
         "Value": ""
       }
     ]
@@ -7199,6 +7215,18 @@
     "OurElements": [
       {
         "Key": "Alesund",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "9880",
+      "Value": "Alta"
+    },
+    "OurElements": [
+      {
+        "Key": "Alta",
         "Value": ""
       }
     ]

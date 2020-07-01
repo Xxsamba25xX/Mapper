@@ -222,6 +222,12 @@
     "Longitude": "-1.706299"
   },
   {
+    "Key": "Alta",
+    "Link": "https://www.google.com/maps/place/Alta,+Noruega/@70.0432195,22.0812964,8z/data=!3m1!4b1!4m5!3m4!1s0x45cf4002172ed563:0xfa2ed3ca7b4d3e22!8m2!3d69.9688853!4d23.2715873",
+    "Latitude": "69.9688853",
+    "Longitude": "23.2715873"
+  },
+  {
     "Key": "Amalfi",
     "Link": "https://www.google.com.ar/maps/place/84011+Amalfi+Salerno,+Italia/@40.6309876,14.5741582,14z/data=!3m1!4b1!4m5!3m4!1s0x133b95b54921c5d1:0x151a2c999fb2aca9!8m2!3d40.6340026!4d14.6026805",
     "Latitude": "40.6340026",
