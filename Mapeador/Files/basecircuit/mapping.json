@@ -264,6 +264,12 @@
     "Longitude": "37.2607672"
   },
   {
+    "Key": "Amiens",
+    "Link": "https://www.google.com/maps/place/Amiens,+Francia/@49.8985408,2.2145978,12z/data=!3m1!4b1!4m5!3m4!1s0x47e78413d78b760b:0x40af13e816220e0!8m2!3d49.894067!4d2.295753",
+    "Latitude": "49.894067",
+    "Longitude": "2.295753"
+  },
+  {
     "Key": "Amman",
     "Link": "https://www.google.com/maps/place/Am%C3%A1n,+Jordania/@31.8111455,35.6384202,9.5z/data=!4m5!3m4!1s0x151b5fb85d7981af:0x631c30c0f8dc65e8!8m2!3d31.9539494!4d35.910635",
     "Latitude": "31.9539494",
@@ -1566,6 +1572,12 @@
     "Longitude": "-95.1129658"
   },
   {
+    "Key": "Caticlan",
+    "Link": "https://www.google.com/maps/place/Caticlan,+Malay,+Aklan,+Filipinas/@11.9377075,121.9137622,12.5z/data=!4m5!3m4!1s0x33a53fadc953ecf9:0xf6dba44d5260789f!8m2!3d11.9108998!4d121.9385499",
+    "Latitude": "11.9108998",
+    "Longitude": "121.9385499"
+  },
+  {
     "Key": "Cayo-Coco",
     "Link": "https://www.google.com/maps/place/Cayo+Coco/@22.4816868,-78.6260255,11z/data=!3m1!4b1!4m5!3m4!1s0x892b26aee99be8e1:0x9b6715b3ddaa57dd!8m2!3d22.5090128!4d-78.4069732",
     "Latitude": "22.5090128",
@@ -2290,6 +2302,12 @@
     "Link": "https://www.google.com.ar/maps/place/Eger,+Hungr%C3%ADa/@47.9293269,20.2513247,11z/data=!3m1!4b1!4m5!3m4!1s0x47408d7894b04023:0x63adb259948d1c24!8m2!3d47.9025348!4d20.3772284",
     "Latitude": "47.9025348",
     "Longitude": "20.3772284"
+  },
+  {
+    "Key": "Eggiwil",
+    "Link": "https://www.google.com/maps/place/Eggiwil,+Suiza/@46.865611,7.7362205,12z/data=!3m1!4b1!4m5!3m4!1s0x478fb7f17f7625e3:0xa01540a5a1cda4c8!8m2!3d46.8750854!4d7.7957834",
+    "Latitude": "46.8750854",
+    "Longitude": "7.7957834"
   },
   {
     "Key": "Egilsstadir",
@@ -3244,12 +3262,6 @@
     "Link": "https://www.google.com/maps/place/Hobart+Tasmania+7000,+Australia/@-42.8823074,147.3110467,14z/data=!3m1!4b1!4m5!3m4!1s0xaa6e7584e52ccfed:0x503c94dd0de1530!8m2!3d-42.8821377!4d147.3271949",
     "Latitude": "-42.8821377",
     "Longitude": "147.3271949"
-  },
-  {
-    "Key": "Ho-Chi-Minh",
-    "Link": "https://www.google.com/maps/place/Cd+Ho+Chi+Minh+(Saig%C3%B3n),+H%E1%BB%93+Ch%C3%AD+Minh,+Vietnam/@10.7546664,106.415032,10z/data=!3m1!4b1!4m5!3m4!1s0x317529292e8d3dd1:0xf15f5aad773c112b!8m2!3d10.8230989!4d106.6296638",
-    "Latitude": "10.8230989",
-    "Longitude": "106.6296638"
   },
   {
     "Key": "Hofn",

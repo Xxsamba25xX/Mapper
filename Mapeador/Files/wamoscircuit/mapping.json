@@ -349,6 +349,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "BUD",
+      "Value": "BUDAPEST"
+    },
+    "OurElements": [
+      {
+        "Key": "Budapest",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "BUH",
       "Value": "BUCAREST"
     },
@@ -751,6 +763,18 @@
     "OurElements": [
       {
         "Key": "Edimburgo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "EGGIWIL",
+      "Value": "EGGIWIL"
+    },
+    "OurElements": [
+      {
+        "Key": "Eggiwil",
         "Value": ""
       }
     ]
@@ -2430,7 +2454,7 @@
     },
     "OurElements": [
       {
-        "Key": "Ho-Chi-Minh",
+        "Key": "Saigon",
         "Value": ""
       }
     ]

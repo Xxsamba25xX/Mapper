@@ -97,6 +97,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "ADIS ABEBA",
+      "Value": "Adis Abeba"
+    },
+    "OurElements": [
+      {
+        "Key": "Adis-Abeba",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "AGRA",
       "Value": "Agra"
     },
@@ -259,6 +271,18 @@
     "OurElements": [
       {
         "Key": "Amboise",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AMIENS",
+      "Value": "Amiens"
+    },
+    "OurElements": [
+      {
+        "Key": "Amiens",
         "Value": ""
       }
     ]
@@ -673,6 +697,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "BADEN BADEN",
+      "Value": "Baden Baden"
+    },
+    "OurElements": [
+      {
+        "Key": "Baden-Baden",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "BAGUIO",
       "Value": "Baguio"
     },
@@ -727,6 +763,18 @@
     "OurElements": [
       {
         "Key": "Bali",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "BAMBERG",
+      "Value": "Bamberg"
+    },
+    "OurElements": [
+      {
+        "Key": "Bamderg",
         "Value": ""
       }
     ]
@@ -1861,12 +1909,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "CATARATAS VICTORIA",
+      "Value": "Cataratas Victoria"
+    },
+    "OurElements": [
+      {
+        "Key": "Cataratas-Victoria",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "CATEMACO",
       "Value": "Catemaco"
     },
     "OurElements": [
       {
         "Key": "Catemaco",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "CATICLAN",
+      "Value": "Caticlan"
+    },
+    "OurElements": [
+      {
+        "Key": "Caticlan",
         "Value": ""
       }
     ]
@@ -2881,6 +2953,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "EINSIEDELN",
+      "Value": "Einsiedeln"
+    },
+    "OurElements": [
+      {
+        "Key": "Einsiedeln",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "EL CAIRO",
       "Value": "El Cairo"
     },
@@ -3319,6 +3403,22 @@
       },
       {
         "Key": "Sendai",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "FERRY-ATENA-RODA",
+      "Value": "Ferry-Atena-Roda"
+    },
+    "OurElements": [
+      {
+        "Key": "Atenas",
+        "Value": ""
+      },
+      {
+        "Key": "Rodas",
         "Value": ""
       }
     ]
@@ -3925,6 +4025,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "HACIENDA GUACHINANGO",
+      "Value": "Hacienda Guachinango"
+    },
+    "OurElements": [
+      {
+        "Key": "Guachinango",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "HAEINSA",
       "Value": "Haeinsa"
     },
@@ -4134,7 +4246,7 @@
     },
     "OurElements": [
       {
-        "Key": "Ho-Chi-Minh",
+        "Key": "Saigon",
         "Value": ""
       }
     ]
@@ -5329,6 +5441,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "LIUBLIANA",
+      "Value": "Liubliana"
+    },
+    "OurElements": [
+      {
+        "Key": "Liubliana",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "LIVERPOOL",
       "Value": "Liverpool"
     },
@@ -6031,6 +6155,18 @@
     "OurElements": [
       {
         "Key": "Micenas",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "MICONOS",
+      "Value": "Miconos"
+    },
+    "OurElements": [
+      {
+        "Key": "Mikonos",
         "Value": ""
       }
     ]
@@ -6963,6 +7099,18 @@
     "ProviderElement": {
       "Key": "ORCCHA",
       "Value": "Orccha"
+    },
+    "OurElements": [
+      {
+        "Key": "Orchha",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ORCHHA",
+      "Value": "Orchha"
     },
     "OurElements": [
       {
@@ -8557,6 +8705,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "SANTA MARGARITA LIGURE",
+      "Value": "Santa Margarita Ligure"
+    },
+    "OurElements": [
+      {
+        "Key": "Santa-Margarita-De-Ligure",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "SANTANDER",
       "Value": "Santander"
     },
@@ -8595,6 +8755,18 @@
     "ProviderElement": {
       "Key": "SANTILLANA",
       "Value": "Santillana"
+    },
+    "OurElements": [
+      {
+        "Key": "Santillana-Del-Mar",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "SANTILLANA DEL MAR",
+      "Value": "Santillana Del Mar"
     },
     "OurElements": [
       {
@@ -8727,6 +8899,18 @@
     "ProviderElement": {
       "Key": "SERGEI POSAD",
       "Value": "Sergei Posad"
+    },
+    "OurElements": [
+      {
+        "Key": "Serguei-Posad",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "SERGUEI POSAD",
+      "Value": "Serguei Posad"
     },
     "OurElements": [
       {
@@ -9165,12 +9349,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "STEIN AM RHEIN",
+      "Value": "Stein Am Rhein"
+    },
+    "OurElements": [
+      {
+        "Key": "Stein-Am-Rhein",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "STIRLING",
       "Value": "Stirling"
     },
     "OurElements": [
       {
         "Key": "Stirling",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "STRATFORD",
+      "Value": "Stratford"
+    },
+    "OurElements": [
+      {
+        "Key": "Stratford",
         "Value": ""
       }
     ]
@@ -9735,6 +9943,18 @@
     "OurElements": [
       {
         "Key": "Turaida",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "TURIN",
+      "Value": "Turin"
+    },
+    "OurElements": [
+      {
+        "Key": "Turin",
         "Value": ""
       }
     ]
