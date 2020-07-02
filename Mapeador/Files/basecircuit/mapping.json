@@ -4440,6 +4440,12 @@
     "Longitude": "-88.7530076"
   },
   {
+    "Key": "Locarno",
+    "Link": "https://www.google.com/maps/place/Locarno,+Suiza/@46.1704841,8.7999256,13z/data=!3m1!4b1!4m5!3m4!1s0x4785c9fcdf682823:0xff9107992fea3a9a!8m2!3d46.1669988!4d8.7942643",
+    "Latitude": "46.1669988",
+    "Longitude": "8.7942643"
+  },
+  {
     "Key": "Locronan",
     "Link": "https://www.google.com/maps/place/Locronan,+Francia/@48.0956948,-4.2276922,14z/data=!3m1!4b1!4m5!3m4!1s0x4816d340288ac045:0x152a35df164e9b35!8m2!3d48.098711!4d-4.207479",
     "Latitude": "48.098711",
@@ -7104,6 +7110,12 @@
     "Longitude": "-4.108807"
   },
   {
+    "Key": "Seia",
+    "Link": "https://www.google.com/maps/place/Seia,+Portugal/@40.424739,-7.6986727,14z/data=!3m1!4b1!4m5!3m4!1s0xd3cd6886d5d186b:0x158a8f8ef4f108a0!8m2!3d40.4148619!4d-7.707845",
+    "Latitude": "40.4148619",
+    "Longitude": "-7.707845"
+  },
+  {
     "Key": "Seki",
     "Link": "https://www.google.com/maps/place/%C5%9E%C9%99ki,+Azerbaiy%C3%A1n/@41.2024783,47.0935794,12z/data=!3m1!4b1!4m5!3m4!1s0x404787c6c2deab39:0xa57076df3a269f4c!8m2!3d41.1974753!4d47.1571241",
     "Latitude": "41.1974753",
@@ -7318,6 +7330,12 @@
     "Link": "https://www.google.com/maps/place/Sinaia+106100,+Ruman%C3%ADa/@45.3411481,25.5164493,13z/data=!3m1!4b1!4m5!3m4!1s0x40b3172c95bc1f5f:0x40666047c55abf82!8m2!3d45.3310429!4d25.5623504",
     "Latitude": "45.3310429",
     "Longitude": "25.5623504"
+  },
+  {
+    "Key": "Sines",
+    "Link": "https://www.google.com/maps/place/Sines,+Portugal/@37.9576461,-8.8558294,12z/data=!3m1!4b1!4m5!3m4!1s0xd1bbf0312e0f861:0x65fd23fe2d13e01e!8m2!3d37.9571555!4d-8.8608907",
+    "Latitude": "37.9571555",
+    "Longitude": "-8.8608907"
   },
   {
     "Key": "Singapur",

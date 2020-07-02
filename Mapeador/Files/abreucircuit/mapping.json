@@ -469,12 +469,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "1111",
+      "Value": "Seia"
+    },
+    "OurElements": [
+      {
+        "Key": "Seia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "11115",
       "Value": "Interlaken"
     },
     "OurElements": [
       {
         "Key": "Interlaken",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "11118",
+      "Value": "Locarno"
+    },
+    "OurElements": [
+      {
+        "Key": "Locarno",
         "Value": ""
       }
     ]
@@ -625,6 +649,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "1149",
+      "Value": "Chartres"
+    },
+    "OurElements": [
+      {
+        "Key": "Chartres",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "11531",
       "Value": "Rhine Valley"
     },
@@ -715,6 +751,18 @@
     "OurElements": [
       {
         "Key": "Monte-Etna",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "11659",
+      "Value": "Lake Como"
+    },
+    "OurElements": [
+      {
+        "Key": "Como",
         "Value": ""
       }
     ]
@@ -1487,6 +1535,18 @@
     "OurElements": [
       {
         "Key": "Alba-Iulia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "15478",
+      "Value": "Nis"
+    },
+    "OurElements": [
+      {
+        "Key": "Nis",
         "Value": ""
       }
     ]
@@ -2465,6 +2525,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "2557",
+      "Value": "Sirmione"
+    },
+    "OurElements": [
+      {
+        "Key": "Sirmione",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "2588",
       "Value": "Castelo de Vide"
     },
@@ -2735,6 +2807,18 @@
     "OurElements": [
       {
         "Key": "Soajo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "3257",
+      "Value": "Peso da Régua"
+    },
+    "OurElements": [
+      {
+        "Key": "Regua",
         "Value": ""
       }
     ]
@@ -4523,6 +4607,18 @@
     "OurElements": [
       {
         "Key": "Filipos",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "9188",
+      "Value": "Sines"
+    },
+    "OurElements": [
+      {
+        "Key": "Sines",
         "Value": ""
       }
     ]

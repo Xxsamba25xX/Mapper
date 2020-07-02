@@ -4529,6 +4529,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "IYASHI NO SATO NEMBA",
+      "Value": "Iyashi No Sato Nemba"
+    },
+    "OurElements": [
+      {
+        "Key": "Iyasi-No-Sato-Nenba",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "IYASI NO SATO NENBA",
       "Value": "Iyasi No Sato Nenba"
     },
@@ -8465,6 +8477,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "SAN BERTRAN DE COMINGES",
+      "Value": "San Bertran De Cominges"
+    },
+    "OurElements": [
+      {
+        "Key": "Saint-Bertrand-De-Comminges",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "SAN CRISTOBAL DE LAS CASAS",
       "Value": "San Cristobal De Las Casas"
     },
@@ -9963,6 +9987,18 @@
     "ProviderElement": {
       "Key": "TUXLA",
       "Value": "Tuxla"
+    },
+    "OurElements": [
+      {
+        "Key": "Tuxla",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "TUXTLA GUTIERREZ",
+      "Value": "Tuxtla Gutierrez"
     },
     "OurElements": [
       {
