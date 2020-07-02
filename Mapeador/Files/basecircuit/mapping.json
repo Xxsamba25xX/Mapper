@@ -2532,6 +2532,12 @@
     "Longitude": "-3.533899"
   },
   {
+    "Key": "Falkland",
+    "Link": "https://www.google.com/maps/place/Falkland,+Cupar,+UK/@56.2523908,-3.2222569,14z/data=!3m1!4b1!4m5!3m4!1s0x48863601ab00dc69:0xf3283f41b20af275!8m2!3d56.256285!4d-3.206429",
+    "Latitude": "56.256285",
+    "Longitude": "-3.206429"
+  },
+  {
     "Key": "Faro",
     "Link": "https://www.google.com/maps/place/Faro,+Portugal/@37.2943191,-8.2046075,8.5z/data=!4m5!3m4!1s0xd0552e72290faa7:0x8d73c2d4494aff5a!8m2!3d37.0193548!4d-7.9304397",
     "Latitude": "37.0193558",
@@ -4726,6 +4732,12 @@
     "Link": "https://www.google.com/maps/place/Manila,+Gran+Manila,+Filipinas/@14.5964957,120.9445401,13z/data=!3m1!4b1!4m5!3m4!1s0x3397ca03571ec38b:0x69d1d5751069c11f!8m2!3d14.5995124!4d120.9842195",
     "Latitude": "14.5995124",
     "Longitude": "120.9842195"
+  },
+  {
+    "Key": "Mansfield",
+    "Link": "https://www.google.com/maps/place/Mansfield,+Reino+Unido/@53.175673,-1.347744,11z/data=!4m13!1m7!3m6!1s0x4879bb521a31d177:0xb78644adda10aa35!2sBosque+de+Sherwood!3b1!8m2!3d53.205875!4d-1.0860901!3m4!1s0x4879960103837b17:0x8ddae75902857c2a!8m2!3d53.1471822!4d-1.1987114",
+    "Latitude": "53.1471822",
+    "Longitude": "-1.1987114"
   },
   {
     "Key": "Marbella",
