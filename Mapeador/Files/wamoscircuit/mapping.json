@@ -1,6 +1,18 @@
 [
   {
     "ProviderElement": {
+      "Key": "AGB",
+      "Value": "AUGSBURG"
+    },
+    "OurElements": [
+      {
+        "Key": "Augsburgo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "AGR",
       "Value": "AGRA"
     },
@@ -31,6 +43,30 @@
     "OurElements": [
       {
         "Key": "Amsterdam",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ANK",
+      "Value": "ANKARA"
+    },
+    "OurElements": [
+      {
+        "Key": "Ankara",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ANR",
+      "Value": "AMBERES"
+    },
+    "OurElements": [
+      {
+        "Key": "Amberes",
         "Value": ""
       }
     ]
@@ -109,6 +145,30 @@
   },
   {
     "ProviderElement": {
+      "Key": "AVEIRO",
+      "Value": "AVEIRO"
+    },
+    "OurElements": [
+      {
+        "Key": "Aveiro",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "AVIL",
+      "Value": "AVILA"
+    },
+    "OurElements": [
+      {
+        "Key": "Avila",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "AYUTTHAYA",
       "Value": "AYUTTHAYA"
     },
@@ -139,6 +199,18 @@
     "OurElements": [
       {
         "Key": "Bagan",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "BASI",
+      "Value": "BASILEA"
+    },
+    "OurElements": [
+      {
+        "Key": "Basilea",
         "Value": ""
       }
     ]
@@ -277,6 +349,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "BNELLAL",
+      "Value": "BENI MELLAL"
+    },
+    "OurElements": [
+      {
+        "Key": "Beni-Melal",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "BOD",
       "Value": "BORDEAUX"
     },
@@ -349,6 +433,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "BTS",
+      "Value": "BRATISLAVA"
+    },
+    "OurElements": [
+      {
+        "Key": "Bratislava",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "BUD",
       "Value": "BUDAPEST"
     },
@@ -379,6 +475,18 @@
     "OurElements": [
       {
         "Key": "Bunratty",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "BURG",
+      "Value": "BURGOS"
+    },
+    "OurElements": [
+      {
+        "Key": "Burgos",
         "Value": ""
       }
     ]
@@ -493,12 +601,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "CBG",
+      "Value": "CAMBRIDGE"
+    },
+    "OurElements": [
+      {
+        "Key": "Cambridge",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "CEDI",
       "Value": "CASTILLO EDIMBURGO"
     },
     "OurElements": [
       {
         "Key": "Castillo-De-Edimburgo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "CEFALU",
+      "Value": "CEFALU"
+    },
+    "OurElements": [
+      {
+        "Key": "Cefalu",
         "Value": ""
       }
     ]
@@ -553,6 +685,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "CMR",
+      "Value": "COLMAR"
+    },
+    "OurElements": [
+      {
+        "Key": "Colmar",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "CNX",
       "Value": "CHIANG MAI"
     },
@@ -601,6 +745,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "CRETA",
+      "Value": "CRETA"
+    },
+    "OurElements": [
+      {
+        "Key": "Creta",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "CTA",
       "Value": "CATANIA"
     },
@@ -619,6 +775,18 @@
     "OurElements": [
       {
         "Key": "Costa-Del-Sol",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "CZW",
+      "Value": "CZESTOCHOWA"
+    },
+    "OurElements": [
+      {
+        "Key": "Czestochowa",
         "Value": ""
       }
     ]
@@ -769,12 +937,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "EFESO",
+      "Value": "EFESO"
+    },
+    "OurElements": [
+      {
+        "Key": "Efeso",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "EGGIWIL",
       "Value": "EGGIWIL"
     },
     "OurElements": [
       {
         "Key": "Eggiwil",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "EPID",
+      "Value": "EPIDAURO"
+    },
+    "OurElements": [
+      {
+        "Key": "Epidauro",
         "Value": ""
       }
     ]
@@ -811,6 +1003,30 @@
     "OurElements": [
       {
         "Key": "Erice",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ESCACERES",
+      "Value": "CACERES"
+    },
+    "OurElements": [
+      {
+        "Key": "Caceres",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ETARA",
+      "Value": "ETARA"
+    },
+    "OurElements": [
+      {
+        "Key": "Etara",
         "Value": ""
       }
     ]
@@ -877,12 +1093,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "FRIB",
+      "Value": "FRIBURGO"
+    },
+    "OurElements": [
+      {
+        "Key": "Friburgo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "GALILEA",
       "Value": "GALILEA"
     },
     "OurElements": [
       {
         "Key": "Galilea",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "GANTE",
+      "Value": "GANTE"
+    },
+    "OurElements": [
+      {
+        "Key": "Gante",
         "Value": ""
       }
     ]
@@ -955,6 +1195,30 @@
     "OurElements": [
       {
         "Key": "Galway",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "HAG",
+      "Value": "LA HAYA"
+    },
+    "OurElements": [
+      {
+        "Key": "La-Haya",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "HAJ",
+      "Value": "HANNOVER"
+    },
+    "OurElements": [
+      {
+        "Key": "Hannover",
         "Value": ""
       }
     ]
@@ -1117,6 +1381,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "IFRANNE",
+      "Value": "IFRANNE"
+    },
+    "OurElements": [
+      {
+        "Key": "Ifrán",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "INLE",
       "Value": "LAGO INLE"
     },
@@ -1267,6 +1543,18 @@
     "OurElements": [
       {
         "Key": "Kawayu-Onsen",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "KAZAN",
+      "Value": "KAZANLAK"
+    },
+    "OurElements": [
+      {
+        "Key": "Kazanlak",
         "Value": ""
       }
     ]
@@ -1489,12 +1777,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "LJU",
+      "Value": "LJUBLJANA"
+    },
+    "OurElements": [
+      {
+        "Key": "Liubliana",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "LMK",
       "Value": "LIMERICK"
     },
     "OurElements": [
       {
         "Key": "Limerick",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "LOIR",
+      "Value": "REGIÓN DEL LOIRA"
+    },
+    "OurElements": [
+      {
+        "Key": "Castillos-Del-Loira",
         "Value": ""
       }
     ]
@@ -1519,6 +1831,30 @@
     "OurElements": [
       {
         "Key": "Lourdes-Francia",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "LPL",
+      "Value": "LIVERPOOL"
+    },
+    "OurElements": [
+      {
+        "Key": "Liverpool",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "LUCE",
+      "Value": "LUCERNA"
+    },
+    "OurElements": [
+      {
+        "Key": "Lucerna",
         "Value": ""
       }
     ]
@@ -1597,12 +1933,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "MEK",
+      "Value": "MEKNES"
+    },
+    "OurElements": [
+      {
+        "Key": "Mequinez",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "MERIDA",
       "Value": "MERIDA"
     },
     "OurElements": [
       {
         "Key": "Merida",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "MICE",
+      "Value": "MICENAS"
+    },
+    "OurElements": [
+      {
+        "Key": "Micenas",
         "Value": ""
       }
     ]
@@ -1729,6 +2089,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "NOTO",
+      "Value": "NOTO"
+    },
+    "OurElements": [
+      {
+        "Key": "Noto",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "NUE",
       "Value": "NUREMBERG"
     },
@@ -1771,6 +2143,18 @@
     "OurElements": [
       {
         "Key": "Monywa",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "OBIDOS",
+      "Value": "OBIDOS"
+    },
+    "OurElements": [
+      {
+        "Key": "Obidos",
         "Value": ""
       }
     ]
@@ -1837,6 +2221,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "ORB",
+      "Value": "OREBRO"
+    },
+    "OurElements": [
+      {
+        "Key": "Orebro",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "ORK",
       "Value": "CORK"
     },
@@ -1897,6 +2293,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "OXF",
+      "Value": "OXFORD"
+    },
+    "OurElements": [
+      {
+        "Key": "Oxford",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "OZG",
       "Value": "ZAGORA"
     },
@@ -1927,6 +2335,30 @@
     "OurElements": [
       {
         "Key": "Paris",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PARNU",
+      "Value": "PARNU"
+    },
+    "OurElements": [
+      {
+        "Key": "Parnu",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PATMOS",
+      "Value": "PATMOS"
+    },
+    "OurElements": [
+      {
+        "Key": "Patmos",
         "Value": ""
       }
     ]
@@ -2017,6 +2449,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "PIARME",
+      "Value": "PIAZZA ARMERINA"
+    },
+    "OurElements": [
+      {
+        "Key": "Piazza-Armerina",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "PKR",
       "Value": "POKHARA"
     },
@@ -2077,6 +2521,30 @@
   },
   {
     "ProviderElement": {
+      "Key": "POCI",
+      "Value": "POCITELJ"
+    },
+    "OurElements": [
+      {
+        "Key": "Pocitelj",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "POREC",
+      "Value": "POREC"
+    },
+    "OurElements": [
+      {
+        "Key": "Porec",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "POZ",
       "Value": "POZNAN"
     },
@@ -2107,6 +2575,18 @@
     "OurElements": [
       {
         "Key": "Capri",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "PSA",
+      "Value": "PISA"
+    },
+    "OurElements": [
+      {
+        "Key": "Pisa",
         "Value": ""
       }
     ]
@@ -2209,12 +2689,48 @@
   },
   {
     "ProviderElement": {
+      "Key": "QMD",
+      "Value": "MADABA"
+    },
+    "OurElements": [
+      {
+        "Key": "Madaba",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "QME",
+      "Value": "MESSINA"
+    },
+    "OurElements": [
+      {
+        "Key": "Mesina",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "QNJ",
       "Value": "ANNEMASSE"
     },
     "OurElements": [
       {
         "Key": "Annemasse",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "QPA",
+      "Value": "PADUA"
+    },
+    "OurElements": [
+      {
+        "Key": "Padua",
         "Value": ""
       }
     ]
@@ -2233,12 +2749,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "QRG",
+      "Value": "RAGUSA"
+    },
+    "OurElements": [
+      {
+        "Key": "Ragusa",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "QSR",
       "Value": "SALERNO"
     },
     "OurElements": [
       {
         "Key": "Salerno",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "QTK",
+      "Value": "ROTHENBURG"
+    },
+    "OurElements": [
+      {
+        "Key": "Rothenburg-Ob-Der-Tauber",
         "Value": ""
       }
     ]
@@ -2305,12 +2845,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "RIBE",
+      "Value": "RIBEAUVILLE"
+    },
+    "OurElements": [
+      {
+        "Key": "Ribeauvillé",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "RIOKWAI",
       "Value": "RIO KWAI"
     },
     "OurElements": [
       {
         "Key": "Rio-Kwai",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "RIQUE",
+      "Value": "RIQUEWIHR"
+    },
+    "OurElements": [
+      {
+        "Key": "Riquewihr",
         "Value": ""
       }
     ]
@@ -2353,12 +2917,48 @@
   },
   {
     "ProviderElement": {
+      "Key": "ROVINJ",
+      "Value": "ROVINJ"
+    },
+    "OurElements": [
+      {
+        "Key": "Rovinj",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "RRO",
       "Value": "SORRENTO"
     },
     "OurElements": [
       {
         "Key": "Sorrento",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "RUNDALE",
+      "Value": "RUNDALE"
+    },
+    "OurElements": [
+      {
+        "Key": "Pilsrundale",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "SANGIMIG",
+      "Value": "SAN GIMIGNANO"
+    },
+    "OurElements": [
+      {
+        "Key": "San-Gimignano",
         "Value": ""
       }
     ]
@@ -2407,6 +3007,18 @@
     "OurElements": [
       {
         "Key": "Santiago-De-Compostela",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "SEGESTA",
+      "Value": "SEGESTA"
+    },
+    "OurElements": [
+      {
+        "Key": "Segesta",
         "Value": ""
       }
     ]
@@ -2485,6 +3097,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "SHOB",
+      "Value": "SHOBAK"
+    },
+    "OurElements": [
+      {
+        "Key": "Shawbak",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "SIA",
       "Value": "XIAN"
     },
@@ -2497,12 +3121,48 @@
   },
   {
     "ProviderElement": {
+      "Key": "SIBE",
+      "Value": "SIBENIK"
+    },
+    "OurElements": [
+      {
+        "Key": "Sibenik",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "SIBIE",
+      "Value": "SIBIEL"
+    },
+    "OurElements": [
+      {
+        "Key": "Sibiel",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "SIGH",
       "Value": "SIGHISOARA"
     },
     "OurElements": [
       {
         "Key": "Sighisoara",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "SIGULDA",
+      "Value": "SIGULDA"
+    },
+    "OurElements": [
+      {
+        "Key": "Sigulda",
         "Value": ""
       }
     ]
@@ -2581,6 +3241,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "SORREN",
+      "Value": "SORRENTO"
+    },
+    "OurElements": [
+      {
+        "Key": "Sorrento",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "SPU",
       "Value": "SPLIT"
     },
@@ -2605,12 +3277,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "STEINAM",
+      "Value": "STEIN AM RHEIN"
+    },
+    "OurElements": [
+      {
+        "Key": "Stein-Am-Rhein",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "STO",
       "Value": "STOCKHOLM"
     },
     "OurElements": [
       {
         "Key": "Estocolmo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "STRATF",
+      "Value": "STRATFORD UPON AVON"
+    },
+    "OurElements": [
+      {
+        "Key": "Stratford-Upon-Avon",
         "Value": ""
       }
     ]
@@ -2671,6 +3367,18 @@
     "OurElements": [
       {
         "Key": "Takayama",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "TAORMINA",
+      "Value": "TAORMINA"
+    },
+    "OurElements": [
+      {
+        "Key": "Taormina",
         "Value": ""
       }
     ]
@@ -2785,12 +3493,84 @@
   },
   {
     "ProviderElement": {
+      "Key": "TORUN",
+      "Value": "TORUN"
+    },
+    "OurElements": [
+      {
+        "Key": "Torun",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "TRAKAI",
+      "Value": "TRAKAI"
+    },
+    "OurElements": [
+      {
+        "Key": "Trakai",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "TRN",
       "Value": "TURIN"
     },
     "OurElements": [
       {
         "Key": "Turin",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "TROGIR",
+      "Value": "TROGIR"
+    },
+    "OurElements": [
+      {
+        "Key": "Trogir",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "TROY",
+      "Value": "TROYA"
+    },
+    "OurElements": [
+      {
+        "Key": "Troya",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "TRYA",
+      "Value": "TRYAVNA"
+    },
+    "OurElements": [
+      {
+        "Key": "Tryavna",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "TURAIDA",
+      "Value": "TURAIDA"
+    },
+    "OurElements": [
+      {
+        "Key": "Turaida",
         "Value": ""
       }
     ]
@@ -2965,6 +3745,30 @@
   },
   {
     "ProviderElement": {
+      "Key": "VRN",
+      "Value": "VERONA"
+    },
+    "OurElements": [
+      {
+        "Key": "Verona",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "WADI",
+      "Value": "WADI RUM"
+    },
+    "OurElements": [
+      {
+        "Key": "Wadi-Rum",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "WAS",
       "Value": "WASHINGTON            DC"
     },
@@ -3001,6 +3805,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "XBQ",
+      "Value": "BLOIS"
+    },
+    "OurElements": [
+      {
+        "Key": "Blois",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "XKU",
       "Value": "KUSADASI"
     },
@@ -3019,6 +3835,30 @@
     "OurElements": [
       {
         "Key": "Jerez-De-La-Frontera",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "XVU",
+      "Value": "DURHAM"
+    },
+    "OurElements": [
+      {
+        "Key": "Durham",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "XXL",
+      "Value": "LILLEHAMMER"
+    },
+    "OurElements": [
+      {
+        "Key": "Lillehammer",
         "Value": ""
       }
     ]
@@ -3151,6 +3991,30 @@
     "OurElements": [
       {
         "Key": "Zagreb",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ZCC",
+      "Value": "BADEN-BADEN"
+    },
+    "OurElements": [
+      {
+        "Key": "Baden-Baden",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "ZGJ",
+      "Value": "BRUJAS"
+    },
+    "OurElements": [
+      {
+        "Key": "Brujas",
         "Value": ""
       }
     ]

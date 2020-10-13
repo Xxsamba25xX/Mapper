@@ -37,6 +37,30 @@
   },
   {
     "ProviderElement": {
+      "Key": "Belfast",
+      "Value": "Belfast"
+    },
+    "OurElements": [
+      {
+        "Key": "Belfast",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "Belgrado",
+      "Value": "Belgrado"
+    },
+    "OurElements": [
+      {
+        "Key": "Belgrado",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "Bergen",
       "Value": "Bergen"
     },
@@ -85,6 +109,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "Brno",
+      "Value": "Brno"
+    },
+    "OurElements": [
+      {
+        "Key": "Brno",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "Brujas",
       "Value": "Brujas"
     },
@@ -115,6 +151,30 @@
     "OurElements": [
       {
         "Key": "Budapest",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "Budapeste",
+      "Value": "Budapeste"
+    },
+    "OurElements": [
+      {
+        "Key": "Budapest",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "Budva",
+      "Value": "Budva"
+    },
+    "OurElements": [
+      {
+        "Key": "Budva",
         "Value": ""
       }
     ]
@@ -157,6 +217,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "Cork",
+      "Value": "Cork"
+    },
+    "OurElements": [
+      {
+        "Key": "Cork",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "Cracovia",
       "Value": "Cracovia"
     },
@@ -169,12 +241,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "Derry",
+      "Value": "Derry"
+    },
+    "OurElements": [
+      {
+        "Key": "Derry",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "Dijon",
       "Value": "Dijon"
     },
     "OurElements": [
       {
         "Key": "Dijon",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "Dublin",
+      "Value": "Dublin"
+    },
+    "OurElements": [
+      {
+        "Key": "Dublin",
         "Value": ""
       }
     ]
@@ -241,6 +337,30 @@
   },
   {
     "ProviderElement": {
+      "Key": "Galway",
+      "Value": "Galway"
+    },
+    "OurElements": [
+      {
+        "Key": "Galway",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "Gdansk",
+      "Value": "Gdansk"
+    },
+    "OurElements": [
+      {
+        "Key": "Gdansk",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "Glasgow",
       "Value": "Glasgow"
     },
@@ -295,6 +415,18 @@
     "OurElements": [
       {
         "Key": "Interlaken",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "Kristiansand",
+      "Value": "Kristiansand"
+    },
+    "OurElements": [
+      {
+        "Key": "Kristiansand",
         "Value": ""
       }
     ]
@@ -385,6 +517,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "Milan",
+      "Value": "Milan"
+    },
+    "OurElements": [
+      {
+        "Key": "Milan",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "Milán",
       "Value": "Milán"
     },
@@ -433,12 +577,48 @@
   },
   {
     "ProviderElement": {
+      "Key": "Moscú",
+      "Value": "Moscú"
+    },
+    "OurElements": [
+      {
+        "Key": "Moscu",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "Munich",
       "Value": "Munich"
     },
     "OurElements": [
       {
         "Key": "Munich",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "Niza",
+      "Value": "Niza"
+    },
+    "OurElements": [
+      {
+        "Key": "Niza",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "Olomouc",
+      "Value": "Olomouc"
+    },
+    "OurElements": [
+      {
+        "Key": "Olomouc",
         "Value": ""
       }
     ]
@@ -541,6 +721,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "Skopje",
+      "Value": "Skopje"
+    },
+    "OurElements": [
+      {
+        "Key": "Skopie",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "Split",
       "Value": "Split"
     },
@@ -601,6 +793,30 @@
   },
   {
     "ProviderElement": {
+      "Key": "Tirana",
+      "Value": "Tirana"
+    },
+    "OurElements": [
+      {
+        "Key": "Tirana",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "Tromsö",
+      "Value": "Tromsö"
+    },
+    "OurElements": [
+      {
+        "Key": "Tromso",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "Varsovia",
       "Value": "Varsovia"
     },
@@ -637,12 +853,36 @@
   },
   {
     "ProviderElement": {
+      "Key": "Wroclaw",
+      "Value": "Wroclaw"
+    },
+    "OurElements": [
+      {
+        "Key": "Wroclaw",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "Yaroslavl",
       "Value": "Yaroslavl"
     },
     "OurElements": [
       {
         "Key": "Yaroslavl",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "York",
+      "Value": "York"
+    },
+    "OurElements": [
+      {
+        "Key": "York",
         "Value": ""
       }
     ]

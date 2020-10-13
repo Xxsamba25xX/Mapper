@@ -468,6 +468,12 @@
     "Longitude": "174.7633315"
   },
   {
+    "Key": "Augsburgo",
+    "Link": "https://www.google.com/maps/place/Augsburgo,+Alemania/@48.3583142,10.7213582,11z/data=!3m1!4b1!4m5!3m4!1s0x479ea2c53a212b29:0x41e48add78be7a0!8m2!3d48.3705449!4d10.89779",
+    "Latitude": "48.3705449",
+    "Longitude": "10.89779"
+  },
+  {
     "Key": "Augustow",
     "Link": "https://www.google.com/maps/place/Augustow,+Polonia/@53.8449928,22.9397777,12z/data=!3m1!4b1!4m5!3m4!1s0x46e0505609dd208d:0xea806f10b88a9f4a!8m2!3d53.8434431!4d22.9796024",
     "Latitude": "53.8434431",
@@ -694,6 +700,12 @@
     "Link": "https://www.google.com/maps/place/7071+Basarbovo,+Bulgaria/@43.7749326,25.9398723,15z/data=!3m1!4b1!4m5!3m4!1s0x40aef541c6066693:0xff450641d154fc57!8m2!3d43.776768!4d25.9509437",
     "Latitude": "43.776768",
     "Longitude": "25.9509437"
+  },
+  {
+    "Key": "Basilea",
+    "Link": "https://www.google.com/maps/place/Basilea,+Suiza/@47.5546492,7.5594406,13z/data=!3m1!4b1!4m5!3m4!1s0x479049c72769304f:0x361ceb70f36d8a90!8m2!3d47.5595986!4d7.5885761",
+    "Latitude": "47.5595986",
+    "Longitude": "7.5885761"
   },
   {
     "Key": "Bastia",
@@ -1894,6 +1906,12 @@
     "Link": "https://www.google.com/maps/place/19500+Collonges-la-Rouge,+Francia/@45.0613331,1.6188546,13z/data=!3m1!4b1!4m5!3m4!1s0x47f89c9da050e495:0x405d39260ee7550!8m2!3d45.060939!4d1.654225",
     "Latitude": "45.060939",
     "Longitude": "1.654225"
+  },
+  {
+    "Key": "Colmar",
+    "Link": "https://www.google.com/maps/place/68000+Colmar,+Francia/@48.1115912,7.3223645,12z/data=!3m1!4b1!4m5!3m4!1s0x479165dff670c1cf:0xe35d7e3e616ce966!8m2!3d48.0793589!4d7.358512",
+    "Latitude": "48.0793589",
+    "Longitude": "7.358512"
   },
   {
     "Key": "Cologne",
@@ -3412,6 +3430,12 @@
     "Link": "https://www.google.com/maps/place/Ifaty,+Madagascar/@-23.1344767,43.5790423,13z/data=!3m1!4b1!4m5!3m4!1s0x1f646d3eafc2bb7d:0x6ddd1d40ab2677d7!8m2!3d-23.14532!4d43.6159332",
     "Latitude": "-23.14532",
     "Longitude": "43.6159332"
+  },
+  {
+    "Key": "Ifrán",
+    "Link": "https://www.google.com/maps/place/Ifr%C3%A1n,+Marruecos/@33.5178275,-5.1977368,12z/data=!3m1!4b1!4m5!3m4!1s0xda1d772f32d140b:0x7253cf1d404c7ca3!8m2!3d33.5228062!4d-5.1109552",
+    "Latitude": "33.5228062",
+    "Longitude": "-5.1109552"
   },
   {
     "Key": "Igumenitsa",
@@ -6612,6 +6636,12 @@
     "Longitude": "-7.11440372"
   },
   {
+    "Key": "Ribeauvillé",
+    "Link": "https://www.google.com/maps/place/Ribeauvill%C3%A9,+Francia/@48.2087802,7.2242051,12z/data=!3m1!4b1!4m5!3m4!1s0x47915dcff25f265d:0xbd5a8b8da1add856!8m2!3d48.194668!4d7.319091",
+    "Latitude": "48.194668",
+    "Longitude": "7.319091"
+  },
+  {
     "Key": "Riga",
     "Link": "https://www.google.com.ar/maps/place/Riga,+Letonia/@56.9711614,23.8489883,10z/data=!3m1!4b1!4m5!3m4!1s0x46eecfb0e5073ded:0x400cfcd68f2fe30!8m2!3d56.9496487!4d24.1051865",
     "Latitude": "56.9496487",
@@ -6658,6 +6688,12 @@
     "Link": "https://www.google.com/maps/place/R%C3%ADo+Kwai/@14.3348692,98.7885471,10z/data=!3m1!4b1!4m5!3m4!1s0x30e37fcc8f9fbd4d:0xc6672bf84ed41781!8m2!3d14.3014713!4d98.9867286",
     "Latitude": "14.3014713",
     "Longitude": "98.9867286"
+  },
+  {
+    "Key": "Riquewihr",
+    "Link": "https://www.google.com/maps/place/68340+Riquewihr,+Francia/@48.1792606,7.1988315,12z/data=!3m1!4b1!4m5!3m4!1s0x47915e3028409b87:0x40a5fb99a393020!8m2!3d48.166158!4d7.299822",
+    "Latitude": "48.166158",
+    "Longitude": "7.299822"
   },
   {
     "Key": "Rocamadour",
@@ -7932,6 +7968,12 @@
     "Longitude": "8.1229329"
   },
   {
+    "Key": "Trakai",
+    "Link": "https://www.google.com/maps/place/Trakai,+Lituania/@54.6430005,24.8933233,13z/data=!3m1!4b1!4m5!3m4!1s0x46ddf374628607db:0xfe90f5881befe3d9!8m2!3d54.6379113!4d24.9346894",
+    "Latitude": "54.6379113",
+    "Longitude": "24.9346894"
+  },
+  {
     "Key": "Trani",
     "Link": "https://www.google.com/maps/place/76125+Trani,+Barletta-Andria-Trani,+Italia/@41.2747789,16.3738786,13z/data=!3m1!4b1!4m5!3m4!1s0x1338046c70780ea3:0x3e4422a665b12fd6!8m2!3d41.2774857!4d16.4178334",
     "Latitude": "41.2774857",
@@ -8014,6 +8056,12 @@
     "Link": "https://www.google.com/maps/place/Trujillo,+Per%C3%BA/@-8.1166692,-79.0543565,13z/data=!3m1!4b1!4m13!1m7!3m6!1s0x9052ae5dd3eabfb5:0x4e5f1251886f0dc7!2sLa+Libertad,+Per%C3%BA!3b1!8m2!3d-8.1435933!4d-78.4751945!3m4!1s0x91ad3d7fe3fae92d:0xd3bc7d125d4e8508!8m2!3d-8.1054577!4d-79.0328979",
     "Latitude": "-8.1054577",
     "Longitude": "-79.0328979"
+  },
+  {
+    "Key": "Tryavna",
+    "Link": "https://www.google.com/maps/place/Tryavna,+Bulgaria/@42.8711178,25.4585127,13z/data=!3m1!4b1!4m5!3m4!1s0x40a8e296d66cc345:0x400a01269bf5040!8m2!3d42.876652!4d25.4988388",
+    "Latitude": "42.876652",
+    "Longitude": "25.4988388"
   },
   {
     "Key": "Tsavo-Este",
