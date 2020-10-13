@@ -1,0 +1,86 @@
+[
+  {
+    "ProviderElement": {
+      "Key": "1599",
+      "Value": "Arequipa"
+    },
+    "OurElements": [
+      {
+        "Key": "Arequipa",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "1603",
+      "Value": "Cusco"
+    },
+    "OurElements": [
+      {
+        "Key": "Cusco",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "1606",
+      "Value": "Ica"
+    },
+    "OurElements": [
+      {
+        "Key": "Ica",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "1608",
+      "Value": "La Libertad"
+    },
+    "OurElements": [
+      {
+        "Key": "Trujillo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "1609",
+      "Value": "Lambayeque"
+    },
+    "OurElements": [
+      {
+        "Key": "Chiclayo",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "1610",
+      "Value": "Lima"
+    },
+    "OurElements": [
+      {
+        "Key": "Lima",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "1616",
+      "Value": "Puno"
+    },
+    "OurElements": [
+      {
+        "Key": "Puno",
+        "Value": ""
+      }
+    ]
+  }
+]

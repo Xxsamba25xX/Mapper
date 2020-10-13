@@ -372,6 +372,12 @@
     "Longitude": "25.6691987"
   },
   {
+    "Key": "Arequipa",
+    "Link": "https://www.google.com/maps/place/Arequipa,+Per%C3%BA/@-16.4039671,-71.5740312,13z/data=!3m1!4b1!4m5!3m4!1s0x91424a487785b9b3:0xa3c4a612b9942036!8m2!3d-16.4090474!4d-71.537451",
+    "Latitude": "-16.4090474",
+    "Longitude": "-71.537451"
+  },
+  {
     "Key": "Arles",
     "Link": "https://www.google.com/maps/place/Arl%C3%A9s,+Francia/@43.5442264,4.3710815,10z/data=!3m1!4b1!4m5!3m4!1s0x12b672075d4814cd:0x40819a5fd970550!8m2!3d43.676647!4d4.6277769",
     "Latitude": "43.676647",
@@ -1764,6 +1770,12 @@
     "Longitude": "-91.1089244"
   },
   {
+    "Key": "Chiclayo",
+    "Link": "https://www.google.com/maps/place/Chiclayo,+Per%C3%BA/@-6.7815643,-79.8840603,13z/data=!3m1!4b1!4m13!1m7!3m6!1s0x904b65aa1132bf57:0x84d064674627cfb4!2sLambayeque,+Per%C3%BA!3b1!8m2!3d-6.4776528!4d-79.9192702!3m4!1s0x904cef232963dfff:0xa703e3454a7814bb!8m2!3d-6.7696251!4d-79.8554993",
+    "Latitude": "-6.7696251",
+    "Longitude": "-79.8554993"
+  },
+  {
     "Key": "Chinon",
     "Link": "https://www.google.com/maps/place/37500+Chinon,+Francia/@47.1693024,0.1732152,12z/data=!3m1!4b1!4m5!3m4!1s0x47fd418161944fab:0x6a71743c76ccc047!8m2!3d47.167296!4d0.240385",
     "Latitude": "47.167296",
@@ -2056,6 +2068,12 @@
     "Link": "https://www.google.com/maps/place/Creta,+Grecia/@35.2453617,23.7907279,8z/data=!3m1!4b1!4m5!3m4!1s0x149b03d7c58fb783:0xbb32941128619998!8m2!3d35.240117!4d24.8092691",
     "Latitude": "35.240117",
     "Longitude": "24.8092691"
+  },
+  {
+    "Key": "Cusco",
+    "Link": "https://www.google.com/maps/place/Cusco,+Per%C3%BA/@-13.5300096,-72.0092896,12z/data=!3m1!4b1!4m5!3m4!1s0x916dd5d826598431:0x2aa996cc2318315d!8m2!3d-13.53195!4d-71.9674626",
+    "Latitude": "-13.53195",
+    "Longitude": "-71.9674626"
   },
   {
     "Key": "Czestochowa",
@@ -3384,6 +3402,12 @@
     "Longitude": "-20.22087"
   },
   {
+    "Key": "Ica",
+    "Link": "https://www.google.com/maps/place/Ica,+Per%C3%BA/@-14.0836684,-75.7806773,13z/data=!3m1!4b1!4m5!3m4!1s0x9110e2c3cec74f3d:0x5ce1a2b590e67ecd!8m2!3d-14.07546!4d-75.7341811",
+    "Latitude": "-14.07546",
+    "Longitude": "-75.7341811"
+  },
+  {
     "Key": "Ifaty",
     "Link": "https://www.google.com/maps/place/Ifaty,+Madagascar/@-23.1344767,43.5790423,13z/data=!3m1!4b1!4m5!3m4!1s0x1f646d3eafc2bb7d:0x6ddd1d40ab2677d7!8m2!3d-23.14532!4d43.6159332",
     "Latitude": "-23.14532",
@@ -4384,6 +4408,12 @@
     "Link": "https://www.google.com.ar/maps/place/Lillehammer,+Noruega/@61.1123102,10.4037433,12z/data=!3m1!4b1!4m5!3m4!1s0x466a62a7f7b5288d:0x32273ad34a5bed34!8m2!3d61.1152713!4d10.4662306",
     "Latitude": "61.1152713",
     "Longitude": "10.4662306"
+  },
+  {
+    "Key": "Lima",
+    "Link": "https://www.google.com/maps/place/Lima,+Per%C3%BA/@-12.025827,-77.2679845,10z/data=!3m1!4b1!4m5!3m4!1s0x9105c5f619ee3ec7:0x14206cb9cc452e4a!8m2!3d-12.0463731!4d-77.042754",
+    "Latitude": "-12.0463731",
+    "Longitude": "-77.042754"
   },
   {
     "Key": "Limerick",
@@ -6426,6 +6456,12 @@
     "Longitude": "76.3550457"
   },
   {
+    "Key": "Puno",
+    "Link": "https://www.google.com/maps/place/Puno,+Per%C3%BA/@-15.8362495,-70.0282263,14.5z/data=!4m5!3m4!1s0x915d6985f4e74135:0x1e341dd8f24d32cf!8m2!3d-15.8402218!4d-70.0218805",
+    "Latitude": "-15.8402218",
+    "Longitude": "-70.0218805"
+  },
+  {
     "Key": "Pushkar",
     "Link": "https://www.google.com/maps/place/P%C3%BAshkar,+Rajast%C3%A1n,+India/@26.4866875,74.5288577,14z/data=!3m1!4b1!4m5!3m4!1s0x396bdd22e5572a2f:0xb8733d912fcdf2ea!8m2!3d26.4885822!4d74.5509422",
     "Latitude": "26.4885822",
@@ -7972,6 +8008,12 @@
     "Link": "https://www.google.com.ar/maps/place/Ancient+City+of+Troy/@39.9574843,26.2367064,17z/data=!3m1!4b1!4m5!3m4!1s0x14b05025420d2251:0xb573bfef2cf9ea13!8m2!3d39.9574802!4d26.2388951",
     "Latitude": "39.9574802",
     "Longitude": "26.2388951"
+  },
+  {
+    "Key": "Trujillo",
+    "Link": "https://www.google.com/maps/place/Trujillo,+Per%C3%BA/@-8.1166692,-79.0543565,13z/data=!3m1!4b1!4m13!1m7!3m6!1s0x9052ae5dd3eabfb5:0x4e5f1251886f0dc7!2sLa+Libertad,+Per%C3%BA!3b1!8m2!3d-8.1435933!4d-78.4751945!3m4!1s0x91ad3d7fe3fae92d:0xd3bc7d125d4e8508!8m2!3d-8.1054577!4d-79.0328979",
+    "Latitude": "-8.1054577",
+    "Longitude": "-79.0328979"
   },
   {
     "Key": "Tsavo-Este",
