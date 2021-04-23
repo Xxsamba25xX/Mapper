@@ -240,6 +240,12 @@
     "Longitude": "-8.082649"
   },
   {
+    "Key": "Amarapura",
+    "Link": "https://www.google.com.ar/maps/place/Amarapura,+Myanmar+(Birmania)/@21.9084748,96.0112912,13z/data=!3m1!4b1!4m13!1m7!3m6!1s0x30cb6d23f0d27411:0x24146be01e4e5646!2sMandalay,+Myanmar+(Birmania)!3b1!8m2!3d21.9588282!4d96.0891032!3m4!1s0x30cb0d00898f501f:0x16a32a23d29f9da3!8m2!3d21.9038707!4d96.0493469",
+    "Latitude": "21.9038707",
+    "Longitude": "96.0493469"
+  },
+  {
     "Key": "Amarillo",
     "Link": "https://www.google.com/maps/place/Amarillo,+Texas,+EE.+UU./@35.2018863,-101.9450262,11z/data=!3m1!4b1!4m5!3m4!1s0x870148d4b245cf03:0xd0f3d11c6836d2af!8m2!3d35.2219971!4d-101.8312969",
     "Latitude": "35.2219971",
@@ -286,6 +292,12 @@
     "Link": "https://www.google.com/maps/place/%C3%81msterdam,+Pa%C3%ADses+Bajos/@52.3545653,4.7585393,11z/data=!3m1!4b1!4m5!3m4!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!8m2!3d52.3679843!4d4.9035614",
     "Latitude": "52.3679848",
     "Longitude": "4.90356159"
+  },
+  {
+    "Key": "Anantapur",
+    "Link": "https://www.google.com.ar/maps/place/Anantapur,+Andhra+Pradesh,+India/@14.6650406,77.5591011,13z/data=!3m1!4b1!4m5!3m4!1s0x3bb14ac2e6404f37:0xb810d064e2ce70e8!8m2!3d14.6818877!4d77.6005911",
+    "Latitude": "14.6818877",
+    "Longitude": "77.6005911"
   },
   {
     "Key": "Ancona",
@@ -432,6 +444,12 @@
     "Longitude": "12.6195965"
   },
   {
+    "Key": "Asiut",
+    "Link": "https://www.google.com.ar/maps/place/Asiut,+Al+Hamraa+Ath+Thaneyah,+Al+Fath,+Gobernaci%C3%B3n+de+Asiut,+Egipto/@27.1770706,31.1668655,14z/data=!3m1!4b1!4m5!3m4!1s0x14450be607cb7bcd:0xba699162bfc01112!8m2!3d27.1783117!4d31.1859257",
+    "Latitude": "27.1783117",
+    "Longitude": "31.1859257"
+  },
+  {
     "Key": "Aspendos",
     "Link": "https://www.google.com/maps/place/Aspendos+Ancient+City/@36.939031,31.171394,16.75z/data=!4m13!1m7!3m6!1s0x14c36299ffdc2973:0x8c2250677132027b!2sSerik,+Provincia+de+Antalya,+Turqu%C3%ADa!3b1!8m2!3d36.917399!4d31.104447!3m4!1s0x0:0x7181c12a3f3c6b15!8m2!3d36.9392914!4d31.1718526",
     "Latitude": "36.9392914",
@@ -478,6 +496,12 @@
     "Link": "https://www.google.com/maps/place/Augustow,+Polonia/@53.8449928,22.9397777,12z/data=!3m1!4b1!4m5!3m4!1s0x46e0505609dd208d:0xea806f10b88a9f4a!8m2!3d53.8434431!4d22.9796024",
     "Latitude": "53.8434431",
     "Longitude": "22.9796024"
+  },
+  {
+    "Key": "Ava",
+    "Link": "https://www.google.com.ar/maps/place/Ava,+Myanmar+(Birmania)/@21.8576149,95.9733223,15z/data=!3m1!4b1!4m5!3m4!1s0x30cb098edd25ac09:0x80523a844a9a2c0d!8m2!3d21.8573533!4d95.9819358",
+    "Latitude": "21.8573533",
+    "Longitude": "95.9819358"
   },
   {
     "Key": "Avanos",
@@ -664,6 +688,12 @@
     "Link": "https://www.google.com/maps/place/Banff,+Alberta,+Canad%C3%A1/@51.1773316,-115.6029414,13z/data=!3m1!4b1!4m5!3m4!1s0x5370ca45910c4afd:0xcaafaebedaac9463!8m2!3d51.1783972!4d-115.5708074",
     "Latitude": "51.1783972",
     "Longitude": "-115.5708074"
+  },
+  {
+    "Key": "Bangalore",
+    "Link": "https://www.google.com.ar/maps/place/Bangalore,+Karnataka,+India/@12.9545163,77.3500641,10z/data=!3m1!4b1!4m5!3m4!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9715987!4d77.5945627",
+    "Latitude": "12.9715987",
+    "Longitude": "77.5945627"
   },
   {
     "Key": "Bangkok",
@@ -910,6 +940,12 @@
     "Link": "https://www.google.com/maps/place/Bilbao,+Vizcaya,+Espa%C3%B1a/@43.2633182,-2.9685839,13z/data=!3m1!4b1!4m5!3m4!1s0xd4e4e27664b89b9:0x6534acc41e95a645!8m2!3d43.2630126!4d-2.9349852",
     "Latitude": "43.2630119",
     "Longitude": "-2.93498516"
+  },
+  {
+    "Key": "Biskek",
+    "Link": "https://www.google.com.ar/maps/place/Biskek,+Kirguist%C3%A1n/@42.8770408,74.4514347,11z/data=!3m1!4b1!4m5!3m4!1s0x389eb7dc91b3c881:0x492ebaf57cdee27d!8m2!3d42.8746212!4d74.5697617",
+    "Latitude": "42.8746212",
+    "Longitude": "74.5697617"
   },
   {
     "Key": "Bistrita",
@@ -1242,6 +1278,12 @@
     "Longitude": "29.6931655"
   },
   {
+    "Key": "Bylakuppe",
+    "Link": "https://www.google.com.ar/maps/place/Bylakuppe,+Karnataka,+India/@12.4108389,75.9446663,13z/data=!3m1!4b1!4m5!3m4!1s0x3ba5a73bc8ca5f3d:0x76440351e2edfbe6!8m2!3d12.4025539!4d75.9811564",
+    "Latitude": "12.4025539",
+    "Longitude": "75.9811564"
+  },
+  {
     "Key": "Cabo-Norte",
     "Link": "https://www.google.com.ar/maps/place/Cabo+Norte/@71.170955,25.7814712,17z/data=!3m1!4b1!4m5!3m4!1s0x45c84d095f47a5f3:0xf9f9b4271afddf7e!8m2!3d71.1709533!4d25.7836599",
     "Latitude": "71.1709533",
@@ -1300,6 +1342,12 @@
     "Link": "https://www.google.com.ar/maps/place/Calais,+Francia/@50.9519343,1.8339366,13z/data=!3m1!4b1!4m5!3m4!1s0x47dc3f75d7f1e363:0xacbed9e08cd279f4!8m2!3d50.95129!4d1.858686",
     "Latitude": "50.95129",
     "Longitude": "1.858686"
+  },
+  {
+    "Key": "Calcuta",
+    "Link": "https://www.google.com.ar/maps/place/Calcuta,+Kerala,+India/@11.2559949,75.7406021,12z/data=!3m1!4b1!4m5!3m4!1s0x3ba65938563d4747:0x32150641ca32ecab!8m2!3d11.2587531!4d75.78041",
+    "Latitude": "11.2587531",
+    "Longitude": "75.78041"
   },
   {
     "Key": "Calgary",
@@ -1734,6 +1782,12 @@
     "Longitude": "-2.893075"
   },
   {
+    "Key": "Chettinadu",
+    "Link": "https://www.google.com.ar/maps/place/Chettinadu,+Tamil+Nadu+630102,+India/@10.1606127,78.7597152,14z/data=!3m1!4b1!4m5!3m4!1s0x3b006426bdc30c93:0x8af751d4df7f77ff!8m2!3d10.1605711!4d78.7772677",
+    "Latitude": "10.1605711",
+    "Longitude": "78.7772677"
+  },
+  {
     "Key": "Chetumal",
     "Link": "https://www.google.com/maps/place/Chetumal,+Q.R.,+M%C3%A9xico/@18.5221567,-88.3398839,13z/data=!3m1!4b1!4m5!3m4!1s0x8f5ba3552cd7f90f:0x2149ecd7f0b553ed!8m2!3d18.5001889!4d-88.296146",
     "Latitude": "18.5001889",
@@ -1806,10 +1860,22 @@
     "Longitude": "24.4292148"
   },
   {
+    "Key": "Cholpon-Ata",
+    "Link": "https://www.google.com.ar/maps/place/Cholpon-Ata,+Kirguist%C3%A1n/@42.6463249,77.0486206,13z/data=!3m1!4b1!4m8!1m2!2m1!1sCholpon+Aty!3m4!1s0x3884f13ef943156b:0xb9927fc9c380d0d8!8m2!3d42.6503176!4d77.0852258",
+    "Latitude": "42.6503176",
+    "Longitude": "77.0852258"
+  },
+  {
     "Key": "Cholula",
     "Link": "https://www.google.com/maps/place/Cholula,+Pue.,+M%C3%A9xico/@18.4465124,-98.9205012,8z/data=!4m29!1m23!4m22!1m6!1m2!1s0x85d1eaf94e01ddc9:0xc77ed523147164da!2sTeotihuacan+de+Arista,+M%C3%A9x.,+M%C3%A9xico!2m2!1d-98.8716361!2d19.6860799!1m6!1m2!1s0x85cfc8a16b13cfb1:0x2825dd848e53ec4a!2sCholula,+Pue.,+M%C3%A9xico!2m2!1d-98.3156742!2d19.0715049!1m6!1m2!1s0x85c72249df26d9b1:0xac88a77657dffc3b!2zT2F4YWNhLCBPYXguLCBNw6l4aWNv!2m2!1d-96.7265889!2d17.0731842!3e0!3m4!1s0x85cfc8a16b13cfb1:0x2825dd848e53ec4a!8m2!3d19.0715049!4d-98.3156742",
     "Latitude": "19.0715049",
     "Longitude": "-98.3156742"
+  },
+  {
+    "Key": "Chon-Kemin",
+    "Link": "https://www.google.com.ar/maps/place/Chon-Kemin/@42.720402,75.8509109,10z/data=!3m1!4b1!4m5!3m4!1s0x389b6996fb17fff3:0x1495f6a9fa060fee!8m2!3d42.7441757!4d76.1277866",
+    "Latitude": "42.7441757",
+    "Longitude": "76.1277866"
   },
   {
     "Key": "Chott-El-Djerid",
@@ -2046,6 +2112,12 @@
     "Longitude": "-5.0390536"
   },
   {
+    "Key": "Costa-Nova",
+    "Link": "https://www.google.com.ar/maps/place/Costa+Nova,+3830-451+Gafanha+da+Encarna%C3%A7%C3%A3o,+Portugal/@40.615056,-8.768253,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0xd23be060973d6b7:0xab188da2a58196b6!2sPraia+da+Costa+Nova!3b1!8m2!3d40.617471!4d-8.753421!3m4!1s0xd23be085852b79d:0x9523acd40ff893f5!8m2!3d40.6150275!4d-8.7507015",
+    "Latitude": "40.6150275",
+    "Longitude": "-8.7507015"
+  },
+  {
     "Key": "Cote-D-Azur",
     "Link": "https://www.google.com/maps/place/Costa+Azul,+Francia/@43.3881969,5.9603058,9z/data=!3m1!4b1!4m5!3m4!1s0x12cebc738732d97f:0x594966412c5651c0!8m2!3d43.2547731!4d6.6378577",
     "Latitude": "43.2547731",
@@ -2160,6 +2232,12 @@
     "Longitude": "0.075122"
   },
   {
+    "Key": "Dehradun",
+    "Link": "https://www.google.com.ar/maps/place/Dehradun,+Uttarakhand,+India/@30.3255579,77.9469231,12z/data=!3m1!4b1!4m5!3m4!1s0x390929c356c888af:0x4c3562c032518799!8m2!3d30.3164945!4d78.0321918",
+    "Latitude": "30.3164945",
+    "Longitude": "78.0321918"
+  },
+  {
     "Key": "Delfos",
     "Link": "https://www.google.com.ar/maps/place/Delfos,+Grecia/@38.498532,22.4142324,12z/data=!3m1!4b1!4m5!3m4!1s0x135f797d8f514e69:0x40a2d0163e397084!8m2!3d38.4800401!4d22.494079",
     "Latitude": "38.4800401",
@@ -2194,6 +2272,12 @@
     "Link": "https://www.google.com/maps/place/Londonderry,+Reino+Unido/@55.0067439,-7.3816855,12z/data=!3m1!4b1!4m5!3m4!1s0x485fdde434d09363:0xbd21fa2ac755f32f!8m2!3d54.9966124!4d-7.3085748",
     "Latitude": "54.9966124",
     "Longitude": "-7.3085748"
+  },
+  {
+    "Key": "Dharamsala",
+    "Link": "https://www.google.com.ar/maps/place/Dharamsala,+Himachal+Pradesh,+India/@32.2168136,76.3016127,14z/data=!3m1!4b1!4m5!3m4!1s0x391b50df65bd7311:0x3e08bdb100c6dc10!8m2!3d32.219042!4d76.3234037",
+    "Latitude": "32.219042",
+    "Longitude": "76.3234037"
   },
   {
     "Key": "Dieppe",
@@ -2314,6 +2398,12 @@
     "Link": "https://www.google.com/maps/place/D%C3%BCsseldorf,+Alemania/@51.2383711,6.674267,11z/data=!3m1!4b1!4m5!3m4!1s0x47b8c97bf1465907:0x42760fc4a2a73b0!8m2!3d51.2277411!4d6.7734556",
     "Latitude": "51.2277411",
     "Longitude": "6.7734556"
+  },
+  {
+    "Key": "Dustlik",
+    "Link": "https://www.google.com.ar/maps/place/Dustlik,+Uzbekist%C3%A1n/@40.523403,68.0154346,14z/data=!3m1!4b1!4m5!3m4!1s0x38ad7a305c41f077:0x4637a6ba454a195b!8m2!3d40.5292313!4d68.0298654",
+    "Latitude": "40.5292313",
+    "Longitude": "68.0298654"
   },
   {
     "Key": "Edfu",
@@ -2596,6 +2686,12 @@
     "Link": "https://www.google.com/maps/place/Feldkirch,+Austria/@47.2520936,9.511785,12z/data=!3m1!4b1!4m5!3m4!1s0x479b3bd82eb275cf:0xf91dbdbc8db78df0!8m2!3d47.24128!4d9.6019",
     "Latitude": "47.24128",
     "Longitude": "9.6019"
+  },
+  {
+    "Key": "Ferganá",
+    "Link": "https://www.google.com.ar/maps/place/Fergan%C3%A1,+Uzbekist%C3%A1n/@40.3798843,71.7202501,12z/data=!3m1!4b1!4m8!1m2!2m1!1sFergana!3m4!1s0x38bb83431937abc5:0xcfa4d876b34e7bbc!8m2!3d40.3732283!4d71.7977142",
+    "Latitude": "40.3732283",
+    "Longitude": "71.7977142"
   },
   {
     "Key": "Ferrara",
@@ -3186,6 +3282,24 @@
     "Longitude": "9.362171"
   },
   {
+    "Key": "Hammamet",
+    "Link": "https://www.google.com.ar/maps/place/Hammamet,+T%C3%BAnez/@36.4058188,10.6032228,14z/data=!3m1!4b1!4m5!3m4!1s0x12fd61fc0dac1583:0x8f1c841291df5ff!8m2!3d36.4072574!4d10.6224706",
+    "Latitude": "36.4072574",
+    "Longitude": "10.6224706"
+  },
+  {
+    "Key": "Hammam-Sousse",
+    "Link": "https://www.google.com.ar/maps/place/Hammam+Sousse,+T%C3%BAnez/@35.889997,10.5702493,14z/data=!3m1!4b1!4m5!3m4!1s0x12fd8bd329077df9:0x97960f09c97e2346!8m2!3d35.886399!4d10.5915072",
+    "Latitude": "35.886399",
+    "Longitude": "10.5915072"
+  },
+  {
+    "Key": "Hampi",
+    "Link": "https://www.google.com.ar/maps/place/Hampi,+Karnataka+583239,+India/@15.3332104,76.4545585,15z/data=!3m1!4b1!4m5!3m4!1s0x3bb77fd95d4be823:0x6e52e05076df36b8!8m2!3d15.3350132!4d76.460024",
+    "Latitude": "15.3350132",
+    "Longitude": "76.460024"
+  },
+  {
     "Key": "Hangzhou",
     "Link": "https://www.google.com/maps/place/Hangzhou,+Zhejiang,+China/@30.2610923,119.8916962,10z/data=!3m1!4b1!4m5!3m4!1s0x344bb629439aaa99:0xa7bfd183824de83a!8m2!3d30.274084!4d120.15507",
     "Latitude": "30.274084",
@@ -3400,6 +3514,12 @@
     "Link": "https://www.google.com/maps/place/Hunedoara,+Ruman%C3%ADa/@45.7631595,22.8726977,13z/data=!3m1!4b1!4m5!3m4!1s0x474e8a547396159f:0x19f38ced3c35233b!8m2!3d45.7678128!4d22.9072331",
     "Latitude": "45.7678128",
     "Longitude": "22.9072331"
+  },
+  {
+    "Key": "Hunsur",
+    "Link": "https://www.google.com.ar/maps/place/Hunsur,+Karnataka+571105,+India/@12.3105724,76.2714077,14z/data=!3m1!4b1!4m5!3m4!1s0x3ba5852336b9dca7:0xc55ee22e81c1122c!8m2!3d12.3090923!4d76.2832793",
+    "Latitude": "12.3090923",
+    "Longitude": "76.2832793"
   },
   {
     "Key": "Hurgada",
@@ -3810,6 +3930,12 @@
     "Longitude": "80.6337262"
   },
   {
+    "Key": "Karakol",
+    "Link": "https://www.google.com.ar/maps/place/Karakol,+Kirguist%C3%A1n/@42.4862603,78.3671947,13z/data=!3m1!4b1!4m5!3m4!1s0x38865b91e1f04c0b:0xeb5bfe3900e7ecfa!8m2!3d42.4782102!4d78.3955986",
+    "Latitude": "42.4782102",
+    "Longitude": "78.3955986"
+  },
+  {
     "Key": "Karaman",
     "Link": "https://www.google.com/maps/place/Karaman,+Karaman+Merkez%2FKaram%C3%A1n,+Turqu%C3%ADa/@37.1792853,33.1900425,13z/data=!3m1!4b1!4m5!3m4!1s0x14d98d6780ebefeb:0x31bde2e87bae26bc!8m2!3d37.181009!4d33.222243",
     "Latitude": "37.181009",
@@ -4002,6 +4128,12 @@
     "Longitude": "135.1956311"
   },
   {
+    "Key": "Kokand",
+    "Link": "https://www.google.com.ar/maps/place/Kokand,+Uzbekist%C3%A1n/@40.5342532,70.8609133,12z/data=!3m1!4b1!4m5!3m4!1s0x38baeeeb2e1c3e7f:0x816d723cc5842908!8m2!3d40.5341079!4d70.9309024",
+    "Latitude": "40.5341079",
+    "Longitude": "70.9309024"
+  },
+  {
     "Key": "Kom-Ombo",
     "Link": "https://www.google.com/maps/place/Kom+Ombo,+Markaz+Kom+Ombo,+Asu%C3%A1n,+Egipto/@24.4670215,32.9180929,14z/data=!3m1!4b1!4m5!3m4!1s0x14360f98f74bd505:0xee718ff8545f0926!8m2!3d24.4698032!4d32.9381321",
     "Latitude": "24.4698032",
@@ -4084,6 +4216,12 @@
     "Link": "https://www.google.com/maps/place/Kumarakom,+Kerala,+India/@9.610347,76.4038605,13z/data=!3m1!4b1!4m5!3m4!1s0x3b0881caaef0a8f7:0xc23075c3529e921!8m2!3d9.6175449!4d76.430095",
     "Latitude": "9.6175449",
     "Longitude": "76.430095"
+  },
+  {
+    "Key": "Kumbakonam",
+    "Link": "https://www.google.com.ar/maps/place/Kumbakonam,+Tamil+Nadu,+India/@10.9622546,79.3329615,13z/data=!3m1!4b1!4m5!3m4!1s0x3a5532b360353419:0x9ecb5d94413ad35!8m2!3d10.9601852!4d79.3844976",
+    "Latitude": "10.9601852",
+    "Longitude": "79.3844976"
   },
   {
     "Key": "Kurashiki",
@@ -4806,6 +4944,12 @@
     "Longitude": "-4.8824474"
   },
   {
+    "Key": "Marg-Ilon",
+    "Link": "https://www.google.com.ar/maps/place/Marg'ilon,+Uzbekist%C3%A1n/@40.4668239,71.6629152,12z/data=!3m1!4b1!4m5!3m4!1s0x38bb77c1512b5cd3:0xdbff3671b64d48b7!8m2!3d40.4801251!4d71.726659",
+    "Latitude": "40.4801251",
+    "Longitude": "71.726659"
+  },
+  {
     "Key": "Maria-Worth",
     "Link": "https://www.google.com.ar/maps/place/9082+Maria+W%C3%B6rth,+Austria/@46.6150157,14.1519845,15z/data=!3m1!4b1!4m5!3m4!1s0x47707702666c7d97:0x40097572de617d0!8m2!3d46.6150018!4d14.1607393",
     "Latitude": "46.6150018",
@@ -4846,6 +4990,12 @@
     "Link": "https://www.google.com/maps/place/91025+Marsala,+Trapani,+Italia/@37.8093832,12.3464927,11z/data=!3m1!4b1!4m5!3m4!1s0x131bc3210df016bd:0x860dca8d100255c7!8m2!3d37.7981074!4d12.4372236",
     "Latitude": "37.7981074",
     "Longitude": "12.4372236"
+  },
+  {
+    "Key": "Marsa-Matruh",
+    "Link": "https://www.google.com/maps/place/Marsa+Matruh,+Mersa+Matruh,+Matr%C3%BA,+Egipto/@31.3365602,27.1152474,11z/data=!3m1!4b1!4m5!3m4!1s0x1461f9330b3a3ebb:0x69c946b5ce3eeaf2!8m2!3d31.3543445!4d27.2373159",
+    "Latitude": "31.3543445",
+    "Longitude": "27.2373159"
   },
   {
     "Key": "Marsella",
@@ -4972,6 +5122,12 @@
     "Link": "https://www.google.com.ar/maps/place/Menfis,+Mit+Rahinah,+Al+Badrashin,+Giza+Governorate,+Egipto/@29.8280813,31.2038774,12.5z/data=!4m5!3m4!1s0x14584a1288a1eb7d:0x155b5589aa3ae89c!8m2!3d29.8444642!4d31.2506725",
     "Latitude": "29.8444642",
     "Longitude": "31.2506725"
+  },
+  {
+    "Key": "Menia",
+    "Link": "https://www.google.com.ar/maps/place/Menia,+Qism+Minya,+Minya,+Menia,+Egipto/@28.0952945,30.7156159,13z/data=!3m1!4b1!4m5!3m4!1s0x145b2501ca8ed45f:0x1682970743a18080!8m2!3d28.0870967!4d30.7618397",
+    "Latitude": "28.0870967",
+    "Longitude": "30.7618397"
   },
   {
     "Key": "Mequinez",
@@ -5220,6 +5376,12 @@
     "Longitude": "35.7252775"
   },
   {
+    "Key": "Monte-Popa",
+    "Link": "https://www.google.com.ar/maps/place/Monte+Popa/@20.9207465,95.2357956,14z/data=!3m1!4b1!4m5!3m4!1s0x30c9f73683f39311:0x5f494eb15f63368!8m2!3d20.9207077!4d95.2533481",
+    "Latitude": "20.9207077",
+    "Longitude": "95.2533481"
+  },
+  {
     "Key": "Montepulciano",
     "Link": "https://www.google.com.ar/maps/place/53045+Montepulciano,+Siena,+Italia/@43.0973373,11.7626212,13z/data=!4m5!3m4!1s0x13295c04abeab307:0xcfbd667e662d3f92!8m2!3d43.0986938!4d11.7872467",
     "Latitude": "43.0986938",
@@ -5400,6 +5562,12 @@
     "Longitude": "-1.1306544"
   },
   {
+    "Key": "Mysore",
+    "Link": "https://www.google.com.ar/maps/place/Mysore,+Karnataka,+India/@12.3108045,76.565478,12z/data=!3m1!4b1!4m5!3m4!1s0x3baf70381d572ef9:0x2b89ece8c0f8396d!8m2!3d12.2958104!4d76.6393805",
+    "Latitude": "12.2958104",
+    "Longitude": "76.6393805"
+  },
+  {
     "Key": "Naantali",
     "Link": "https://www.google.com/maps/place/Naantali,+Finlandia/@60.4116748,21.5263468,10z/data=!3m1!4b1!4m5!3m4!1s0x468b8490f5643a81:0x400b551554bb8e0!8m2!3d60.4660876!4d22.0250874",
     "Latitude": "60.4660876",
@@ -5560,6 +5728,12 @@
     "Link": "https://www.google.com/maps/place/Ngorongoro,+Tanzania/@-3.2416606,35.4803251,15z/data=!3m1!4b1!4m8!1m2!2m1!1sNgorongoro!3m4!1s0x18346c0561c5262f:0x481fa0d7de330ecf!8m2!3d-3.2415536!4d35.4878139",
     "Latitude": "-3.2415536",
     "Longitude": "35.4878139"
+  },
+  {
+    "Key": "Nha-Trang",
+    "Link": "https://www.google.com.ar/maps/place/Nha+Trang,+Kh%C3%A1nh+H%C3%B2a,+Vietnam/@12.25977,109.1060737,11z/data=!3m1!4b1!4m5!3m4!1s0x3170677811cc886f:0x5c4bbc0aa81edcb9!8m2!3d12.2387911!4d109.1967488",
+    "Latitude": "12.2387911",
+    "Longitude": "109.1967488"
   },
   {
     "Key": "Nicosia",
@@ -5832,6 +6006,12 @@
     "Longitude": "135.5022535"
   },
   {
+    "Key": "Osh",
+    "Link": "https://www.google.com.ar/maps/place/Osh,+Kirguist%C3%A1n/@40.520183,72.7728916,13z/data=!3m1!4b1!4m5!3m4!1s0x38bdac017f5a2e85:0xe0a3c61dc6f47b95!8m2!3d40.5139985!4d72.8160976",
+    "Latitude": "40.5139985",
+    "Longitude": "72.8160976"
+  },
+  {
     "Key": "Oslo",
     "Link": "https://www.google.com.ar/maps/place/Oslo,+Noruega/@59.8937806,10.6450355,11z/data=!3m1!4b1!4m5!3m4!1s0x46416e61f267f039:0x7e92605fd3231e9a!8m2!3d59.9138688!4d10.7522454",
     "Latitude": "59.9138688",
@@ -5994,6 +6174,12 @@
     "Longitude": "30.0202535"
   },
   {
+    "Key": "Parque-Nacional-De-Namib-Naukluft",
+    "Link": "https://www.google.com.ar/maps/place/Parque+nacional+de+Namib-Naukluft/@-24.7357161,12.1736812,6.25z/data=!4m13!1m7!3m6!1s0x1c74f8343ddbf5a1:0xda0fb83c1339ad83!2sDesierto+del+Namib!3b1!8m2!3d-24.2888714!4d15.2604813!3m4!1s0x1c726d8038cc6655:0xf6db45f529a1120e!8m2!3d-23.0847852!4d15.166626",
+    "Latitude": "-23.0847852",
+    "Longitude": "15.166626"
+  },
+  {
     "Key": "Pasargada",
     "Link": "https://www.google.com/maps/place/Pasargadae/@30.2035915,53.1547818,17z/data=!3m1!4b1!4m5!3m4!1s0x3fae7145ed3f8b91:0x1cb16745a13a1fe1!8m2!3d30.2035915!4d53.1569758",
     "Latitude": "30.2035915",
@@ -6082,6 +6268,12 @@
     "Link": "https://www.google.com/maps/place/Bergama,+Provincia+de+Esmirna,+Turqu%C3%ADa/@39.1137907,27.1570298,14z/data=!3m1!4b1!4m5!3m4!1s0x14b9f87a217c77d7:0x682b18b696cbe377!8m2!3d39.121449!4d27.179913",
     "Latitude": "39.12145",
     "Longitude": "27.1799126"
+  },
+  {
+    "Key": "Periyar-Nagar",
+    "Link": "https://www.google.com.ar/maps/place/Periyar+Nagar,+Kasturba+Nagar,+Chennai,+Tamil+Nadu+600074,+India/@12.9875171,80.1271835,18z/data=!3m1!4b1!4m8!1m2!2m1!1sPeriyar!3m4!1s0x3a5260765a9ffc5f:0xb813332cfa0fb82c!8m2!3d12.9877702!4d80.1282031",
+    "Latitude": "12.9877702",
+    "Longitude": "80.1282031"
   },
   {
     "Key": "Permet",
@@ -6426,6 +6618,12 @@
     "Longitude": "8.9017592"
   },
   {
+    "Key": "Puducherry",
+    "Link": "https://www.google.com.ar/maps/place/Puducherry,+India/@11.9363367,79.7959755,14z/data=!3m1!4b1!4m5!3m4!1s0x3a5361ab8e49cfcf:0xcc6bd326d2f0b04e!8m2!3d11.9415915!4d79.8083133",
+    "Latitude": "11.9415915",
+    "Longitude": "79.8083133"
+  },
+  {
     "Key": "Puebla",
     "Link": "https://www.google.com/maps/place/Puebla,+M%C3%A9xico/@19.3469898,-99.0214823,8z/data=!3m1!4b1!4m5!3m4!1s0x85cf8cb0ddc0a765:0xe25cae5bd60220ad!8m2!3d19.0412894!4d-98.2062013",
     "Latitude": "19.0412894",
@@ -6690,10 +6888,22 @@
     "Longitude": "98.9867286"
   },
   {
+    "Key": "Río-Moksha",
+    "Link": "https://www.google.com.ar/maps/place/R%C3%ADo+Moksha/@53.3740022,43.6222686,9z/data=!3m1!4b1!4m5!3m4!1s0x414127db5569ad6f:0x91e2464799ef49b4!8m2!3d53.3275698!4d43.9894145",
+    "Latitude": "53.3275698",
+    "Longitude": "43.9894145"
+  },
+  {
     "Key": "Riquewihr",
     "Link": "https://www.google.com/maps/place/68340+Riquewihr,+Francia/@48.1792606,7.1988315,12z/data=!3m1!4b1!4m5!3m4!1s0x47915e3028409b87:0x40a5fb99a393020!8m2!3d48.166158!4d7.299822",
     "Latitude": "48.166158",
     "Longitude": "7.299822"
+  },
+  {
+    "Key": "Rishikesh",
+    "Link": "https://www.google.com.ar/maps/place/Rishikesh,+Uttarakhand,+India/@30.0878086,78.2003972,12z/data=!3m1!4b1!4m5!3m4!1s0x39093e67cf93f111:0xcc78804a6f941bfe!8m2!3d30.0869281!4d78.2676116",
+    "Latitude": "30.0869281",
+    "Longitude": "78.2676116"
   },
   {
     "Key": "Rocamadour",
@@ -6808,6 +7018,12 @@
     "Link": "https://www.google.com/maps/place/Sagada,+Provincia+de+las+Monta%C3%B1as,+Filipinas/@17.1097201,120.8363886,12z/data=!3m1!4b1!4m5!3m4!1s0x338e2d19ab8773a3:0xaa2af22d2ba525d!8m2!3d17.0981353!4d120.907304",
     "Latitude": "17.0981353",
     "Longitude": "120.907304"
+  },
+  {
+    "Key": "Sagaing",
+    "Link": "https://www.google.com.ar/maps/place/Sagaing,+Myanmar+(Birmania)/@21.9179469,95.873778,12z/data=!3m1!4b1!4m5!3m4!1s0x30cb0e92aba4990b:0x744b30f33ebe70f2!8m2!3d21.9159702!4d95.9621106",
+    "Latitude": "21.9159702",
+    "Longitude": "95.9621106"
   },
   {
     "Key": "Sagres",
@@ -7108,6 +7324,12 @@
     "Link": "https://www.google.com/maps/place/Sao+Bento+of+the+Open+Door/@41.6921286,-8.2353547,12.75z/data=!4m8!1m2!2m1!1sS%C3%A3o+Bento+da+Porta+Aberta!3m4!1s0xd251ebeba58a9f1:0x8a626159c08ef6b6!8m2!3d41.6902161!4d-8.2033404",
     "Latitude": "41.6902161",
     "Longitude": "-8.203341"
+  },
+  {
+    "Key": "Sa-Pa",
+    "Link": "https://www.google.com.ar/maps/place/Sa+Pa,+Provincia+de+L%C3%A0o+Cai,+Vietnam/@22.3476867,103.7818331,13z/data=!3m1!4b1!4m5!3m4!1s0x36cd416833ee9ad5:0xe1f42da2bbc76727!8m2!3d22.3363608!4d103.8437852",
+    "Latitude": "22.3363608",
+    "Longitude": "103.8437852"
   },
   {
     "Key": "Sapporo",
@@ -7434,6 +7656,12 @@
     "Longitude": "10.6053754"
   },
   {
+    "Key": "Siwa",
+    "Link": "https://www.google.com/maps/place/Siwa,+Matr%C3%BA,+Egipto/@29.2058839,25.4918184,13z/data=!3m1!4b1!4m5!3m4!1s0x147aaface8f3a523:0x6f335df8f19a074d!8m2!3d29.2031708!4d25.5195451",
+    "Latitude": "29.2031708",
+    "Longitude": "25.5195451"
+  },
+  {
     "Key": "Skjolden",
     "Link": "https://www.google.com.ar/maps/place/6876+Skjolden,+Noruega/@61.4905254,7.5918219,15z/data=!3m1!4b1!4m5!3m4!1s0x4615be2ae091ea83:0xa06e83012bf173b2!8m2!3d61.4905159!4d7.6005767",
     "Latitude": "61.4905159",
@@ -7548,6 +7776,12 @@
     "Longitude": "8.8579556"
   },
   {
+    "Key": "Stepantsminda",
+    "Link": "https://www.google.com.ar/maps/place/Stepantsminda,+Georgia/@42.6647452,44.5787055,13z/data=!4m5!3m4!1s0x4045351b5859a157:0xf8d6751dcb058582!8m2!3d42.660268!4d44.641143",
+    "Latitude": "42.660268",
+    "Longitude": "44.641143"
+  },
+  {
     "Key": "Stirling",
     "Link": "https://www.google.com/maps/place/Stirling,+Reino+Unido/@56.1187003,-3.9747178,13z/data=!3m1!4b1!4m5!3m4!1s0x488857d73c437831:0xfbf01f3702d576ad!8m2!3d56.1165227!4d-3.9369029",
     "Latitude": "56.1165237",
@@ -7624,6 +7858,12 @@
     "Link": "https://www.google.com/maps/place/Sukhothai,+Mueang+Sukhothai+District,+Provincia+de+Sukhothai+64000,+Tailandia/@17.013159,99.8151917,15z/data=!3m1!4b1!4m5!3m4!1s0x30de55ce2948fb61:0x40346c5fa8bd370!8m2!3d17.0076429!4d99.8264435",
     "Latitude": "17.0076429",
     "Longitude": "99.8264435"
+  },
+  {
+    "Key": "Susa",
+    "Link": "https://www.google.com.ar/maps/place/Susa,+T%C3%BAnez/@35.828399,10.5829492,13z/data=!3m1!4b1!4m5!3m4!1s0x130275759ac9d10d:0x698e3915682cef7d!8m2!3d35.8245029!4d10.634584",
+    "Latitude": "35.8245029",
+    "Longitude": "10.634584"
   },
   {
     "Key": "Suwon",
@@ -7818,6 +8058,12 @@
     "Longitude": "20.9715269"
   },
   {
+    "Key": "Thanjavur",
+    "Link": "https://www.google.com.ar/maps/place/Thanjavur,+Tamil+Nadu,+India/@10.7529807,79.0612376,12z/data=!3m1!4b1!4m5!3m4!1s0x3baab89cea453039:0xe113da9b1f632be6!8m2!3d10.7869994!4d79.1378274",
+    "Latitude": "10.7869994",
+    "Longitude": "79.1378274"
+  },
+  {
     "Key": "Thurso",
     "Link": "https://www.google.com/maps/place/Thurso,+Reino+Unido/@58.5908614,-3.5418071,14z/data=!3m1!4b1!4m5!3m4!1s0x4890092d2a23b333:0xa84be448e11aaa47!8m2!3d58.593566!4d-3.52208",
     "Latitude": "58.593566",
@@ -7864,6 +8110,12 @@
     "Link": "https://www.google.com/maps/place/Tirana,+Albania/@41.3309769,19.7828036,13z/data=!3m1!4b1!4m5!3m4!1s0x1350310470fac5db:0x40092af10653720!8m2!3d41.3275459!4d19.8186982",
     "Latitude": "41.3275452",
     "Longitude": "19.8186989"
+  },
+  {
+    "Key": "Tiruchirappalli",
+    "Link": "https://www.google.com.ar/maps/place/Tiruchirappalli,+Tamil+Nadu,+India/@10.8160053,78.6188162,12z/data=!3m1!4b1!4m5!3m4!1s0x3baaf50ff2aecdad:0x6de02c3bedbbaea6!8m2!3d10.7904833!4d78.7046725",
+    "Latitude": "10.7904833",
+    "Longitude": "78.7046725"
   },
   {
     "Key": "Tlacotalpan",
@@ -8122,6 +8374,12 @@
     "Link": "https://www.google.com.ar/maps/place/Tver,+%C3%93blast+de+Tver,+Rusia/@56.8597424,35.7493864,11z/data=!3m1!4b1!4m5!3m4!1s0x46b687ab1d6c94f3:0xf42b3a95f433bc9c!8m2!3d56.8587214!4d35.9175965",
     "Latitude": "56.8587214",
     "Longitude": "35.9175965"
+  },
+  {
+    "Key": "Twyfelfontein",
+    "Link": "https://www.google.com.ar/maps/place/Twyfelfontein/@-20.596369,14.3384252,13z/data=!4m8!1m2!2m1!1sTWYFELFONTEIN!3m4!1s0x1b89294dd5e28e6b:0x616f2e2508e02543!8m2!3d-20.596369!4d14.3734441",
+    "Latitude": "-20.596369",
+    "Longitude": "14.3734441"
   },
   {
     "Key": "Uadi-Es-Sebua",
@@ -8512,6 +8770,12 @@
     "Link": "https://www.google.com/maps/place/Wakayama,+Prefectura+de+Wakayama,+Jap%C3%B3n/@34.2329946,135.0868344,12z/data=!3m1!4b1!4m5!3m4!1s0x6000b28519bc7e79:0x8fce76d4fd4f71ca!8m2!3d34.2303678!4d135.1707405",
     "Latitude": "34.2303678",
     "Longitude": "135.1707405"
+  },
+  {
+    "Key": "Walvis-Bay",
+    "Link": "https://www.google.com.ar/maps/place/Walvis+Bay,+Namibia/@-22.95393,14.4769231,13z/data=!3m1!4b1!4m13!1m7!3m6!1s0x1c76f0f9209f43ef:0x676b722189ba2c62!2sWalvis+Bay!3b1!8m2!3d-22.8776348!4d14.4956239!3m4!1s0x1c76ef00d003fbb1:0x7b2b78577c36fede!8m2!3d-22.9583933!4d14.5057297",
+    "Latitude": "-22.9583933",
+    "Longitude": "14.5057297"
   },
   {
     "Key": "Wanaka",

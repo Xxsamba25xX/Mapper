@@ -1277,6 +1277,18 @@
   },
   {
     "ProviderElement": {
+      "Key": "13841",
+      "Value": "Costa Nova"
+    },
+    "OurElements": [
+      {
+        "Key": "Costa-Nova",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
       "Key": "13845",
       "Value": "Pienza"
     },
@@ -4811,6 +4823,18 @@
     "OurElements": [
       {
         "Key": "Pompeya",
+        "Value": ""
+      }
+    ]
+  },
+  {
+    "ProviderElement": {
+      "Key": "9808",
+      "Value": "Tangier"
+    },
+    "OurElements": [
+      {
+        "Key": "Tanger",
         "Value": ""
       }
     ]
